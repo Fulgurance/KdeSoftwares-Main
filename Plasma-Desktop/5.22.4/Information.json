@@ -38,7 +38,7 @@
     {
       "name": "Mesa",
       "version": "21.2.1",
-      "options": ["Wayland"]
+      "options": ["Wayland-Protocols"]
     },
     {
       "name": "Qca",
