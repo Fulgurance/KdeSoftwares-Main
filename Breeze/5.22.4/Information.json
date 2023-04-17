@@ -1,0 +1,20 @@
+{
+  "port": "KdeSoftwares-Main",
+  "name": "Breeze",
+  "version": "5.22.4",
+  "architectures": ["x86_64"],
+  "description": "Artwork, styles and assets for the Breeze visual style for the Plasma Desktop",
+  "website": "https://invent.kde.org/plasma/breeze",
+  "downloadLinks": ["https://download.kde.org/stable/plasma/5.22.4/breeze-5.22.4.tar.xz"],
+  "md5sums": ["516a58571f6daeb60a2509057e67712b"],
+  "patchesLinks": [],
+  "installedFiles": [],
+  "dependencies": [
+    {
+      "name": "SystemBase",
+      "version": "0.2.0",
+      "options": []
+    }
+  ],
+  "options": []
+}

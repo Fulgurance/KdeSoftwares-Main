@@ -1,0 +1,20 @@
+{
+  "port": "KdeSoftwares-Main",
+  "name": "Plasma-Nm",
+  "version": "5.22.4",
+  "architectures": ["x86_64"],
+  "description": "Plasma applet written in QML for managing network connections",
+  "website": "https://invent.kde.org/plasma/plasma-nm",
+  "downloadLinks": ["https://download.kde.org/stable/plasma/5.22.4/plasma-nm-5.22.4.tar.xz"],
+  "md5sums": ["61c7fc4c00637715e8d0c4491298b5b7"],
+  "patchesLinks": [],
+  "installedFiles": [],
+  "dependencies": [
+    {
+      "name": "SystemBase",
+      "version": "0.2.0",
+      "options": []
+    }
+  ],
+  "options": []
+}

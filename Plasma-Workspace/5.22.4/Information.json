@@ -1,0 +1,20 @@
+{
+  "port": "KdeSoftwares-Main",
+  "name": "Plasma-Workspace",
+  "version": "5.22.4",
+  "architectures": ["x86_64"],
+  "description": "Various components needed to run a Plasma-based environment",
+  "website": "https://invent.kde.org/plasma/plasma-workspace",
+  "downloadLinks": ["https://download.kde.org/stable/plasma/5.22.4/plasma-workspace-5.22.4.tar.xz"],
+  "md5sums": ["5cb1ab2a9d3ce0c05eba07ef4c8ac478"],
+  "patchesLinks": [],
+  "installedFiles": [],
+  "dependencies": [
+    {
+      "name": "SystemBase",
+      "version": "0.2.0",
+      "options": []
+    }
+  ],
+  "options": []
+}

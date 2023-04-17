@@ -1,0 +1,20 @@
+{
+  "port": "KdeSoftwares-Main",
+  "name": "Khotkeys",
+  "version": "5.22.4",
+  "architectures": ["x86_64"],
+  "description": "Trigger actions when certain keys are pressed",
+  "website": "https://invent.kde.org/plasma/khotkeys",
+  "downloadLinks": ["https://download.kde.org/stable/plasma/5.22.4/khotkeys-5.22.4.tar.xz"],
+  "md5sums": ["8f2f4b902c98d7890dc1ec3756c27871"],
+  "patchesLinks": [],
+  "installedFiles": [],
+  "dependencies": [
+    {
+      "name": "SystemBase",
+      "version": "0.2.0",
+      "options": []
+    }
+  ],
+  "options": []
+}

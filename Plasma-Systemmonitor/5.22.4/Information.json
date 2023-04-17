@@ -1,0 +1,20 @@
+{
+  "port": "KdeSoftwares-Main",
+  "name": "Plasma-Systemmonitor",
+  "version": "5.22.4",
+  "architectures": ["x86_64"],
+  "description": "An interface for monitoring system sensors, process information and other system resources",
+  "website": "https://invent.kde.org/plasma/plasma-systemmonitor",
+  "downloadLinks": ["https://download.kde.org/stable/plasma/5.22.4/plasma-systemmonitor-5.22.4.tar.xz"],
+  "md5sums": ["026a4d3cd063ba86e77c9ffa711aa769"],
+  "patchesLinks": [],
+  "installedFiles": [],
+  "dependencies": [
+    {
+      "name": "SystemBase",
+      "version": "0.2.0",
+      "options": []
+    }
+  ],
+  "options": []
+}

@@ -1,0 +1,20 @@
+{
+  "port": "KdeSoftwares-Main",
+  "name": "Kinfocenter",
+  "version": "5.22.4",
+  "architectures": ["x86_64"],
+  "description": "View information about your computer's hardware",
+  "website": "https://invent.kde.org/plasma/kinfocenter",
+  "downloadLinks": ["https://download.kde.org/stable/plasma/5.22.4/kinfocenter-5.22.4.tar.xz"],
+  "md5sums": ["916bfa4ce6b40ca8ef80b75018d63ab1"],
+  "patchesLinks": [],
+  "installedFiles": [],
+  "dependencies": [
+    {
+      "name": "SystemBase",
+      "version": "0.2.0",
+      "options": []
+    }
+  ],
+  "options": []
+}

@@ -1,0 +1,20 @@
+{
+  "port": "KdeSoftwares-Main",
+  "name": "Layer-Shell-Qt",
+  "version": "5.22.4",
+  "architectures": ["x86_64"],
+  "description": "Qt component to allow applications to make use of the Wayland wl-layer-shell protocol",
+  "website": "https://invent.kde.org/plasma/layer-shell-qt",
+  "downloadLinks": ["https://download.kde.org/stable/plasma/5.22.4/layer-shell-qt-5.22.4.tar.xz"],
+  "md5sums": ["049dabd694abed120b4f84d37f05de8c"],
+  "patchesLinks": [],
+  "installedFiles": [],
+  "dependencies": [
+    {
+      "name": "SystemBase",
+      "version": "0.2.0",
+      "options": []
+    }
+  ],
+  "options": []
+}

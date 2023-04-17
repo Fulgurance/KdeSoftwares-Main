@@ -1,0 +1,20 @@
+{
+  "port": "KdeSoftwares-Main",
+  "name": "Plymouth-Kcm",
+  "version": "5.22.4",
+  "architectures": ["x86_64"],
+  "description": "KCM to manage the Plymouth (Boot) theme",
+  "website": "https://invent.kde.org/plasma/plymouth-kcm",
+  "downloadLinks": ["https://download.kde.org/stable/plasma/5.22.4/plymouth-kcm-5.22.4.tar.xz"],
+  "md5sums": ["442fd33f46a982eeeb925fd6f7d919b1"],
+  "patchesLinks": [],
+  "installedFiles": [],
+  "dependencies": [
+    {
+      "name": "SystemBase",
+      "version": "0.2.0",
+      "options": []
+    }
+  ],
+  "options": []
+}

@@ -1,0 +1,20 @@
+{
+  "port": "KdeSoftwares-Main",
+  "name": "Milou",
+  "version": "5.22.4",
+  "architectures": ["x86_64"],
+  "description": "A dedicated search application built on top of Baloo",
+  "website": "https://invent.kde.org/plasma/milou",
+  "downloadLinks": ["https://download.kde.org/stable/plasma/5.22.4/milou-5.22.4.tar.xz"],
+  "md5sums": ["6d85652d5fa13953370bc4f37247e3b4"],
+  "patchesLinks": [],
+  "installedFiles": [],
+  "dependencies": [
+    {
+      "name": "SystemBase",
+      "version": "0.2.0",
+      "options": []
+    }
+  ],
+  "options": []
+}

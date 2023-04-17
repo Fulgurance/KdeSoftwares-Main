@@ -1,0 +1,20 @@
+{
+  "port": "KdeSoftwares-Main",
+  "name": "Kde-Cli-Tools",
+  "version": "5.22.4",
+  "architectures": ["x86_64"],
+  "description": "Tools based on KDE Frameworks 5 to better interact with the system",
+  "website": "https://invent.kde.org/plasma/kde-cli-tools",
+  "downloadLinks": ["https://download.kde.org/stable/plasma/5.22.4/kde-cli-tools-5.22.4.tar.xz"],
+  "md5sums": ["257e25f2388014932ecf786dd9e49bd5"],
+  "patchesLinks": [],
+  "installedFiles": [],
+  "dependencies": [
+    {
+      "name": "SystemBase",
+      "version": "0.2.0",
+      "options": []
+    }
+  ],
+  "options": []
+}

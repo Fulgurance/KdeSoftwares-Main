@@ -1,0 +1,20 @@
+{
+  "port": "KdeSoftwares-Main",
+  "name": "Libkscreen",
+  "version": "5.22.4",
+  "architectures": ["x86_64"],
+  "description": "KDE's screen management software",
+  "website": "https://invent.kde.org/plasma/libkscreen",
+  "downloadLinks": ["https://download.kde.org/stable/plasma/5.22.4/libkscreen-5.22.4.tar.xz"],
+  "md5sums": ["a587fecf0473c225f39a7f8a7c611d3b"],
+  "patchesLinks": [],
+  "installedFiles": [],
+  "dependencies": [
+    {
+      "name": "SystemBase",
+      "version": "0.2.0",
+      "options": []
+    }
+  ],
+  "options": []
+}

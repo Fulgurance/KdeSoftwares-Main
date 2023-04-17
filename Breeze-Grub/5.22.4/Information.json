@@ -1,0 +1,20 @@
+{
+  "port": "KdeSoftwares-Main",
+  "name": "Breeze-Grub",
+  "version": "5.22.4",
+  "architectures": ["x86_64"],
+  "description": "GRUB theme for the Breeze visual style for the Plasma Desktop",
+  "website": "https://invent.kde.org/plasma/breeze-grub",
+  "downloadLinks": ["https://download.kde.org/stable/plasma/5.22.4/breeze-grub-5.22.4.tar.xz"],
+  "md5sums": ["9abba589089c1088e1836cabe9e593f6"],
+  "patchesLinks": [],
+  "installedFiles": [],
+  "dependencies": [
+    {
+      "name": "SystemBase",
+      "version": "0.2.0",
+      "options": []
+    }
+  ],
+  "options": []
+}

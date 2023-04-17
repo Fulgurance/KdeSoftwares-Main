@@ -1,0 +1,20 @@
+{
+  "port": "KdeSoftwares-Main",
+  "name": "Xdg-Desktop-Portal-Kde",
+  "version": "5.22.4",
+  "architectures": ["x86_64"],
+  "description": "A backend implementation for xdg-desktop-portal that is using Qt/KDE",
+  "website": "https://invent.kde.org/plasma/xdg-desktop-portal-kde",
+  "downloadLinks": ["https://download.kde.org/stable/plasma/5.22.4/xdg-desktop-portal-kde-5.22.4.tar.xz"],
+  "md5sums": ["900994c0628b8b3767c83db0b4f16e0c"],
+  "patchesLinks": [],
+  "installedFiles": [],
+  "dependencies": [
+    {
+      "name": "SystemBase",
+      "version": "0.2.0",
+      "options": []
+    }
+  ],
+  "options": []
+}

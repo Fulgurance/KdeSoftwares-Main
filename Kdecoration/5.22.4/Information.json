@@ -1,0 +1,20 @@
+{
+  "port": "KdeSoftwares-Main",
+  "name": "Kdecoration",
+  "version": "5.22.4",
+  "architectures": ["x86_64"],
+  "description": "Plugin based library to create window decorations",
+  "website": "https://api.kde.org/plasma/kdecoration/html/index.html",
+  "downloadLinks": ["https://download.kde.org/stable/plasma/5.22.4/kdecoration-5.22.4.tar.xz"],
+  "md5sums": ["7fab69fa5fc3211b35e3d03f1172831a"],
+  "patchesLinks": [],
+  "installedFiles": [],
+  "dependencies": [
+    {
+      "name": "SystemBase",
+      "version": "0.2.0",
+      "options": []
+    }
+  ],
+  "options": []
+}
