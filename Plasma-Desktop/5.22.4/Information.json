@@ -226,5 +226,72 @@
       "options": []
     }
   ],
-  "options": []
+  "options": [
+    {
+      "name": "Linux-Pam",
+      "description": "Enable linux-pam support",
+      "active": true,
+      "dependencies": [
+        {
+          "name": "Linux-Pam",
+          "version": "1.5.1",
+          "options": []
+        }
+      ],
+      "downloadLinks": [],
+      "md5sums": []
+    },
+    {
+      "name": "Bluedevil",
+      "description": "Enable bluedevil support",
+      "active": true,
+      "dependencies": [
+        {
+          "name": "Bluedevil",
+          "version": "5.22.4",
+          "options": []
+        }
+      ],
+      "downloadLinks": [],
+      "md5sums": []
+    },
+    {
+      "name": "NetworkManager",
+      "description": "Enable networkmanager support",
+      "active": true,
+      "dependencies": [
+        {
+          "name": "NetworkManager",
+          "version": "1.32.10",
+          "options": []
+        },
+        {
+          "name": "Plasma-Nm",
+          "version": "5.22.4",
+          "options": []
+        }
+      ],
+      "downloadLinks": [],
+      "md5sums": []
+    },
+    {
+      "name": "Pulseaudio",
+      "description": "Enable pulseaudio support",
+      "active": true,
+      "dependencies": [
+        {
+          "name": "Pulseaudio",
+          "version": "15.0.0",
+          "options": []
+        },
+        {
+          "name": "Plasma-Pa",
+          "version": "5.22.4",
+          "options": []
+        }
+      ],
+      "downloadLinks": [],
+      "md5sums": []
+    }
+  ]
 }
