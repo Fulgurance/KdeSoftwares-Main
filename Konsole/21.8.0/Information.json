@@ -1,0 +1,20 @@
+{
+  "port": "KdeSoftwares-Main",
+  "name": "Konsole",
+  "version": "21.8.0",
+  "architectures": ["x86_64"],
+  "description": "KDE's Terminal Emulator",
+  "website": "https://konsole.kde.org/",
+  "downloadLinks": ["https://download.kde.org/stable/release-service/21.08.0/src/konsole-21.08.0.tar.xz"],
+  "md5sums": ["220c82eb5827952034aa4ad2924685c6"],
+  "patchesLinks": ["https://www.linuxfromscratch.org/patches/blfs/11.0/konsole-21.08.0-scrollbar-1.patch"],
+  "installedFiles": [],
+  "dependencies": [
+    {
+      "name": "Kde-Frameworks",
+      "version": "5.85.0",
+      "options": []
+    }
+  ],
+  "options": []
+}
