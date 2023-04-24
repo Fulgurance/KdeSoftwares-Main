@@ -275,6 +275,25 @@
       "md5sums": []
     },
     {
+      "name": "ModemManager",
+      "description": "Enable modemmanager support",
+      "active": true,
+      "dependencies": [
+        {
+          "name": "ModemManager",
+          "version": "5.22.4",
+          "options": []
+        },
+        {
+          "name": "ModemManager-Qt",
+          "version": "5.85.0",
+          "options": []
+        }
+      ],
+      "downloadLinks": [],
+      "md5sums": []
+    },
+    {
       "name": "Pulseaudio",
       "description": "Enable pulseaudio support",
       "active": true,
