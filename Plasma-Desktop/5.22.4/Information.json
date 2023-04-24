@@ -274,7 +274,7 @@
           "name": "NetworkManager-Qt",
           "version": "5.85.0",
           "options": []
-        },
+        }
       ],
       "downloadLinks": [],
       "md5sums": []
