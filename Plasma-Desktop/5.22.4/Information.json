@@ -261,11 +261,6 @@
       "active": true,
       "dependencies": [
         {
-          "name": "NetworkManager",
-          "version": "1.32.10",
-          "options": []
-        },
-        {
           "name": "Plasma-Nm",
           "version": "5.22.4",
           "options": []
