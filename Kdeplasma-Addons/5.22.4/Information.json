@@ -5,8 +5,8 @@
   "architectures": ["x86_64"],
   "description": "All kind of add-ons to improve your Plasma experience",
   "website": "https://invent.kde.org/plasma/kdeplasma-addons",
-  "downloadLinks": ["https://download.kde.org/stable/plasma/5.22.4/kdeplasma-addons-5.22.4.tar.xz"],
-  "md5sums": ["9c393f6da042841ed8cf41f9ad126b5c"],
+  "downloadLinks": ["https://github.com/KDE/kdeplasma-addons/archive/refs/tags/v5.22.4.tar.gz"],
+  "md5sums": ["2d3f7990b5abd8ae332688f53d3b68dc"],
   "patchesLinks": [],
   "installedFiles": [],
   "dependencies": [
