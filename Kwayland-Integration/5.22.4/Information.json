@@ -5,8 +5,8 @@
   "architectures": ["x86_64"],
   "description": "Integration plugins for various KDE frameworks for the Wayland windowing system",
   "website": "https://invent.kde.org/plasma/kwayland-integration",
-  "downloadLinks": ["https://download.kde.org/stable/plasma/5.22.4/kwayland-integration-5.22.4.tar.xz"],
-  "md5sums": ["fa9772ef7737037992aea52739aea95a"],
+  "downloadLinks": ["https://github.com/KDE/kwayland-integration/archive/refs/tags/v5.22.4.tar.gz"],
+  "md5sums": ["6a596048b78e6bc3c7bf0cc9136e8b90"],
   "patchesLinks": [],
   "installedFiles": [],
   "dependencies": [
