@@ -14,6 +14,11 @@
       "name": "Kde-Frameworks",
       "version": "5.85.0",
       "options": []
+    },
+    {
+      "name": "Polkit-Qt-1",
+      "version": "0.114.0",
+      "options": []
     }
   ],
   "options": []
