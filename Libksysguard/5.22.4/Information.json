@@ -14,6 +14,11 @@
       "name": "Kde-Frameworks",
       "version": "5.85.0",
       "options": []
+    },
+    {
+      "name": "Libnl",
+      "version": "3.5.0",
+      "options": []
     }
   ],
   "options": []
