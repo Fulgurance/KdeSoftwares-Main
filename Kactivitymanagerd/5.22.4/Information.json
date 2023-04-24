@@ -5,8 +5,8 @@
   "architectures": ["x86_64"],
   "description": "System service to manage user's activities, track the usage patterns etc",
   "website": "https://invent.kde.org/plasma/kactivitymanagerd",
-  "downloadLinks": ["https://download.kde.org/stable/plasma/5.22.4/kactivitymanagerd-5.22.4.tar.xz"],
-  "md5sums": ["7aef306ec8c2131f0fa22d2b558f73fb"],
+  "downloadLinks": ["https://github.com/KDE/kactivitymanagerd/archive/refs/tags/v5.22.4.tar.gz"],
+  "md5sums": ["046c12a2d7156a9a2ce23c8087f4076a"],
   "patchesLinks": [],
   "installedFiles": [],
   "dependencies": [
