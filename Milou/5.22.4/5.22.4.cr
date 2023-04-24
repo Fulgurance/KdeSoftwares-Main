@@ -1,5 +1,11 @@
 class Target < ISM::Software
 
+    def extract
+        super
+
+        moveFile("#{workDirectoryPath(false)}/milou-5.22.4","#{workDirectoryPath(false)}/v5.22.4")
+    end
+
     def prepare
         @buildDirectory = true
         super

@@ -5,8 +5,8 @@
   "architectures": ["x86_64"],
   "description": "A dedicated search application built on top of Baloo",
   "website": "https://invent.kde.org/plasma/milou",
-  "downloadLinks": ["https://download.kde.org/stable/plasma/5.22.4/milou-5.22.4.tar.xz"],
-  "md5sums": ["6d85652d5fa13953370bc4f37247e3b4"],
+  "downloadLinks": ["https://github.com/KDE/milou/archive/refs/tags/v5.22.4.tar.gz"],
+  "md5sums": ["0206a80c758847498ca215183b2dcf6f"],
   "patchesLinks": [],
   "installedFiles": [],
   "dependencies": [
