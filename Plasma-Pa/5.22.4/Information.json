@@ -14,6 +14,11 @@
       "name": "Kde-Frameworks",
       "version": "5.85.0",
       "options": []
+    },
+    {
+      "name": "Libcanberra",
+      "version": "0.30.0",
+      "options": []
     }
   ],
   "options": []
