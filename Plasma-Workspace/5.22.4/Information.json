@@ -19,6 +19,11 @@
       "name": "Libksysguard",
       "version": "5.22.4",
       "options": []
+    },
+    {
+      "name": "Kwin",
+      "version": "5.22.4",
+      "options": []
     }
   ],
   "options": []
