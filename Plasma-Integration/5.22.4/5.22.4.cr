@@ -10,7 +10,7 @@ class Target < ISM::Software
 
         runCmakeCommand([   "-DCMAKE_INSTALL_PREFIX=/opt/kf5",
                             "-DQt5ThemeSupport_LIBRARY=/opt/qt5/lib",
-                            "-DQt5ThemeSupport_INCLUDE_DIR=/opt/qt5/include"
+                            "-DQt5ThemeSupport_INCLUDE_DIR=/opt/qt5/include",
                             "-DCMAKE_BUILD_TYPE=Release",
                             "-DBUILD_TESTING=OFF",
                             "-Wno-dev",
