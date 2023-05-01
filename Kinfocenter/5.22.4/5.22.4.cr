@@ -26,6 +26,12 @@ class Target < ISM::Software
         super
 
         makeSource(["DESTDIR=#{builtSoftwareDirectoryPath}#{Ism.settings.rootPath}","install"],buildDirectoryPath)
+
+        kcmAboutDistrorcData = <<-CODE
+        [General]
+        Name=#{Ism.settings.systemName}
+        CODE
+        fileUpdateContent("#{builtSoftwareDirectoryPath}#{Ism.settings.rootPath}etc/xdg/kcm-about-distrorc",kcmAboutDistrorcData)
     end
 
     def install
