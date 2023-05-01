@@ -13,6 +13,7 @@ class Target < ISM::Software
                             "-DBUILD_TESTING=OFF",
                             "-Wno-dev",
                             "-DQt5Widgets_DIR=/opt/qt5/lib/cmake/Qt5Xml",
+                            "-DKF5XmlGui_DIR=/opt/kf5/lib/cmake/KF5XmlGui",
                             ".."],
                             buildDirectoryPath)
     end
