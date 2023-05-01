@@ -14,7 +14,7 @@ class Target < ISM::Software
                             "-Wno-dev",
                             "-DQt5Xml_DIR=/opt/qt5/lib/cmake/Qt5Xml",
                             "-DKF5XmlGui_DIR=/opt/kf5/lib/cmake/KF5XmlGui",
-                            "-DKF5Parts_DIR=/opt/kf5/lib/cmake/KF5Parts"
+                            "-DKF5Parts_DIR=/opt/kf5/lib/cmake/KF5Parts",
                             ".."],
                             buildDirectoryPath)
     end
