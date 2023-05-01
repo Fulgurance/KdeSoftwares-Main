@@ -12,6 +12,7 @@ class Target < ISM::Software
                             "-DCMAKE_BUILD_TYPE=Release",
                             "-DBUILD_TESTING=OFF",
                             "-Wno-dev",
+                            "-DQt5Widgets_DIR=/opt/qt5/lib/cmake/Qt5Xml",
                             ".."],
                             buildDirectoryPath)
     end
