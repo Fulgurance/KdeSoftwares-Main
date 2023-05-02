@@ -16,6 +16,7 @@ class Target < ISM::Software
                             "-DQt5Network_DIR=/opt/qt5/lib/cmake/Qt5Network",
                             "-DQt5Concurrent_DIR=/opt/qt5/lib/cmake/Qt5Concurrent",
                             "-DQt5Quick_DIR=/opt/qt5/lib/cmake/Qt5Quick",
+                            "-DQT_INSTALL_BINS=/opt/qt5/bin",
                             "-Wno-dev",
                             ".."],
                             buildDirectoryPath)
