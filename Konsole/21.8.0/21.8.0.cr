@@ -12,12 +12,6 @@ class Target < ISM::Software
                             "-DCMAKE_BUILD_TYPE=Release",
                             "-DBUILD_TESTING=OFF",
                             "-Wno-dev",
-                            "-DQt5Xml_DIR=/opt/qt5/lib/cmake/Qt5Xml",
-                            "-DQt5Network_DIR=/opt/qt5/lib/cmake/Qt5Network",
-                            "-DQt5Concurrent_DIR=/opt/qt5/lib/cmake/Qt5Concurrent",
-                            "-DKF5XmlGui_DIR=/opt/kf5/lib/cmake/KF5XmlGui",
-                            "-DKF5Parts_DIR=/opt/kf5/lib/cmake/KF5Parts",
-                            "-DKF5KIO_DIR=/opt/kf5/lib/cmake/KF5KIO",
                             ".."],
                             buildDirectoryPath)
     end
