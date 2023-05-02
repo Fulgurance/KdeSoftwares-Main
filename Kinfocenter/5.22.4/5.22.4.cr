@@ -11,6 +11,7 @@ class Target < ISM::Software
         runCmakeCommand([   "-DCMAKE_INSTALL_PREFIX=/opt/kf5",
                             "-DCMAKE_BUILD_TYPE=Release",
                             "-DBUILD_TESTING=OFF",
+                            "-DQt5Xml_DIR=/opt/qt5/lib/cmake/Qt5Xml",
                             "-Wno-dev",
                             ".."],
                             buildDirectoryPath)
