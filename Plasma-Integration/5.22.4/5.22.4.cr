@@ -9,9 +9,6 @@ class Target < ISM::Software
         super
 
         runCmakeCommand([   "-DCMAKE_INSTALL_PREFIX=/usr",
-                            "-DQt5ThemeSupport_LIBRARY=/opt/qt5/lib/libQt5ThemeSupport.a",
-                            "-DQt5ThemeSupport_INCLUDE_DIR=/opt/qt5/include/QtThemeSupport/5.15.2",
-                            "-DQt5DBus_DIR=/opt/qt5/lib/cmake/Qt5DBus",
                             "-DCMAKE_BUILD_TYPE=Release",
                             "-DBUILD_TESTING=OFF",
                             "-Wno-dev",
