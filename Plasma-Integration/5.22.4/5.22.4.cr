@@ -11,6 +11,7 @@ class Target < ISM::Software
         runCmakeCommand([   "-DCMAKE_INSTALL_PREFIX=/usr",
                             "-DCMAKE_BUILD_TYPE=Release",
                             "-DBUILD_TESTING=OFF",
+                            "-DQt5ThemeSupport_INCLUDE_DIR=/usr/include/qt5/QtThemeSupport/5.15.2",
                             "-Wno-dev",
                             ".."],
                             buildDirectoryPath)
