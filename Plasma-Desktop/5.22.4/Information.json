@@ -234,7 +234,7 @@
           "version": "1.5.1",
           "options": []
         }
-      ],
+      ]
     },
     {
       "name": "Bluedevil",
@@ -246,7 +246,7 @@
           "version": "5.22.4",
           "options": []
         }
-      ],
+      ]
     },
     {
       "name": "NetworkManager",
@@ -263,7 +263,7 @@
           "version": "5.85.0",
           "options": []
         }
-      ],
+      ]
     },
     {
       "name": "ModemManager",
@@ -275,7 +275,7 @@
           "version": "5.85.0",
           "options": []
         }
-      ],
+      ]
     },
     {
       "name": "Pulseaudio",
@@ -292,7 +292,7 @@
           "version": "5.22.4",
           "options": []
         }
-      ],
+      ]
     },
     {
       "name": "Sddm",
@@ -309,7 +309,7 @@
           "version": "5.22.4",
           "options": []
         }
-      ],
+      ]
     }
   ]
 }

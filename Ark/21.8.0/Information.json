@@ -29,7 +29,7 @@
           "version": "2.13.0",
           "options": []
         }
-      ],
+      ]
     },
     {
       "name": "P7zip",
@@ -41,7 +41,7 @@
           "version": "17.4.0",
           "options": []
         }
-      ],
+      ]
     },
     {
       "name": "Unrar",
@@ -53,7 +53,7 @@
           "version": "6.0.7",
           "options": []
         }
-      ],
+      ]
     },
     {
       "name": "Unzip",
@@ -65,7 +65,7 @@
           "version": "6.0.0",
           "options": []
         }
-      ],
+      ]
     },
     {
       "name": "Zip",
@@ -77,7 +77,7 @@
           "version": "3.0.0",
           "options": []
         }
-      ],
+      ]
     }
   ]
 }
