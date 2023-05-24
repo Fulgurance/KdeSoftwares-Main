@@ -5,9 +5,6 @@
   "architectures": ["x86_64"],
   "description": "Applications useful for Plasma development",
   "website": "https://invent.kde.org/plasma/plasma-sdk",
-  "downloadLinks": ["https://download.kde.org/stable/plasma/5.22.4/plasma-sdk-5.22.4.tar.xz"],
-  "md5sums": ["ba59a194b4812db25022c189e129151f"],
-  "patchesLinks": [],
   "installedFiles": [],
   "dependencies": [
     {

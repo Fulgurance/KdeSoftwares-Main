@@ -5,9 +5,6 @@
   "architectures": ["x86_64"],
   "description": "Library and components for secure lock screen architecture",
   "website": "https://invent.kde.org/plasma/kscreenlocker",
-  "downloadLinks": ["https://download.kde.org/stable/plasma/5.22.4/kscreenlocker-5.22.4.tar.xz"],
-  "md5sums": ["17af84caeb942de9a8e3d819f20645b0"],
-  "patchesLinks": [],
   "installedFiles": [],
   "dependencies": [
     {

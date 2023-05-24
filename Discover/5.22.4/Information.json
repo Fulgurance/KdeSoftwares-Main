@@ -5,9 +5,6 @@
   "architectures": ["x86_64"],
   "description": "KDE and Plasma resources management GUI",
   "website": "https://invent.kde.org/plasma/discover",
-  "downloadLinks": ["https://download.kde.org/stable/plasma/5.22.4/discover-5.22.4.tar.xz"],
-  "md5sums": ["a81e62bd36f3db28712274da80ed52a4"],
-  "patchesLinks": [],
   "installedFiles": [],
   "dependencies": [
     {

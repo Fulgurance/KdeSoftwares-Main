@@ -5,9 +5,6 @@
   "architectures": ["x86_64"],
   "description": "PAM Integration with KWallet adn unlock KWallet when you login",
   "website": "https://invent.kde.org/plasma/kwallet-pam",
-  "downloadLinks": ["https://github.com/KDE/kwallet-pam/archive/refs/tags/v5.22.4.tar.gz"],
-  "md5sums": ["4c9a9998be8bcdf9a0696ff8c89e9d10"],
-  "patchesLinks": [],
   "installedFiles": [],
   "dependencies": [
     {

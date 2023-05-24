@@ -5,9 +5,6 @@
   "architectures": ["x86_64"],
   "description": "Menu Editor for Plasma Workspaces",
   "website": "https://invent.kde.org/plasma/kmenuedit",
-  "downloadLinks": ["https://github.com/KDE/kmenuedit/archive/refs/tags/v5.22.4.tar.gz"],
-  "md5sums": ["e3d13f06024c4f88e4b4924d716645df"],
-  "patchesLinks": [],
   "installedFiles": [],
   "dependencies": [
     {

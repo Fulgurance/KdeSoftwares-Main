@@ -5,9 +5,6 @@
   "architectures": ["x86_64"],
   "description": "Wallpapers for Plasma Workspaces",
   "website": "https://invent.kde.org/plasma/plasma-workspace-wallpapers",
-  "downloadLinks": ["https://github.com/KDE/plasma-workspace-wallpapers/archive/refs/tags/v5.22.4.tar.gz"],
-  "md5sums": ["58fcd3bcc0a29b44a5c5bb5746fcb480"],
-  "patchesLinks": [],
   "installedFiles": [],
   "dependencies": [
     {

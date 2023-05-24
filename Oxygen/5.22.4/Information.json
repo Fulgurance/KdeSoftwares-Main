@@ -5,9 +5,6 @@
   "architectures": ["x86_64"],
   "description": "The Oxygen Style for Qt/KDE Applications",
   "website": "https://invent.kde.org/plasma/oxygen",
-  "downloadLinks": ["https://download.kde.org/stable/plasma/5.22.4/oxygen-5.22.4.tar.xz"],
-  "md5sums": ["ffe09b47f6cc20d13ec311edeb13a9b3"],
-  "patchesLinks": [],
   "installedFiles": [],
   "dependencies": [
     {

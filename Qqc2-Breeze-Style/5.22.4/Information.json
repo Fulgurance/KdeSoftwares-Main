@@ -5,9 +5,6 @@
   "architectures": ["x86_64"],
   "description": "Breeze inspired QQC2 Style",
   "website": "https://invent.kde.org/plasma/qqc2-breeze-style",
-  "downloadLinks": ["https://download.kde.org/stable/plasma/5.22.4/qqc2-breeze-style-5.22.4.tar.xz"],
-  "md5sums": ["0d72d2e9f5d6a3975068e1a472ce9982"],
-  "patchesLinks": [],
   "installedFiles": [],
   "dependencies": [
     {

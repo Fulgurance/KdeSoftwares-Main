@@ -5,9 +5,6 @@
   "architectures": ["x86_64"],
   "description": "Syncs KDE settings to GTK applications",
   "website": "https://invent.kde.org/plasma/kde-gtk-config",
-  "downloadLinks": ["https://download.kde.org/stable/plasma/5.22.4/kde-gtk-config-5.22.4.tar.xz"],
-  "md5sums": ["2515439a0daaf325b0fcf9ce1a537660"],
-  "patchesLinks": [],
   "installedFiles": [],
   "dependencies": [
     {

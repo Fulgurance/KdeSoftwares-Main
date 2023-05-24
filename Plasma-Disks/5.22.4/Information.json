@@ -5,9 +5,6 @@
   "architectures": ["x86_64"],
   "description": "Monitors S.M.A.R.T. capable devices for imminent failure",
   "website": "https://invent.kde.org/plasma/plasma-disks",
-  "downloadLinks": ["https://download.kde.org/stable/plasma/5.22.4/plasma-disks-5.22.4.tar.xz"],
-  "md5sums": ["75dd5e0fed93781f0ae031a091dcce4b"],
-  "patchesLinks": [],
   "installedFiles": [],
   "dependencies": [
     {

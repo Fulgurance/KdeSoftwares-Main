@@ -5,9 +5,6 @@
   "architectures": ["x86_64"],
   "description": "A plugin based system monitoring daemon",
   "website": "https://invent.kde.org/plasma/ksystemstats",
-  "downloadLinks": ["https://download.kde.org/stable/plasma/5.22.4/ksystemstats-5.22.4.tar.xz"],
-  "md5sums": ["171c556167b17fd2b16783015c3f8ae6"],
-  "patchesLinks": [],
   "installedFiles": [],
   "dependencies": [
     {

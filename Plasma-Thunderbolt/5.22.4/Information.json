@@ -5,9 +5,6 @@
   "architectures": ["x86_64"],
   "description": "Plasma integration for controlling Thunderbolt devices",
   "website": "https://invent.kde.org/plasma/plasma-thunderbolt",
-  "downloadLinks": ["https://download.kde.org/stable/plasma/5.22.4/plasma-thunderbolt-5.22.4.tar.xz"],
-  "md5sums": ["3ea20e78932f2a487d932acd1eff10f7"],
-  "patchesLinks": [],
   "installedFiles": [],
   "dependencies": [
     {

@@ -5,9 +5,6 @@
   "architectures": ["x86_64"],
   "description": "Easy to use, but flexible, X Window Manager and Wayland Compositor",
   "website": "https://invent.kde.org/plasma/kwin",
-  "downloadLinks": ["https://download.kde.org/stable/plasma/5.22.4/kwin-5.22.4.tar.xz"],
-  "md5sums": ["09cf360780185b33fca9561684a0f41f"],
-  "patchesLinks": [],
   "installedFiles": [],
   "dependencies": [
     {

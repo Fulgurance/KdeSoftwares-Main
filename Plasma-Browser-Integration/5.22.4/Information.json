@@ -5,9 +5,6 @@
   "architectures": ["x86_64"],
   "description": "Components necessary to integrate browsers into the Plasma Desktop",
   "website": "https://invent.kde.org/plasma/plasma-browser-integration",
-  "downloadLinks": ["https://download.kde.org/stable/plasma/5.22.4/plasma-browser-integration-5.22.4.tar.xz"],
-  "md5sums": ["8c9a2286634cb89fb04d0278c6af8f8c"],
-  "patchesLinks": [],
   "installedFiles": [],
   "dependencies": [
     {

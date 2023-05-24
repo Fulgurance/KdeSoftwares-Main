@@ -5,9 +5,6 @@
   "architectures": ["x86_64"],
   "description": "Manages the power consumption settings of a Plasma shell",
   "website": "https://invent.kde.org/plasma/powerdevil",
-  "downloadLinks": ["https://github.com/KDE/powerdevil/archive/refs/tags/v5.22.4.tar.gz"],
-  "md5sums": ["81a9ab9bf5307d6b5f24e18a97766cfa"],
-  "patchesLinks": [],
   "installedFiles": [],
   "dependencies": [
     {

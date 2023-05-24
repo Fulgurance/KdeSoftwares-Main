@@ -5,9 +5,6 @@
   "architectures": ["x86_64"],
   "description": "Wayland Server Components built on KDE Frameworks",
   "website": "https://invent.kde.org/plasma/kwayland-server",
-  "downloadLinks": ["https://download.kde.org/stable/plasma/5.22.4/kwayland-server-5.22.4.tar.xz"],
-  "md5sums": ["365f7cd632d41447561ec1bdf7497bba"],
-  "patchesLinks": [],
   "installedFiles": [],
   "dependencies": [
     {

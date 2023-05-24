@@ -5,9 +5,6 @@
   "architectures": ["x86_64"],
   "description": "KDE's screen management software",
   "website": "https://invent.kde.org/plasma/kscreen",
-  "downloadLinks": ["https://github.com/KDE/kscreen/archive/refs/tags/v5.22.4.tar.gz"],
-  "md5sums": ["d1b68b029c413338c1fdf82348f43077"],
-  "patchesLinks": [],
   "installedFiles": [],
   "dependencies": [
     {
