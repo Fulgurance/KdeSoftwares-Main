@@ -1,11 +1,5 @@
 class Target < ISM::Software
 
-    def extract
-        super
-
-        moveFile("#{workDirectoryPath(false)}/polkit-qt-1-0.114.0","#{workDirectoryPath(false)}/v0.114.0")
-    end
-
     def prepare
         @buildDirectory = true
         super
