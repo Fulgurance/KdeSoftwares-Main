@@ -295,6 +295,30 @@
       ]
     },
     {
+      "name": "Phonon-Backend-Gstreamer",
+      "description": "Enable gstreamer backend support",
+      "active": true,
+      "dependencies": [
+        {
+          "name": "Phonon-Backend-Gstreamer",
+          "version": "4.10.0",
+          "options": []
+        }
+      ]
+    },
+    {
+      "name": "Phonon-Backend-Vlc",
+      "description": "Enable vlc backend support",
+      "active": false,
+      "dependencies": [
+        {
+          "name": "Phonon-Backend-Vlc",
+          "version": "0.11.3",
+          "options": []
+        }
+      ]
+    },
+    {
       "name": "Sddm",
       "description": "Enable sddm support",
       "active": false,
