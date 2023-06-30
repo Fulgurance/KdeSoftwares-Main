@@ -16,6 +16,11 @@
       "name": "Gsettings-Desktop-Schemas",
       "version": "40.0.0",
       "options": []
+    },
+    {
+      "name": "Gtk+",
+      "version": "2.24.33",
+      "options": []
     }
   ],
   "options": []
