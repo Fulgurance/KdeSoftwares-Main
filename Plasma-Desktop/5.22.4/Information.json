@@ -8,6 +8,11 @@
   "installedFiles": [],
   "dependencies": [
     {
+      "name": "Accountsservice",
+      "version": "0.6.55",
+      "options": []
+    },
+    {
       "name": "Gtk+",
       "version": "2.24.33",
       "options": []
