@@ -2,7 +2,9 @@
   "port": "KdeSoftwares-Main",
   "name": "Plasma-Browser-Integration",
   "version": "5.22.4",
-  "architectures": ["x86_64"],
+  "architectures": [
+    "x86_64"
+  ],
   "description": "Components necessary to integrate browsers into the Plasma Desktop",
   "website": "https://invent.kde.org/plasma/plasma-browser-integration",
   "installedFiles": [],

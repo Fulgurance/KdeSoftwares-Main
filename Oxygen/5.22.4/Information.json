@@ -2,7 +2,9 @@
   "port": "KdeSoftwares-Main",
   "name": "Oxygen",
   "version": "5.22.4",
-  "architectures": ["x86_64"],
+  "architectures": [
+    "x86_64"
+  ],
   "description": "The Oxygen Style for Qt/KDE Applications",
   "website": "https://invent.kde.org/plasma/oxygen",
   "installedFiles": [],

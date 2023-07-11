@@ -2,7 +2,9 @@
   "port": "KdeSoftwares-Main",
   "name": "Khotkeys",
   "version": "5.22.4",
-  "architectures": ["x86_64"],
+  "architectures": [
+    "x86_64"
+  ],
   "description": "Trigger actions when certain keys are pressed",
   "website": "https://invent.kde.org/plasma/khotkeys",
   "installedFiles": [],

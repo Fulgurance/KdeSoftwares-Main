@@ -2,7 +2,9 @@
   "port": "KdeSoftwares-Main",
   "name": "Discover",
   "version": "5.22.4",
-  "architectures": ["x86_64"],
+  "architectures": [
+    "x86_64"
+  ],
   "description": "KDE and Plasma resources management GUI",
   "website": "https://invent.kde.org/plasma/discover",
   "installedFiles": [],

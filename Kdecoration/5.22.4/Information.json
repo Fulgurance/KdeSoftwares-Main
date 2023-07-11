@@ -2,7 +2,9 @@
   "port": "KdeSoftwares-Main",
   "name": "Kdecoration",
   "version": "5.22.4",
-  "architectures": ["x86_64"],
+  "architectures": [
+    "x86_64"
+  ],
   "description": "Plugin based library to create window decorations",
   "website": "https://api.kde.org/plasma/kdecoration/html/index.html",
   "installedFiles": [],

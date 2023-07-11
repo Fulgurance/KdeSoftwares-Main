@@ -2,7 +2,9 @@
   "port": "KdeSoftwares-Main",
   "name": "Kscreenlocker",
   "version": "5.22.4",
-  "architectures": ["x86_64"],
+  "architectures": [
+    "x86_64"
+  ],
   "description": "Library and components for secure lock screen architecture",
   "website": "https://invent.kde.org/plasma/kscreenlocker",
   "installedFiles": [],

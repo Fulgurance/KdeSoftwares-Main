@@ -2,7 +2,9 @@
   "port": "KdeSoftwares-Main",
   "name": "Polkit-Kde-Agent-1",
   "version": "5.22.4",
-  "architectures": ["x86_64"],
+  "architectures": [
+    "x86_64"
+  ],
   "description": "Daemon providing a Polkit authentication UI for Plasma",
   "website": "https://invent.kde.org/plasma/polkit-kde-agent-1",
   "installedFiles": [],

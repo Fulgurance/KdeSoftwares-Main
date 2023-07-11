@@ -2,7 +2,9 @@
   "port": "KdeSoftwares-Main",
   "name": "Plasma-Pa",
   "version": "5.22.4",
-  "architectures": ["x86_64"],
+  "architectures": [
+    "x86_64"
+  ],
   "description": "Plasma applet for audio volume management using PulseAudio",
   "website": "https://invent.kde.org/plasma/plasma-pa",
   "installedFiles": [],

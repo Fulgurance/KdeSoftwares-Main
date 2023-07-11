@@ -2,7 +2,9 @@
   "port": "KdeSoftwares-Main",
   "name": "Drkonqi",
   "version": "5.22.4",
-  "architectures": ["x86_64"],
+  "architectures": [
+    "x86_64"
+  ],
   "description": "Crash handler for KDE software",
   "website": "https://invent.kde.org/plasma/drkonqi",
   "installedFiles": [],

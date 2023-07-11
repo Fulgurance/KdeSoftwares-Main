@@ -2,7 +2,9 @@
   "port": "KdeSoftwares-Main",
   "name": "Kwin",
   "version": "5.22.4",
-  "architectures": ["x86_64"],
+  "architectures": [
+    "x86_64"
+  ],
   "description": "Easy to use, but flexible, X Window Manager and Wayland Compositor",
   "website": "https://invent.kde.org/plasma/kwin",
   "installedFiles": [],

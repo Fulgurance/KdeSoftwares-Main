@@ -2,7 +2,9 @@
   "port": "KdeSoftwares-Main",
   "name": "Kde-Cli-Tools",
   "version": "5.22.4",
-  "architectures": ["x86_64"],
+  "architectures": [
+    "x86_64"
+  ],
   "description": "Tools based on KDE Frameworks 5 to better interact with the system",
   "website": "https://invent.kde.org/plasma/kde-cli-tools",
   "installedFiles": [],

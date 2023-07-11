@@ -2,7 +2,9 @@
   "port": "KdeSoftwares-Main",
   "name": "Dolphin",
   "version": "21.8.0",
-  "architectures": ["x86_64"],
+  "architectures": [
+    "x86_64"
+  ],
   "description": "KDE's file manager that lets you navigate and browse the contents of your hard drives, USB sticks, SD cards, and more",
   "website": "https://apps.kde.org/en-gb/dolphin/",
   "installedFiles": [],

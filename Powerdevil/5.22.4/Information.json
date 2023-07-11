@@ -2,7 +2,9 @@
   "port": "KdeSoftwares-Main",
   "name": "Powerdevil",
   "version": "5.22.4",
-  "architectures": ["x86_64"],
+  "architectures": [
+    "x86_64"
+  ],
   "description": "Manages the power consumption settings of a Plasma shell",
   "website": "https://invent.kde.org/plasma/powerdevil",
   "installedFiles": [],

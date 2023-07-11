@@ -2,7 +2,9 @@
   "port": "KdeSoftwares-Main",
   "name": "Ark",
   "version": "21.8.0",
-  "architectures": ["x86_64"],
+  "architectures": [
+    "x86_64"
+  ],
   "description": "Graphical file compression/decompression utility with support for multiple formats",
   "website": "https://apps.kde.org/en-gb/ark/",
   "installedFiles": [],
@@ -30,7 +32,8 @@
           "version": "2.13.0",
           "options": []
         }
-      ]
+      ],
+      "kernelDependencies": []
     },
     {
       "name": "P7zip",
@@ -42,7 +45,8 @@
           "version": "17.4.0",
           "options": []
         }
-      ]
+      ],
+      "kernelDependencies": []
     },
     {
       "name": "Unrar",
@@ -54,7 +58,8 @@
           "version": "6.0.7",
           "options": []
         }
-      ]
+      ],
+      "kernelDependencies": []
     },
     {
       "name": "Unzip",
@@ -66,7 +71,8 @@
           "version": "6.0.0",
           "options": []
         }
-      ]
+      ],
+      "kernelDependencies": []
     },
     {
       "name": "Zip",
@@ -78,7 +84,8 @@
           "version": "3.0.0",
           "options": []
         }
-      ]
+      ],
+      "kernelDependencies": []
     }
   ]
 }

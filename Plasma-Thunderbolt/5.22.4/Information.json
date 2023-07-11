@@ -2,7 +2,9 @@
   "port": "KdeSoftwares-Main",
   "name": "Plasma-Thunderbolt",
   "version": "5.22.4",
-  "architectures": ["x86_64"],
+  "architectures": [
+    "x86_64"
+  ],
   "description": "Plasma integration for controlling Thunderbolt devices",
   "website": "https://invent.kde.org/plasma/plasma-thunderbolt",
   "installedFiles": [],

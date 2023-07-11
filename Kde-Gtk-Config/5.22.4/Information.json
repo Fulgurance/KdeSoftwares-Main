@@ -2,7 +2,9 @@
   "port": "KdeSoftwares-Main",
   "name": "Kde-Gtk-Config",
   "version": "5.22.4",
-  "architectures": ["x86_64"],
+  "architectures": [
+    "x86_64"
+  ],
   "description": "Syncs KDE settings to GTK applications",
   "website": "https://invent.kde.org/plasma/kde-gtk-config",
   "installedFiles": [],

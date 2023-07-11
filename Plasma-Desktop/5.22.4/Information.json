@@ -2,7 +2,9 @@
   "port": "KdeSoftwares-Main",
   "name": "Plasma-Desktop",
   "version": "5.22.4",
-  "architectures": ["x86_64"],
+  "architectures": [
+    "x86_64"
+  ],
   "description": "The Plasma KDE workspace",
   "website": "https://kde.org/plasma-desktop/",
   "installedFiles": [],
@@ -40,7 +42,9 @@
     {
       "name": "Mesa",
       "version": "21.2.1",
-      "options": ["Wayland-Protocols"]
+      "options": [
+        "Wayland-Protocols"
+      ]
     },
     {
       "name": "Qca",
@@ -240,7 +244,8 @@
           "version": "1.5.1",
           "options": []
         }
-      ]
+      ],
+      "kernelDependencies": []
     },
     {
       "name": "Bluedevil",
@@ -252,7 +257,8 @@
           "version": "5.22.4",
           "options": []
         }
-      ]
+      ],
+      "kernelDependencies": []
     },
     {
       "name": "NetworkManager",
@@ -269,7 +275,8 @@
           "version": "5.85.0",
           "options": []
         }
-      ]
+      ],
+      "kernelDependencies": []
     },
     {
       "name": "ModemManager",
@@ -281,7 +288,8 @@
           "version": "5.85.0",
           "options": []
         }
-      ]
+      ],
+      "kernelDependencies": []
     },
     {
       "name": "Pulseaudio",
@@ -298,7 +306,8 @@
           "version": "5.22.4",
           "options": []
         }
-      ]
+      ],
+      "kernelDependencies": []
     },
     {
       "name": "Phonon-Backend-Gstreamer",
@@ -310,7 +319,8 @@
           "version": "4.10.0",
           "options": []
         }
-      ]
+      ],
+      "kernelDependencies": []
     },
     {
       "name": "Phonon-Backend-Vlc",
@@ -322,7 +332,8 @@
           "version": "0.11.3",
           "options": []
         }
-      ]
+      ],
+      "kernelDependencies": []
     },
     {
       "name": "Sddm",
@@ -339,7 +350,8 @@
           "version": "5.22.4",
           "options": []
         }
-      ]
+      ],
+      "kernelDependencies": []
     }
   ]
 }

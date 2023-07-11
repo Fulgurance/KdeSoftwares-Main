@@ -2,7 +2,9 @@
   "port": "KdeSoftwares-Main",
   "name": "Konsole",
   "version": "21.8.0",
-  "architectures": ["x86_64"],
+  "architectures": [
+    "x86_64"
+  ],
   "description": "KDE's Terminal Emulator",
   "website": "https://konsole.kde.org/",
   "installedFiles": [],

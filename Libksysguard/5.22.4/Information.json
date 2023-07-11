@@ -2,7 +2,9 @@
   "port": "KdeSoftwares-Main",
   "name": "Libksysguard",
   "version": "5.22.4",
-  "architectures": ["x86_64"],
+  "architectures": [
+    "x86_64"
+  ],
   "description": "Library to retrieve information on the current status of computer hardware",
   "website": "https://invent.kde.org/plasma/libksysguard",
   "installedFiles": [],

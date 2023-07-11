@@ -2,7 +2,9 @@
   "port": "KdeSoftwares-Main",
   "name": "Kwayland-Server",
   "version": "5.22.4",
-  "architectures": ["x86_64"],
+  "architectures": [
+    "x86_64"
+  ],
   "description": "Wayland Server Components built on KDE Frameworks",
   "website": "https://invent.kde.org/plasma/kwayland-server",
   "installedFiles": [],

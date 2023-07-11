@@ -2,7 +2,9 @@
   "port": "KdeSoftwares-Main",
   "name": "Kmenuedit",
   "version": "5.22.4",
-  "architectures": ["x86_64"],
+  "architectures": [
+    "x86_64"
+  ],
   "description": "Menu Editor for Plasma Workspaces",
   "website": "https://invent.kde.org/plasma/kmenuedit",
   "installedFiles": [],
