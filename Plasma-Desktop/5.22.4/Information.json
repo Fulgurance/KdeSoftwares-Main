@@ -269,11 +269,6 @@
           "name": "Plasma-Nm",
           "version": "5.22.4",
           "options": []
-        },
-        {
-          "name": "NetworkManager-Qt",
-          "version": "5.85.0",
-          "options": []
         }
       ],
       "kernelDependencies": []
