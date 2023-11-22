@@ -1,0 +1,21 @@
+{
+  "port": "KdeSoftwares-Main",
+  "name": "Plasma-Integration",
+  "version": "5.27.7",
+  "architectures": [
+    "x86_64"
+  ],
+  "description": "Qt Platform Theme integration plugins for Plasma Workspaces",
+  "website": "https://invent.kde.org/plasma/plasma-integration",
+  "installedFiles": [],
+  "dependencies": [
+    {
+      "name": "Kde-Frameworks",
+      "version": "5.109.0",
+      "options": []
+    }
+  ],
+  "kernelDependencies": [],
+  "options": [],
+  "uniqueOptions": []
+}

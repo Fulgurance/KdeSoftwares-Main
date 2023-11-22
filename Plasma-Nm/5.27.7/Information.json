@@ -1,0 +1,26 @@
+{
+  "port": "KdeSoftwares-Main",
+  "name": "Plasma-Nm",
+  "version": "5.27.7",
+  "architectures": [
+    "x86_64"
+  ],
+  "description": "Plasma applet written in QML for managing network connections",
+  "website": "https://invent.kde.org/plasma/plasma-nm",
+  "installedFiles": [],
+  "dependencies": [
+    {
+      "name": "Kde-Frameworks",
+      "version": "5.109.0",
+      "options": []
+    },
+    {
+      "name": "NetworkManager-Qt",
+      "version": "5.109.0",
+      "options": []
+    }
+  ],
+  "kernelDependencies": [],
+  "options": [],
+  "uniqueOptions": []
+}

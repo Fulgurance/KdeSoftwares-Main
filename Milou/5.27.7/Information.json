@@ -1,0 +1,21 @@
+{
+  "port": "KdeSoftwares-Main",
+  "name": "Milou",
+  "version": "5.27.7",
+  "architectures": [
+    "x86_64"
+  ],
+  "description": "A dedicated search application built on top of Baloo",
+  "website": "https://invent.kde.org/plasma/milou",
+  "installedFiles": [],
+  "dependencies": [
+    {
+      "name": "Kde-Frameworks",
+      "version": "5.109.0",
+      "options": []
+    }
+  ],
+  "kernelDependencies": [],
+  "options": [],
+  "uniqueOptions": []
+}

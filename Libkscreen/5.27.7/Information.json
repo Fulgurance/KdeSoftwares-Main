@@ -1,0 +1,21 @@
+{
+  "port": "KdeSoftwares-Main",
+  "name": "Libkscreen",
+  "version": "5.27.7",
+  "architectures": [
+    "x86_64"
+  ],
+  "description": "KDE's screen management software",
+  "website": "https://invent.kde.org/plasma/libkscreen",
+  "installedFiles": [],
+  "dependencies": [
+    {
+      "name": "Kde-Frameworks",
+      "version": "5.109.0",
+      "options": []
+    }
+  ],
+  "kernelDependencies": [],
+  "options": [],
+  "uniqueOptions": []
+}

@@ -1,0 +1,21 @@
+{
+  "port": "KdeSoftwares-Main",
+  "name": "Plasma-Nano",
+  "version": "5.27.7",
+  "architectures": [
+    "x86_64"
+  ],
+  "description": "A minimal Plasma shell package",
+  "website": "https://invent.kde.org/plasma/plasma-nano",
+  "installedFiles": [],
+  "dependencies": [
+    {
+      "name": "Kde-Frameworks",
+      "version": "5.109.0",
+      "options": []
+    }
+  ],
+  "kernelDependencies": [],
+  "options": [],
+  "uniqueOptions": []
+}

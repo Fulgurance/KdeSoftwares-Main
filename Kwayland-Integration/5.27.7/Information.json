@@ -1,0 +1,21 @@
+{
+  "port": "KdeSoftwares-Main",
+  "name": "Kwayland-Integration",
+  "version": "5.27.7",
+  "architectures": [
+    "x86_64"
+  ],
+  "description": "Integration plugins for various KDE frameworks for the Wayland windowing system",
+  "website": "https://invent.kde.org/plasma/kwayland-integration",
+  "installedFiles": [],
+  "dependencies": [
+    {
+      "name": "Kde-Frameworks",
+      "version": "5.109.0",
+      "options": []
+    }
+  ],
+  "kernelDependencies": [],
+  "options": [],
+  "uniqueOptions": []
+}

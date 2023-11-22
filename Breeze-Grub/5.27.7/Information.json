@@ -1,0 +1,21 @@
+{
+  "port": "KdeSoftwares-Main",
+  "name": "Breeze-Grub",
+  "version": "5.27.7",
+  "architectures": [
+    "x86_64"
+  ],
+  "description": "GRUB theme for the Breeze visual style for the Plasma Desktop",
+  "website": "https://invent.kde.org/plasma/breeze-grub",
+  "installedFiles": [],
+  "dependencies": [
+    {
+      "name": "Kde-Frameworks",
+      "version": "5.109.0",
+      "options": []
+    }
+  ],
+  "kernelDependencies": [],
+  "options": [],
+  "uniqueOptions": []
+}

@@ -1,0 +1,21 @@
+{
+  "port": "KdeSoftwares-Main",
+  "name": "Plasma-Disks",
+  "version": "5.27.7",
+  "architectures": [
+    "x86_64"
+  ],
+  "description": "Monitors S.M.A.R.T. capable devices for imminent failure",
+  "website": "https://invent.kde.org/plasma/plasma-disks",
+  "installedFiles": [],
+  "dependencies": [
+    {
+      "name": "Kde-Frameworks",
+      "version": "5.109.0",
+      "options": []
+    }
+  ],
+  "kernelDependencies": [],
+  "options": [],
+  "uniqueOptions": []
+}

@@ -1,7 +1,7 @@
 {
   "port": "KdeSoftwares-Main",
   "name": "Plasma-Desktop",
-  "version": "5.22.4",
+  "version": "5.27.7",
   "architectures": [
     "x86_64"
   ],
@@ -11,12 +11,12 @@
   "dependencies": [
     {
       "name": "Accountsservice",
-      "version": "0.6.55",
+      "version": "23.13.9",
       "options": []
     },
     {
       "name": "Udisks",
-      "version": "2.9.3",
+      "version": "2.10.0",
       "options": []
     },
     {
@@ -26,32 +26,42 @@
     },
     {
       "name": "Gtk+",
-      "version": "3.24.30",
+      "version": "3.24.38",
       "options": []
     },
     {
       "name": "Kde-Frameworks",
-      "version": "5.85.0",
+      "version": "5.109.0",
+      "options": []
+    },
+    {
+      "name": "Kuserfeedback",
+      "version": "1.2.0",
       "options": []
     },
     {
       "name": "Libpwquality",
-      "version": "1.4.4",
+      "version": "1.4.5",
+      "options": []
+    },
+    {
+      "name": "Libqalculate",
+      "version": "4.7.0",
       "options": []
     },
     {
       "name": "Libxkbcommon",
-      "version": "1.3.0",
+      "version": "1.5.0",
       "options": []
     },
     {
       "name": "Mesa",
-      "version": "21.2.1",
+      "version": "23.1.6",
       "options": ["Wayland-Protocols"]
     },
     {
       "name": "Qca",
-      "version": "2.3.3",
+      "version": "2.3.7",
       "options": []
     },
     {
@@ -61,177 +71,172 @@
     },
     {
       "name": "Taglib",
-      "version": "1.12.0",
+      "version": "1.13.1",
       "options": []
     },
     {
       "name": "Xcb-Util-Cursor",
-      "version": "0.1.3",
+      "version": "0.1.4",
       "options": []
     },
     {
       "name": "Kdecoration",
-      "version": "5.22.4",
+      "version": "5.27.7",
       "options": []
     },
     {
       "name": "Libkscreen",
-      "version": "5.22.4",
+      "version": "5.27.7",
       "options": []
     },
     {
       "name": "Libksysguard",
-      "version": "5.22.4",
+      "version": "5.27.7",
       "options": []
     },
     {
       "name": "Breeze",
-      "version": "5.22.4",
+      "version": "5.27.7",
       "options": []
     },
     {
       "name": "Breeze-Gtk",
-      "version": "5.22.4",
+      "version": "5.27.7",
       "options": []
     },
     {
       "name": "Layer-Shell-Qt",
-      "version": "5.22.4",
+      "version": "5.27.7",
       "options": []
     },
     {
       "name": "Kscreenlocker",
-      "version": "5.22.4",
+      "version": "5.27.7",
       "options": []
     },
     {
       "name": "Oxygen",
-      "version": "5.22.4",
+      "version": "5.27.7",
       "options": []
     },
     {
       "name": "Kinfocenter",
-      "version": "5.22.4",
-      "options": []
-    },
-    {
-      "name": "Kwayland-Server",
-      "version": "5.22.4",
+      "version": "5.27.7",
       "options": []
     },
     {
       "name": "Kwin",
-      "version": "5.22.4",
+      "version": "5.27.7",
       "options": []
     },
     {
       "name": "Plasma-Workspace",
-      "version": "5.22.4",
+      "version": "5.27.7",
       "options": []
     },
     {
       "name": "Kdecoration",
-      "version": "5.22.4",
+      "version": "5.27.7",
       "options": []
     },
     {
       "name": "Kde-Gtk-Config",
-      "version": "5.22.4",
+      "version": "5.27.7",
       "options": []
     },
     {
       "name": "Khotkeys",
-      "version": "5.22.4",
+      "version": "5.27.7",
       "options": []
     },
     {
       "name": "Kmenuedit",
-      "version": "5.22.4",
+      "version": "5.27.7",
       "options": []
     },
     {
       "name": "Kscreen",
-      "version": "5.22.4",
+      "version": "5.27.7",
       "options": []
     },
     {
       "name": "Kwallet-Pam",
-      "version": "5.22.4",
+      "version": "5.27.7",
       "options": []
     },
     {
       "name": "Kwayland-Integration",
-      "version": "5.22.4",
+      "version": "5.27.7",
       "options": []
     },
     {
       "name": "Kwrited",
-      "version": "5.22.4",
+      "version": "5.27.7",
       "options": []
     },
     {
       "name": "Milou",
-      "version": "5.22.4",
+      "version": "5.27.7",
       "options": []
     },
     {
       "name": "Plasma-Workspace-Wallpapers",
-      "version": "5.22.4",
+      "version": "5.27.7",
       "options": []
     },
     {
       "name": "Polkit-Kde-Agent-1",
-      "version": "5.22.4",
+      "version": "5.27.7",
       "options": []
     },
     {
       "name": "Powerdevil",
-      "version": "5.22.4",
+      "version": "5.27.7",
       "options": []
     },
     {
       "name": "Kdeplasma-Addons",
-      "version": "5.22.4",
+      "version": "5.27.7",
       "options": []
     },
     {
       "name": "Kgamma5",
-      "version": "5.22.4",
+      "version": "5.27.7",
       "options": []
     },
     {
       "name": "Kactivitymanagerd",
-      "version": "5.22.4",
+      "version": "5.27.7",
       "options": []
     },
     {
       "name": "Plasma-Integration",
-      "version": "5.22.4",
+      "version": "5.27.7",
       "options": []
     },
     {
       "name": "Plasma-Browser-Integration",
-      "version": "5.22.4",
+      "version": "5.27.7",
       "options": []
     },
     {
       "name": "Kde-Cli-Tools",
-      "version": "5.22.4",
+      "version": "5.27.7",
       "options": []
     },
     {
       "name": "Systemsettings",
-      "version": "5.22.4",
+      "version": "5.27.7",
       "options": []
     },
     {
       "name": "Qqc2-Breeze-Style",
-      "version": "5.22.4",
+      "version": "5.27.7",
       "options": []
     },
     {
       "name": "Ksystemstats",
-      "version": "5.22.4",
+      "version": "5.27.7",
       "options": []
     }
   ],
@@ -244,7 +249,7 @@
       "dependencies": [
         {
           "name": "Linux-Pam",
-          "version": "1.5.1",
+          "version": "1.5.3",
           "options": []
         }
       ],
@@ -257,7 +262,7 @@
       "dependencies": [
         {
           "name": "Bluedevil",
-          "version": "5.22.4",
+          "version": "5.27.7",
           "options": []
         }
       ],
@@ -270,7 +275,7 @@
       "dependencies": [
         {
           "name": "Plasma-Nm",
-          "version": "5.22.4",
+          "version": "5.27.7",
           "options": []
         }
       ],
@@ -283,7 +288,7 @@
       "dependencies": [
         {
           "name": "ModemManager-Qt",
-          "version": "5.85.0",
+          "version": "5.109.0",
           "options": []
         }
       ],
@@ -296,12 +301,12 @@
       "dependencies": [
         {
           "name": "Pulseaudio",
-          "version": "15.0.0",
+          "version": "16.1.0",
           "options": []
         },
         {
           "name": "Plasma-Pa",
-          "version": "5.22.4",
+          "version": "5.27.7",
           "options": []
         }
       ],
@@ -340,12 +345,12 @@
       "dependencies": [
         {
           "name": "Sddm",
-          "version": "0.19.0",
+          "version": "0.20.0",
           "options": []
         },
         {
           "name": "Sddm-Kcm",
-          "version": "5.22.4",
+          "version": "5.27.7",
           "options": []
         }
       ],

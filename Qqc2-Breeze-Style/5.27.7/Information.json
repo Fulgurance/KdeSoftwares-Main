@@ -1,0 +1,21 @@
+{
+  "port": "KdeSoftwares-Main",
+  "name": "Qqc2-Breeze-Style",
+  "version": "5.27.7",
+  "architectures": [
+    "x86_64"
+  ],
+  "description": "Breeze inspired QQC2 Style",
+  "website": "https://invent.kde.org/plasma/qqc2-breeze-style",
+  "installedFiles": [],
+  "dependencies": [
+    {
+      "name": "Kde-Frameworks",
+      "version": "5.109.0",
+      "options": []
+    }
+  ],
+  "kernelDependencies": [],
+  "options": [],
+  "uniqueOptions": []
+}

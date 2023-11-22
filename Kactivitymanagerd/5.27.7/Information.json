@@ -1,0 +1,21 @@
+{
+  "port": "KdeSoftwares-Main",
+  "name": "Kactivitymanagerd",
+  "version": "5.27.7",
+  "architectures": [
+    "x86_64"
+  ],
+  "description": "System service to manage user's activities, track the usage patterns etc",
+  "website": "https://invent.kde.org/plasma/kactivitymanagerd",
+  "installedFiles": [],
+  "dependencies": [
+    {
+      "name": "Kde-Frameworks",
+      "version": "5.109.0",
+      "options": []
+    }
+  ],
+  "kernelDependencies": [],
+  "options": [],
+  "uniqueOptions": []
+}

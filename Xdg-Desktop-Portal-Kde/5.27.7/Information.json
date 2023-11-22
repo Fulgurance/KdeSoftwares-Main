@@ -1,0 +1,21 @@
+{
+  "port": "KdeSoftwares-Main",
+  "name": "Xdg-Desktop-Portal-Kde",
+  "version": "5.27.7",
+  "architectures": [
+    "x86_64"
+  ],
+  "description": "A backend implementation for xdg-desktop-portal that is using Qt/KDE",
+  "website": "https://invent.kde.org/plasma/xdg-desktop-portal-kde",
+  "installedFiles": [],
+  "dependencies": [
+    {
+      "name": "Kde-Frameworks",
+      "version": "5.109.0",
+      "options": []
+    }
+  ],
+  "kernelDependencies": [],
+  "options": [],
+  "uniqueOptions": []
+}

@@ -1,0 +1,21 @@
+{
+  "port": "KdeSoftwares-Main",
+  "name": "Plasma-Systemmonitor",
+  "version": "5.27.7",
+  "architectures": [
+    "x86_64"
+  ],
+  "description": "An interface for monitoring system sensors, process information and other system resources",
+  "website": "https://invent.kde.org/plasma/plasma-systemmonitor",
+  "installedFiles": [],
+  "dependencies": [
+    {
+      "name": "Kde-Frameworks",
+      "version": "5.109.0",
+      "options": []
+    }
+  ],
+  "kernelDependencies": [],
+  "options": [],
+  "uniqueOptions": []
+}

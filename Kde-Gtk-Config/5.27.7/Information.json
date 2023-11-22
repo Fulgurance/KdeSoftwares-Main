@@ -1,0 +1,31 @@
+{
+  "port": "KdeSoftwares-Main",
+  "name": "Kde-Gtk-Config",
+  "version": "5.27.7",
+  "architectures": [
+    "x86_64"
+  ],
+  "description": "Syncs KDE settings to GTK applications",
+  "website": "https://invent.kde.org/plasma/kde-gtk-config",
+  "installedFiles": [],
+  "dependencies": [
+    {
+      "name": "Kde-Frameworks",
+      "version": "5.109.0",
+      "options": []
+    },
+    {
+      "name": "Gsettings-Desktop-Schemas",
+      "version": "44.0.0",
+      "options": []
+    },
+    {
+      "name": "Gtk+",
+      "version": "3.24.38",
+      "options": []
+    }
+  ],
+  "kernelDependencies": [],
+  "options": [],
+  "uniqueOptions": []
+}

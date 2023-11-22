@@ -1,0 +1,21 @@
+{
+  "port": "KdeSoftwares-Main",
+  "name": "Discover",
+  "version": "5.27.7",
+  "architectures": [
+    "x86_64"
+  ],
+  "description": "KDE and Plasma resources management GUI",
+  "website": "https://invent.kde.org/plasma/discover",
+  "installedFiles": [],
+  "dependencies": [
+    {
+      "name": "Kde-Frameworks",
+      "version": "5.109.0",
+      "options": []
+    }
+  ],
+  "kernelDependencies": [],
+  "options": [],
+  "uniqueOptions": []
+}

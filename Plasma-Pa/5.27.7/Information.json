@@ -1,0 +1,26 @@
+{
+  "port": "KdeSoftwares-Main",
+  "name": "Plasma-Pa",
+  "version": "5.27.7",
+  "architectures": [
+    "x86_64"
+  ],
+  "description": "Plasma applet for audio volume management using PulseAudio",
+  "website": "https://invent.kde.org/plasma/plasma-pa",
+  "installedFiles": [],
+  "dependencies": [
+    {
+      "name": "Kde-Frameworks",
+      "version": "5.109.0",
+      "options": []
+    },
+    {
+      "name": "Libcanberra",
+      "version": "0.30.0",
+      "options": []
+    }
+  ],
+  "kernelDependencies": [],
+  "options": [],
+  "uniqueOptions": []
+}

@@ -1,0 +1,26 @@
+{
+  "port": "KdeSoftwares-Main",
+  "name": "Khotkeys",
+  "version": "5.27.7",
+  "architectures": [
+    "x86_64"
+  ],
+  "description": "Trigger actions when certain keys are pressed",
+  "website": "https://invent.kde.org/plasma/khotkeys",
+  "installedFiles": [],
+  "dependencies": [
+    {
+      "name": "Kde-Frameworks",
+      "version": "5.109.0",
+      "options": []
+    },
+    {
+      "name": "Plasma-Workspace",
+      "version": "5.27.7",
+      "options": []
+    }
+  ],
+  "kernelDependencies": [],
+  "options": [],
+  "uniqueOptions": []
+}

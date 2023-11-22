@@ -1,0 +1,21 @@
+{
+  "port": "KdeSoftwares-Main",
+  "name": "Kdeplasma-Addons",
+  "version": "5.27.7",
+  "architectures": [
+    "x86_64"
+  ],
+  "description": "All kind of add-ons to improve your Plasma experience",
+  "website": "https://invent.kde.org/plasma/kdeplasma-addons",
+  "installedFiles": [],
+  "dependencies": [
+    {
+      "name": "Kde-Frameworks",
+      "version": "5.109.0",
+      "options": []
+    }
+  ],
+  "kernelDependencies": [],
+  "options": [],
+  "uniqueOptions": []
+}
