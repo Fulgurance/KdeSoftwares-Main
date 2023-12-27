@@ -18,6 +18,11 @@
       "name": "Libnl",
       "version": "3.7.0",
       "options": []
+    },
+    {
+      "name": "Lm-Sensors",
+      "version": ">=3.6.0",
+      "options": []
     }
   ],
   "kernelDependencies": [],
