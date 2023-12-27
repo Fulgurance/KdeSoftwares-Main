@@ -16,7 +16,7 @@
     },
     {
       "name": "Layer-Shell-Qt",
-      "version": ">=5.27..7",
+      "version": ">=5.27.7",
       "options": []
     }
   ],
