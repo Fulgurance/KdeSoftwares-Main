@@ -11,17 +11,27 @@
   "dependencies": [
     {
       "name": "Kde-Frameworks",
-      "version": "5.109.0",
+      "version": ">=5.109.0",
       "options": []
     },
     {
       "name": "Libinput",
-      "version": "1.23.0",
+      "version": ">=1.23.0",
       "options": []
     },
     {
       "name": "Kdecoration",
-      "version": "5.27.7",
+      "version": ">=5.27.7",
+      "options": []
+    },
+    {
+      "name": "Kscreenlocker",
+      "version": ">=5.27.7",
+      "options": []
+    },
+    {
+      "name": "Lcms2",
+      "version": ">=2.14.0",
       "options": []
     }
   ],
