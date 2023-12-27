@@ -11,7 +11,12 @@
   "dependencies": [
     {
       "name": "Kde-Frameworks",
-      "version": "5.109.0",
+      "version": ">=5.109.0",
+      "options": []
+    },
+    {
+      "name": "Layer-Shell-Qt",
+      "version": ">=5.27..7",
       "options": []
     }
   ],
