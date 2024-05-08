@@ -238,6 +238,11 @@
       "name": "Ksystemstats",
       "version": "5.27.7",
       "options": []
+    },
+    {
+      "name": "Kio-Extras",
+      "version": "23.8.0",
+      "options": []
     }
   ],
   "kernelDependencies": [],
