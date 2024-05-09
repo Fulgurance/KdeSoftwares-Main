@@ -13,6 +13,11 @@
       "name": "Kde-Frameworks",
       "version": "5.109.0",
       "options": []
+    },
+    {
+      "name": "Qt",
+      "version": "5.15.10",
+      "options": ["Cups"]
     }
   ],
   "kernelDependencies": [],
