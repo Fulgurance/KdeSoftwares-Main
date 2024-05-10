@@ -360,6 +360,13 @@
         }
       ],
       "kernelDependencies": []
+    },
+    {
+      "name": "Emojier",
+      "description": "Enable emojier support",
+      "active": false,
+      "dependencies": [],
+      "kernelDependencies": []
     }
   ],
   "uniqueDependencies": [],

@@ -58,6 +58,11 @@ class Target < ISM::Software
             CODE
             fileWriteData("#{builtSoftwareDirectoryPath(false)}#{Ism.settings.rootPath}etc/pam.d/kscreensaver",kscreensaverData)
         end
+
+        if !option("Emojier")
+            deleteFile("#{builtSoftwareDirectoryPath(false)}#{Ism.settings.rootPath}usr/bin/plasma-emojier")
+            deleteFile("#{builtSoftwareDirectoryPath(false)}#{Ism.settings.rootPath}usr/share/applications/org.kde.plasma.emojier.desktop")
+        end
     end
 
     def install
