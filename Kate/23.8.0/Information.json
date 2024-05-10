@@ -16,7 +16,15 @@
     }
   ],
   "kernelDependencies": [],
-  "options": [],
+  "options": [
+    {
+      "name": "MultipleInstances",
+      "description": "Allow kate to edit files with mutiple instances",
+      "active": true,
+      "dependencies": [],
+      "kernelDependencies": []
+    }
+  ],
   "uniqueDependencies": [],
   "uniqueOptions": [],
   "selectedDependencies": [],

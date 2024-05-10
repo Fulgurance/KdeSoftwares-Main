@@ -27,6 +27,12 @@ class Target < ISM::Software
         super
 
         makeSource(["DESTDIR=#{builtSoftwareDirectoryPath}#{Ism.settings.rootPath}","install"],buildDirectoryPath)
+
+        if option("MultipleInstances")
+            fileReplaceText("#{builtSoftwareDirectoryPath(false)}#{Ism.settings.rootPath}usr/share/applications/org.kde.kate.desktop",
+                        "Exec=kate -b %U",
+                        "Exec=kate -n")
+        end
     end
 
 end
