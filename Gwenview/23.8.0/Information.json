@@ -1,0 +1,24 @@
+{
+  "port": "KdeSoftwares-Main",
+  "name": "Gwenview",
+  "version": "23.8.0",
+  "architectures": [
+    "x86_64"
+  ],
+  "description": "Image viewer by KDE",
+  "website": "https://invent.kde.org/graphics/gwenview",
+  "installedFiles": [],
+  "dependencies": [
+    {
+      "name": "Kde-Frameworks",
+      "version": "5.109.0",
+      "options": []
+    }
+  ],
+  "kernelDependencies": [],
+  "options": [],
+  "uniqueDependencies": [],
+  "uniqueOptions": [],
+  "selectedDependencies": [],
+  "allowCodependencies": []
+}

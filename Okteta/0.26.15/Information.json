@@ -1,0 +1,24 @@
+{
+  "port": "KdeSoftwares-Main",
+  "name": "Okteta",
+  "version": "0.26.15",
+  "architectures": [
+    "x86_64"
+  ],
+  "description": "Hex editor for viewing and editing the raw data of files",
+  "website": "https://invent.kde.org/utilities/okteta",
+  "installedFiles": [],
+  "dependencies": [
+    {
+      "name": "Kde-Frameworks",
+      "version": "5.109.0",
+      "options": []
+    }
+  ],
+  "kernelDependencies": [],
+  "options": [],
+  "uniqueDependencies": [],
+  "uniqueOptions": [],
+  "selectedDependencies": [],
+  "allowCodependencies": []
+}

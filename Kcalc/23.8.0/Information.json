@@ -1,0 +1,24 @@
+{
+  "port": "KdeSoftwares-Main",
+  "name": "Kcalc",
+  "version": "23.8.0",
+  "architectures": [
+    "x86_64"
+  ],
+  "description": "Calculator offering everything a scientific calculator does, and more",
+  "website": "https://invent.kde.org/utilities/kcalc",
+  "installedFiles": [],
+  "dependencies": [
+    {
+      "name": "Kde-Frameworks",
+      "version": "5.109.0",
+      "options": []
+    }
+  ],
+  "kernelDependencies": [],
+  "options": [],
+  "uniqueDependencies": [],
+  "uniqueOptions": [],
+  "selectedDependencies": [],
+  "allowCodependencies": []
+}
