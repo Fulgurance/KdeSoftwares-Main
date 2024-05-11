@@ -10,8 +10,8 @@
   "installedFiles": [],
   "dependencies": [
     {
-      "name": "Kde-Frameworks",
-      "version": ">=5.85.0",
+      "name": "Polkit",
+      "version": ">=123.0.0",
       "options": []
     }
   ],

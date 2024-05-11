@@ -185,11 +185,6 @@
       "options": []
     },
     {
-      "name": "Polkit-Kde-Agent-1",
-      "version": "5.27.7",
-      "options": []
-    },
-    {
       "name": "Powerdevil",
       "version": "5.27.7",
       "options": []

@@ -10,11 +10,6 @@
   "installedFiles": [],
   "dependencies": [
     {
-      "name": "Kde-Frameworks",
-      "version": "5.109.0",
-      "options": []
-    },
-    {
       "name": "Polkit-Qt-1",
       "version": "0.114.0",
       "options": []
