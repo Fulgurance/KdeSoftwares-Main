@@ -1,0 +1,24 @@
+{
+  "port": "KdeSoftwares-Main",
+  "name": "Konversation",
+  "version": "23.8.0",
+  "architectures": [
+    "x86_64"
+  ],
+  "description": "User-friendly and fully-featured IRC client",
+  "website": "https://invent.kde.org/network/konversation",
+  "installedFiles": [],
+  "dependencies": [
+    {
+      "name": "Kde-Frameworks",
+      "version": "5.109.0",
+      "options": []
+    }
+  ],
+  "kernelDependencies": [],
+  "options": [],
+  "uniqueDependencies": [],
+  "uniqueOptions": [],
+  "selectedDependencies": [],
+  "allowCodependencies": []
+}

@@ -1,0 +1,24 @@
+{
+  "port": "KdeSoftwares-Main",
+  "name": "Kolourpaint",
+  "version": "23.8.0",
+  "architectures": [
+    "x86_64"
+  ],
+  "description": "Easy-to-use paint program",
+  "website": "https://invent.kde.org/graphics/kolourpaint",
+  "installedFiles": [],
+  "dependencies": [
+    {
+      "name": "Kde-Frameworks",
+      "version": "5.109.0",
+      "options": []
+    }
+  ],
+  "kernelDependencies": [],
+  "options": [],
+  "uniqueDependencies": [],
+  "uniqueOptions": [],
+  "selectedDependencies": [],
+  "allowCodependencies": []
+}
