@@ -1,12 +1,12 @@
 {
   "port": "KdeSoftwares-Main",
-  "name": "Ocean-Sound-Theme",
-  "version": "5.27.8",
+  "name": "Oxygen-Sounds",
+  "version": "5.27.7",
   "architectures": [
     "x86_64"
   ],
-  "description": "Ocean Sound Theme for Plasma",
-  "website": "https://invent.kde.org/plasma/ocean-sound-theme",
+  "description": "The Oxygen Sound Theme",
+  "website": "https://invent.kde.org/plasma/oxygen-sounds",
   "installedFiles": [],
   "dependencies": [
     {
