@@ -13,6 +13,11 @@
       "name": "Kde-Frameworks",
       "version": "5.109.0",
       "options": []
+    },
+    {
+      "name": "Pipewire",
+      "version": ">=0.3.77",
+      "options": []
     }
   ],
   "kernelDependencies": [],
