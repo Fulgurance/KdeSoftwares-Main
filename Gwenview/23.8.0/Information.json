@@ -13,6 +13,11 @@
       "name": "Kde-Frameworks",
       "version": "5.109.0",
       "options": []
+    },
+    {
+      "name": "Exiv2",
+      "version": "0.28.0",
+      "options": []
     }
   ],
   "kernelDependencies": [],
