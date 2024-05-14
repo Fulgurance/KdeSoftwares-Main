@@ -1,7 +1,7 @@
 {
   "port": "KdeSoftwares-Main",
   "name": "Kcolorpicker",
-  "version": "0.6.1",
+  "version": "0.2.0",
   "architectures": [
     "x86_64"
   ],
