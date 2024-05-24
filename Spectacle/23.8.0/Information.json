@@ -2,16 +2,15 @@
   "port": "KdeSoftwares-Main",
   "name": "Spectacle",
   "version": "23.8.0",
-  "architectures": [
-    "x86_64"
-  ],
+  "architectures": ["x86_64"],
   "description": "Screenshot capture utility",
   "website": "https://invent.kde.org/graphics/spectacle",
   "installedFiles": [],
   "dependencies": [
     {
+      "port": "KdeBase-Main",
       "name": "Kpipewire",
-      "version": "5.27.7",
+      "version": ">=5.27.7",
       "options": []
     }
   ],

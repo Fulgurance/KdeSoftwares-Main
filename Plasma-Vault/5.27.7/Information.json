@@ -2,16 +2,15 @@
   "port": "KdeSoftwares-Main",
   "name": "Plasma-Vault",
   "version": "5.27.7",
-  "architectures": [
-    "x86_64"
-  ],
+  "architectures": ["x86_64"],
   "description": "Plasma applet and services for creating encrypted vaults",
   "website": "https://invent.kde.org/plasma/plasma-vault",
   "installedFiles": [],
   "dependencies": [
     {
+      "port": "KdeBase-Main",
       "name": "Kde-Frameworks",
-      "version": "5.109.0",
+      "version": ">=5.109.0",
       "options": []
     }
   ],

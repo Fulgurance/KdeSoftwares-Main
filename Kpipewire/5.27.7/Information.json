@@ -2,19 +2,19 @@
   "port": "KdeSoftwares-Main",
   "name": "Kpipewire",
   "version": "5.27.7",
-  "architectures": [
-    "x86_64"
-  ],
+  "architectures": ["x86_64"],
   "description": "Components relating to Flatpak 'pipewire' use in Plasma.",
   "website": "https://invent.kde.org/plasma/kpipewire",
   "installedFiles": [],
   "dependencies": [
     {
+      "port": "KdeBase-Main",
       "name": "Kde-Frameworks",
-      "version": "5.109.0",
+      "version": ">=5.109.0",
       "options": []
     },
     {
+      "port": "MultimediaSoftwares-Main",
       "name": "Pipewire",
       "version": ">=0.3.77",
       "options": []

@@ -2,21 +2,21 @@
   "port": "KdeSoftwares-Main",
   "name": "Ark",
   "version": "23.8.0",
-  "architectures": [
-    "x86_64"
-  ],
+  "architectures": ["x86_64"],
   "description": "Graphical file compression/decompression utility with support for multiple formats",
   "website": "https://apps.kde.org/en-gb/ark/",
   "installedFiles": [],
   "dependencies": [
     {
+      "port": "KdeBase-Main",
       "name": "Kde-Frameworks",
-      "version": "5.109.0",
+      "version": ">=5.109.0",
       "options": []
     },
     {
+      "port": "BaseLibraries-Main",
       "name": "Libarchive",
-      "version": "3.7.1",
+      "version": ">=3.7.1",
       "options": []
     }
   ],
@@ -28,8 +28,9 @@
       "active": false,
       "dependencies": [
         {
+          "port": "Archivers-Main",
           "name": "Cpio",
-          "version": "2.14.0",
+          "version": ">=2.14.0",
           "options": []
         }
       ],
@@ -41,8 +42,9 @@
       "active": false,
       "dependencies": [
         {
+          "port": "Archivers-Main",
           "name": "P7zip",
-          "version": "17.4.0",
+          "version": ">=17.4.0",
           "options": []
         }
       ],
@@ -54,8 +56,9 @@
       "active": false,
       "dependencies": [
         {
+          "port": "Archivers-Main",
           "name": "Unrar",
-          "version": "6.2.10",
+          "version": ">=6.2.10",
           "options": []
         }
       ],
@@ -67,8 +70,9 @@
       "active": false,
       "dependencies": [
         {
+          "port": "Archivers-Main",
           "name": "Unzip",
-          "version": "6.0.0",
+          "version": ">=6.0.0",
           "options": []
         }
       ],
@@ -80,8 +84,9 @@
       "active": false,
       "dependencies": [
         {
+          "port": "Archivers-Main",
           "name": "Zip",
-          "version": "3.0.0",
+          "version": ">=3.0.0",
           "options": []
         }
       ],

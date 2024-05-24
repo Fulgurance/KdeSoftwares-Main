@@ -2,16 +2,15 @@
   "port": "KdeSoftwares-Main",
   "name": "Plasma-Firewall",
   "version": "5.27.7",
-  "architectures": [
-    "x86_64"
-  ],
+  "architectures": ["x86_64"],
   "description": "Control Panel for your system firewall",
   "website": "https://invent.kde.org/plasma/plasma-firewall",
   "installedFiles": [],
   "dependencies": [
     {
+      "port": "KdeBase-Main",
       "name": "Kde-Frameworks",
-      "version": "5.109.0",
+      "version": ">=5.109.0",
       "options": []
     }
   ],

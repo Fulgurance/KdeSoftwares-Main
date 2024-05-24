@@ -2,34 +2,37 @@
   "port": "KdeSoftwares-Main",
   "name": "Kwin",
   "version": "5.27.7",
-  "architectures": [
-    "x86_64"
-  ],
+  "architectures": ["x86_64"],
   "description": "Easy to use, but flexible, X Window Manager and Wayland Compositor",
   "website": "https://invent.kde.org/plasma/kwin",
   "installedFiles": [],
   "dependencies": [
     {
+      "port": "KdeBase-Main",
       "name": "Kde-Frameworks",
       "version": ">=5.109.0",
       "options": []
     },
     {
+      "port": "InputDriverLibraries-Main",
       "name": "Libinput",
       "version": ">=1.23.0",
       "options": []
     },
     {
+      "port": "KdeSoftwares-Main",
       "name": "Kdecoration",
       "version": ">=5.27.7",
       "options": []
     },
     {
+      "port": "KdeSoftwares-Main",
       "name": "Kscreenlocker",
       "version": ">=5.27.7",
       "options": []
     },
     {
+      "port": "Utilities-Main",
       "name": "Lcms2",
       "version": ">=2.14.0",
       "options": []

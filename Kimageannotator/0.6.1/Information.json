@@ -2,16 +2,15 @@
   "port": "KdeSoftwares-Main",
   "name": "Kimageannotator",
   "version": "0.6.1",
-  "architectures": [
-    "x86_64"
-  ],
+  "architectures": ["x86_64"],
   "description": "Tool for annotating images",
   "website": "https://github.com/ksnip/kImageAnnotator",
   "installedFiles": [],
   "dependencies": [
     {
+      "port": "KdeSoftwares-Main",
       "name": "Kcolorpicker",
-      "version": "0.2.0",
+      "version": ">=0.2.0",
       "options": []
     }
   ],

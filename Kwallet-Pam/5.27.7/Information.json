@@ -2,16 +2,15 @@
   "port": "KdeSoftwares-Main",
   "name": "Kwallet-Pam",
   "version": "5.27.7",
-  "architectures": [
-    "x86_64"
-  ],
+  "architectures": ["x86_64"],
   "description": "PAM Integration with KWallet adn unlock KWallet when you login",
   "website": "https://invent.kde.org/plasma/kwallet-pam",
   "installedFiles": [],
   "dependencies": [
     {
+      "port": "KdeBase-Main",
       "name": "Kde-Frameworks",
-      "version": "5.109.0",
+      "version": ">=5.109.0",
       "options": []
     }
   ],

@@ -2,241 +2,285 @@
   "port": "KdeSoftwares-Main",
   "name": "Plasma-Desktop",
   "version": "5.27.7",
-  "architectures": [
-    "x86_64"
-  ],
+  "architectures": ["x86_64"],
   "description": "The Plasma KDE workspace",
   "website": "https://kde.org/plasma-desktop/",
   "installedFiles": [],
   "dependencies": [
     {
+      "port": "Utilities-Main",
       "name": "Accountsservice",
-      "version": "23.13.9",
+      "version": ">=23.13.9",
       "options": []
     },
     {
+      "port": "Utilities-Main",
       "name": "Udisks",
-      "version": "2.10.0",
+      "version": ">=2.10.0",
       "options": []
     },
     {
+      "port": "GraphicsLibraries-Main",
       "name": "Gtk+",
-      "version": "2.24.33",
+      "version": ">=2.24.33",
       "options": []
     },
     {
+      "port": "GraphicsLibraries-Main",
       "name": "Gtk+",
-      "version": "3.24.38",
+      "version": ">=3.24.38",
       "options": []
     },
     {
+      "port": "KdeBase-Main",
       "name": "Kde-Frameworks",
-      "version": "5.109.0",
+      "version": ">=5.109.0",
       "options": []
     },
     {
+      "port": "KdeBase-Main",
       "name": "Kuserfeedback",
-      "version": "1.2.0",
+      "version": ">=1.2.0",
       "options": []
     },
     {
+      "port": "SecurityLibraries-Main",
       "name": "Libpwquality",
-      "version": "1.4.5",
+      "version": ">=1.4.5",
       "options": []
     },
     {
+      "port": "BaseLibraries-Main",
       "name": "Libqalculate",
-      "version": "4.7.0",
+      "version": ">=4.7.0",
       "options": []
     },
     {
+      "port": "GraphicsLibraries-Main",
       "name": "Libxkbcommon",
-      "version": "1.5.0",
+      "version": ">=1.5.0",
       "options": []
     },
     {
+      "port": "GraphicsLibraries-Main",
       "name": "Mesa",
-      "version": "23.1.6",
+      "version": ">=23.1.6",
       "options": ["Wayland-Protocols"]
     },
     {
+      "port": "BaseLibraries-Main",
       "name": "Qca",
-      "version": "2.3.7",
+      "version": ">=2.3.7",
       "options": []
     },
     {
+      "port": "BaseLibraries-Main",
       "name": "Sassc",
-      "version": "3.6.2",
+      "version": ">=3.6.2",
       "options": []
     },
     {
+      "port": "MultimediaLibraries-Main",
       "name": "Taglib",
-      "version": "1.13.1",
+      "version": ">=1.13.1",
       "options": []
     },
     {
+      "port": "GraphicsLibraries-Main",
       "name": "Xcb-Util-Cursor",
-      "version": "0.1.4",
+      "version": ">=0.1.4",
       "options": []
     },
     {
+      "port": "KdeSoftwares-Main",
       "name": "Kdecoration",
-      "version": "5.27.7",
+      "version": ">=5.27.7",
       "options": []
     },
     {
+      "port": "KdeSoftwares-Main",
       "name": "Libkscreen",
-      "version": "5.27.7",
+      "version": ">=5.27.7",
       "options": []
     },
     {
+      "port": "KdeSoftwares-Main",
       "name": "Libksysguard",
-      "version": "5.27.7",
+      "version": ">=5.27.7",
       "options": []
     },
     {
+      "port": "KdeSoftwares-Main",
       "name": "Breeze",
-      "version": "5.27.7",
+      "version": ">=5.27.7",
       "options": []
     },
     {
+      "port": "KdeSoftwares-Main",
       "name": "Breeze-Gtk",
-      "version": "5.27.7",
+      "version": ">=5.27.7",
       "options": []
     },
     {
+      "port": "KdeSoftwares-Main",
       "name": "Layer-Shell-Qt",
-      "version": "5.27.7",
+      "version": ">=5.27.7",
       "options": []
     },
     {
+      "port": "KdeSoftwares-Main",
       "name": "Kscreenlocker",
-      "version": "5.27.7",
+      "version": ">=5.27.7",
       "options": []
     },
     {
+      "port": "KdeSoftwares-Main",
       "name": "Oxygen",
-      "version": "5.27.7",
+      "version": ">=5.27.7",
       "options": []
     },
     {
+      "port": "KdeSoftwares-Main",
       "name": "Kinfocenter",
-      "version": "5.27.7",
+      "version": ">=5.27.7",
       "options": []
     },
     {
+      "port": "KdeSoftwares-Main",
       "name": "Kwin",
-      "version": "5.27.7",
+      "version": ">=5.27.7",
       "options": []
     },
     {
+      "port": "KdeSoftwares-Main",
       "name": "Plasma-Workspace",
-      "version": "5.27.7",
+      "version": ">=5.27.7",
       "options": []
     },
     {
+      "port": "KdeSoftwares-Main",
       "name": "Kdecoration",
-      "version": "5.27.7",
+      "version": ">=5.27.7",
       "options": []
     },
     {
+      "port": "KdeSoftwares-Main",
       "name": "Kde-Gtk-Config",
-      "version": "5.27.7",
+      "version": ">=5.27.7",
       "options": []
     },
     {
+      "port": "KdeSoftwares-Main",
       "name": "Khotkeys",
-      "version": "5.27.7",
+      "version": ">=5.27.7",
       "options": []
     },
     {
+      "port": "KdeSoftwares-Main",
       "name": "Kmenuedit",
-      "version": "5.27.7",
+      "version": ">=5.27.7",
       "options": []
     },
     {
+      "port": "KdeSoftwares-Main",
       "name": "Kscreen",
-      "version": "5.27.7",
+      "version": ">=5.27.7",
       "options": []
     },
     {
+      "port": "KdeSoftwares-Main",
       "name": "Kwallet-Pam",
-      "version": "5.27.7",
+      "version": ">=5.27.7",
       "options": []
     },
     {
+      "port": "KdeSoftwares-Main",
       "name": "Kwayland-Integration",
-      "version": "5.27.7",
+      "version": ">=5.27.7",
       "options": []
     },
     {
+      "port": "KdeSoftwares-Main",
       "name": "Kwrited",
-      "version": "5.27.7",
+      "version": ">=5.27.7",
       "options": []
     },
     {
+      "port": "KdeSoftwares-Main",
       "name": "Milou",
-      "version": "5.27.7",
+      "version": ">=5.27.7",
       "options": []
     },
     {
+      "port": "KdeSoftwares-Main",
       "name": "Plasma-Workspace-Wallpapers",
-      "version": "5.27.7",
+      "version": ">=5.27.7",
       "options": []
     },
     {
+      "port": "KdeSoftwares-Main",
       "name": "Powerdevil",
-      "version": "5.27.7",
+      "version": ">=5.27.7",
       "options": []
     },
     {
+      "port": "KdeSoftwares-Main",
       "name": "Kdeplasma-Addons",
-      "version": "5.27.7",
+      "version": ">=5.27.7",
       "options": []
     },
     {
+      "port": "KdeSoftwares-Main",
       "name": "Kgamma5",
-      "version": "5.27.7",
+      "version": ">=5.27.7",
       "options": []
     },
     {
+      "port": "KdeSoftwares-Main",
       "name": "Kactivitymanagerd",
-      "version": "5.27.7",
+      "version": ">=5.27.7",
       "options": []
     },
     {
+      "port": "KdeSoftwares-Main",
       "name": "Plasma-Integration",
-      "version": "5.27.7",
+      "version": ">=5.27.7",
       "options": []
     },
     {
+      "port": "KdeSoftwares-Main",
       "name": "Plasma-Browser-Integration",
-      "version": "5.27.7",
+      "version": ">=5.27.7",
       "options": []
     },
     {
+      "port": "KdeSoftwares-Main",
       "name": "Kde-Cli-Tools",
-      "version": "5.27.7",
+      "version": ">=5.27.7",
       "options": []
     },
     {
+      "port": "KdeSoftwares-Main",
       "name": "Systemsettings",
-      "version": "5.27.7",
+      "version": ">=5.27.7",
       "options": []
     },
     {
+      "port": "KdeSoftwares-Main",
       "name": "Qqc2-Breeze-Style",
-      "version": "5.27.7",
+      "version": ">=5.27.7",
       "options": []
     },
     {
+      "port": "KdeSoftwares-Main",
       "name": "Ksystemstats",
-      "version": "5.27.7",
+      "version": ">=5.27.7",
       "options": []
     },
     {
+      "port": "KdeSoftwares-Main",
       "name": "Kio-Extras",
-      "version": "23.8.0",
+      "version": ">=23.8.0",
       "options": []
     }
   ],
@@ -248,6 +292,7 @@
       "active": true,
       "dependencies": [
         {
+          "port": "Security-Main",
           "name": "Linux-Pam",
           "version": "1.5.3",
           "options": []
@@ -261,8 +306,9 @@
       "active": true,
       "dependencies": [
         {
+          "port": "KdeSoftwares-Main",
           "name": "Bluedevil",
-          "version": "5.27.7",
+          "version": ">=5.27.7",
           "options": []
         }
       ],
@@ -274,8 +320,9 @@
       "active": true,
       "dependencies": [
         {
+          "port": "NetworkingTools-Main",
           "name": "Plasma-Nm",
-          "version": "5.27.7",
+          "version": ">=5.27.7",
           "options": []
         }
       ],
@@ -287,8 +334,9 @@
       "active": true,
       "dependencies": [
         {
+          "port": "NetworkingTools-Main",
           "name": "ModemManager-Qt",
-          "version": "5.109.0",
+          "version": ">=5.109.0",
           "options": []
         }
       ],
@@ -300,13 +348,15 @@
       "active": true,
       "dependencies": [
         {
+          "port": "MultimediaSoftwares-Main",
           "name": "Pulseaudio",
-          "version": "16.1.0",
+          "version": ">=16.1.0",
           "options": []
         },
         {
+          "port": "KdeSoftwares-Main",
           "name": "Plasma-Pa",
-          "version": "5.27.7",
+          "version": ">=5.27.7",
           "options": []
         }
       ],
@@ -318,8 +368,9 @@
       "active": true,
       "dependencies": [
         {
+          "port": "MultimediaLibraries-Main",
           "name": "Phonon-Backend-Gstreamer",
-          "version": "4.10.0",
+          "version": ">=4.10.0",
           "options": []
         }
       ],
@@ -331,8 +382,9 @@
       "active": false,
       "dependencies": [
         {
+          "port": "MultimediaLibraries-Main",
           "name": "Phonon-Backend-Vlc",
-          "version": "0.11.3",
+          "version": ">=0.11.3",
           "options": []
         }
       ],
@@ -344,13 +396,15 @@
       "active": false,
       "dependencies": [
         {
+          "port": "DisplayManagers-Main",
           "name": "Sddm",
-          "version": "0.20.0",
+          "version": ">=0.20.0",
           "options": []
         },
         {
+          "port": "KdeSoftwares-Main",
           "name": "Sddm-Kcm",
-          "version": "5.27.7",
+          "version": ">=5.27.7",
           "options": []
         }
       ],

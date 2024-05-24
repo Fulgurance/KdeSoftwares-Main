@@ -2,16 +2,15 @@
   "port": "KdeSoftwares-Main",
   "name": "Kgamma5",
   "version": "5.27.7",
-  "architectures": [
-    "x86_64"
-  ],
+  "architectures": ["x86_64"],
   "description": "Adjust your monitor's gamma settings",
   "website": "https://invent.kde.org/plasma/kgamma5",
   "installedFiles": [],
   "dependencies": [
     {
+      "port": "KdeBase-Main",
       "name": "Kde-Frameworks",
-      "version": "5.109.0",
+      "version": ">=5.109.0",
       "options": []
     }
   ],

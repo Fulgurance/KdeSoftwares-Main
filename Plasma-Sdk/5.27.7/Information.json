@@ -2,16 +2,15 @@
   "port": "KdeSoftwares-Main",
   "name": "Plasma-Sdk",
   "version": "5.27.7",
-  "architectures": [
-    "x86_64"
-  ],
+  "architectures": ["x86_64"],
   "description": "Applications useful for Plasma development",
   "website": "https://invent.kde.org/plasma/plasma-sdk",
   "installedFiles": [],
   "dependencies": [
     {
+      "port": "KdeBase-Main",
       "name": "Kde-Frameworks",
-      "version": "5.109.0",
+      "version": ">=5.109.0",
       "options": []
     }
   ],

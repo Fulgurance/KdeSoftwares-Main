@@ -2,16 +2,15 @@
   "port": "KdeSoftwares-Main",
   "name": "Bluedevil",
   "version": "5.27.7",
-  "architectures": [
-    "x86_64"
-  ],
+  "architectures": ["x86_64"],
   "description": "Bluedevil adds Bluetooth capabilities to KDE Plasma",
   "website": "https://invent.kde.org/plasma/bluedevil",
   "installedFiles": [],
   "dependencies": [
     {
+      "port": "KdeBase-Main",
       "name": "Kde-Frameworks",
-      "version": "5.109.0",
+      "version": ">=5.109.0",
       "options": []
     }
   ],

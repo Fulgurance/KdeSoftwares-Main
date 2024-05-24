@@ -2,16 +2,15 @@
   "port": "KdeSoftwares-Main",
   "name": "Sddm-Kcm",
   "version": "5.27.7",
-  "architectures": [
-    "x86_64"
-  ],
+  "architectures": ["x86_64"],
   "description": "Configuration module for SDDM",
   "website": "https://invent.kde.org/plasma/sddm-kcm",
   "installedFiles": [],
   "dependencies": [
     {
+      "port": "KdeBase-Main",
       "name": "Kde-Frameworks",
-      "version": "5.109.0",
+      "version": ">=5.109.0",
       "options": []
     }
   ],
