@@ -320,7 +320,7 @@
       "active": true,
       "dependencies": [
         {
-          "port": "NetworkingTools-Main",
+          "port": "KdeSoftwares-Main",
           "name": "Plasma-Nm",
           "version": ">=5.27.7",
           "options": []
