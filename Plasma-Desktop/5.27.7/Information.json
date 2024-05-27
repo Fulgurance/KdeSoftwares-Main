@@ -334,7 +334,7 @@
       "active": true,
       "dependencies": [
         {
-          "port": "NetworkingTools-Main",
+          "port": "KdeBase-Main",
           "name": "ModemManager-Qt",
           "version": ">=5.109.0",
           "options": []
