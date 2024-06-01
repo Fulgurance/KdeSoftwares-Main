@@ -26,6 +26,10 @@ class Target < ISM::Software
         super
 
         makeSource(["DESTDIR=#{builtSoftwareDirectoryPath}#{Ism.settings.rootPath}","install"],buildDirectoryPath)
+
+        fileReplaceText("#{builtSoftwareDirectoryPath(false)}#{Ism.settings.rootPath}usr/share/applications/org.kde.okular.desktop",
+                        "Categories=Qt;KDE;Graphics;Office;Viewer;",
+                        "Categories=Qt;KDE;Graphics;Viewer;")
     end
 
 end
