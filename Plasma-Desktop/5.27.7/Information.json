@@ -393,7 +393,7 @@
     {
       "name": "Sddm",
       "description": "Enable sddm support",
-      "active": false,
+      "active": true,
       "dependencies": [
         {
           "port": "DisplayManagers-Main",
