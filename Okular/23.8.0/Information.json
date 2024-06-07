@@ -15,7 +15,64 @@
     }
   ],
   "kernelDependencies": [],
-  "options": [],
+  "options": [
+    {
+      "name": "Libkexiv2",
+      "description": "Enable libkexiv2 support",
+      "active": false,
+      "dependencies": [
+        {
+          "port": "GraphicsLibraries-Main",
+          "name": "Libkexiv2",
+          "version": ">=23.8.0",
+          "options": []
+        }
+      ],
+      "kernelDependencies": []
+    },
+    {
+      "name": "Libtiff",
+      "description": "Enable libtiff support",
+      "active": false,
+      "dependencies": [
+        {
+          "port": "GraphicsLibraries-Main",
+          "name": "Libtiff",
+          "version": ">=4.5.1",
+          "options": []
+        }
+      ],
+      "kernelDependencies": []
+    },
+    {
+      "name": "Poppler",
+      "description": "Enable poppler for PDF support",
+      "active": false,
+      "dependencies": [
+        {
+          "port": "GraphicsLibraries-Main",
+          "name": "Poppler",
+          "version": ">=23.8.0",
+          "options": ["Qt"]
+        }
+      ],
+      "kernelDependencies": []
+    },
+    {
+      "name": "Qca",
+      "description": "Enable qca support",
+      "active": false,
+      "dependencies": [
+        {
+          "port": "BaseLibraries-Main",
+          "name": "Qca",
+          "version": ">=2.3.7",
+          "options": []
+        }
+      ],
+      "kernelDependencies": []
+    }
+  ],
   "uniqueDependencies": [],
   "uniqueOptions": [],
   "selectedDependencies": [],
