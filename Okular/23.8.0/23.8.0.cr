@@ -11,6 +11,7 @@ class Target < ISM::Software
         runCmakeCommand([   "-DCMAKE_INSTALL_PREFIX=/usr",
                             "-DCMAKE_BUILD_TYPE=Release",
                             "-DBUILD_TESTING=OFF",
+                            "-DFORCE_NOT_REQUIRED_DEPENDENCIES=ON",
                             "-Wno-dev",
                             ".."],
                             buildDirectoryPath)
