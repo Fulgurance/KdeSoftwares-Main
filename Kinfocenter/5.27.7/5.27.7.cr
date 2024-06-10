@@ -27,13 +27,13 @@ class Target < ISM::Software
 
         makeSource(["DESTDIR=#{builtSoftwareDirectoryPath}#{Ism.settings.rootPath}","install"],buildDirectoryPath)
 
-        makeDirectory("#{builtSoftwareDirectoryPath(false)}#{Ism.settings.rootPath}etc/xdg")
+        makeDirectory("#{builtSoftwareDirectoryPath}#{Ism.settings.rootPath}etc/xdg")
 
         kcmAboutDistrorcData = <<-CODE
         [General]
         Name=#{Ism.settings.systemName}
         CODE
-        fileWriteData("#{builtSoftwareDirectoryPath(false)}#{Ism.settings.rootPath}etc/xdg/kcm-about-distrorc",kcmAboutDistrorcData)
+        fileWriteData("#{builtSoftwareDirectoryPath}#{Ism.settings.rootPath}etc/xdg/kcm-about-distrorc",kcmAboutDistrorcData)
     end
 
     def install

@@ -28,7 +28,7 @@ class Target < ISM::Software
         makeSource(["DESTDIR=#{builtSoftwareDirectoryPath}#{Ism.settings.rootPath}","install"],buildDirectoryPath)
 
         if option("Linux-Pam")
-            makeDirectory("#{builtSoftwareDirectoryPath(false)}#{Ism.settings.rootPath}etc/pam.d")
+            makeDirectory("#{builtSoftwareDirectoryPath}#{Ism.settings.rootPath}etc/pam.d")
 
             kdeData = <<-CODE
             auth requisite pam_nologin.so
@@ -39,7 +39,7 @@ class Target < ISM::Software
             password include system-password
             session include system-session
             CODE
-            fileWriteData("#{builtSoftwareDirectoryPath(false)}#{Ism.settings.rootPath}etc/pam.d/kde",kdeData)
+            fileWriteData("#{builtSoftwareDirectoryPath}#{Ism.settings.rootPath}etc/pam.d/kde",kdeData)
 
             kdeNpData = <<-CODE
             auth requisite pam_nologin.so
@@ -50,18 +50,18 @@ class Target < ISM::Software
             password include system-password
             session include system-session
             CODE
-            fileWriteData("#{builtSoftwareDirectoryPath(false)}#{Ism.settings.rootPath}etc/pam.d/kde-np",kdeNpData)
+            fileWriteData("#{builtSoftwareDirectoryPath}#{Ism.settings.rootPath}etc/pam.d/kde-np",kdeNpData)
 
             kscreensaverData = <<-CODE
             auth include system-auth
             account include system-account
             CODE
-            fileWriteData("#{builtSoftwareDirectoryPath(false)}#{Ism.settings.rootPath}etc/pam.d/kscreensaver",kscreensaverData)
+            fileWriteData("#{builtSoftwareDirectoryPath}#{Ism.settings.rootPath}etc/pam.d/kscreensaver",kscreensaverData)
         end
 
         if !option("Emojier")
-            deleteFile("#{builtSoftwareDirectoryPath(false)}#{Ism.settings.rootPath}usr/bin/plasma-emojier")
-            deleteFile("#{builtSoftwareDirectoryPath(false)}#{Ism.settings.rootPath}usr/share/applications/org.kde.plasma.emojier.desktop")
+            deleteFile("#{builtSoftwareDirectoryPath}#{Ism.settings.rootPath}usr/bin/plasma-emojier")
+            deleteFile("#{builtSoftwareDirectoryPath}#{Ism.settings.rootPath}usr/share/applications/org.kde.plasma.emojier.desktop")
         end
     end
 
