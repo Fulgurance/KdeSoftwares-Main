@@ -8,12 +8,12 @@ class Target < ISM::Software
     def configure
         super
 
-        runCmakeCommand([   "-DCMAKE_INSTALL_PREFIX=/usr",
-                            "-DCMAKE_BUILD_TYPE=Release",
-                            "-DBUILD_TESTING=OFF",
-                            "-Wno-dev",
-                            ".."],
-                            buildDirectoryPath)
+        runCmakeCommand(arguments:  "-DCMAKE_INSTALL_PREFIX=/usr    \
+                                    -DCMAKE_BUILD_TYPE=Release      \
+                                    -DBUILD_TESTING=OFF             \
+                                    -Wno-dev                        \
+                                    ..",
+                        path:       buildDirectoryPath)
     end
     
     def build
@@ -25,17 +25,17 @@ class Target < ISM::Software
     def prepareInstallation
         super
 
-        makeSource(["DESTDIR=#{builtSoftwareDirectoryPath}#{Ism.settings.rootPath}","install"],buildDirectoryPath)
+        makeSource( arguments:  "DESTDIR=#{builtSoftwareDirectoryPath}#{Ism.settings.rootPath} install",
+                    path:       buildDirectoryPath)
 
-        fileReplaceTextAtLineNumber("#{builtSoftwareDirectoryPath}#{Ism.settings.rootPath}/usr/share/xsessions/plasma.desktop","Exec=/usr/bin/startplasma-x11","Exec=dbus-launch --exit-with-session startplasma-x11",3)
-        fileReplaceText("#{builtSoftwareDirectoryPath}#{Ism.settings.rootPath}/usr/share/xsessions/plasma.desktop","TryExec=/usr/bin/startplasma-x11","TryExec=/usr/bin/startplasma-x11")
-        fileReplaceText("#{builtSoftwareDirectoryPath}#{Ism.settings.rootPath}/usr/share/wayland-sessions/plasmawayland.desktop","Exec=/usr/lib/libexec/plasma-dbus-run-session-if-needed /usr/bin/startplasma-wayland","Exec=dbus-launch --exit-with-session startplasma-wayland")
-    end
+        fileReplaceTextAtLineNumber(path:       "#{builtSoftwareDirectoryPath}#{Ism.settings.rootPath}/usr/share/xsessions/plasma.desktop",
+                                    text:       "Exec=/usr/bin/startplasma-x11",
+                                    newText:    "Exec=dbus-launch --exit-with-session startplasma-x11",
+                                    lineNumber: 3)
 
-    def install
-        super
-
-        runLdconfigCommand
+        fileReplaceText(path:       "#{builtSoftwareDirectoryPath}#{Ism.settings.rootPath}/usr/share/wayland-sessions/plasmawayland.desktop",
+                        text:       "Exec=/usr/lib/libexec/plasma-dbus-run-session-if-needed /usr/bin/startplasma-wayland",
+                        newText:    "Exec=dbus-launch --exit-with-session startplasma-wayland")
     end
 
 end

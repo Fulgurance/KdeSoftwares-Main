@@ -8,11 +8,11 @@ class Target < ISM::Software
     def configure
         super
 
-        runCmakeCommand([   "-DCMAKE_INSTALL_PREFIX=/usr",
-                            "-DCMAKE_BUILD_TYPE=Release",
-                            "-DBUILD_TESTING=OFF",
-                            "-Wno-dev",
-                            ".."],
+        runCmakeCommand(arguments:  "-DCMAKE_INSTALL_PREFIX=/usr    \
+                                    -DCMAKE_BUILD_TYPE=Release      \
+                                    -DBUILD_TESTING=OFF             \
+                                    -Wno-dev                        \
+                                    ..",
                             buildDirectoryPath)
     end
     
@@ -25,7 +25,8 @@ class Target < ISM::Software
     def prepareInstallation
         super
 
-        makeSource(["DESTDIR=#{builtSoftwareDirectoryPath}#{Ism.settings.rootPath}","install"],buildDirectoryPath)
+        makeSource( arguments:  "DESTDIR=#{builtSoftwareDirectoryPath}#{Ism.settings.rootPath} install",
+                    path:       buildDirectoryPath)
 
         if option("Linux-Pam")
             makeDirectory("#{builtSoftwareDirectoryPath}#{Ism.settings.rootPath}etc/pam.d")
@@ -63,12 +64,6 @@ class Target < ISM::Software
             deleteFile("#{builtSoftwareDirectoryPath}#{Ism.settings.rootPath}usr/bin/plasma-emojier")
             deleteFile("#{builtSoftwareDirectoryPath}#{Ism.settings.rootPath}usr/share/applications/org.kde.plasma.emojier.desktop")
         end
-    end
-
-    def install
-        super
-
-        runLdconfigCommand
     end
 
 end

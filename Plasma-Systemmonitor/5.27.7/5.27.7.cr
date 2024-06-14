@@ -4,34 +4,29 @@ class Target < ISM::Software
         @buildDirectory = true
         super
     end
-    
+
     def configure
         super
 
-        runCmakeCommand([   "-DCMAKE_INSTALL_PREFIX=/usr",
-                            "-DCMAKE_BUILD_TYPE=Release",
-                            "-DBUILD_TESTING=OFF",
-                            "-Wno-dev",
-                            ".."],
-                            buildDirectoryPath)
+        runCmakeCommand(arguments:  "-DCMAKE_INSTALL_PREFIX=/usr    \
+                                    -DCMAKE_BUILD_TYPE=Release      \
+                                    -DBUILD_TESTING=OFF             \
+                                    -Wno-dev                        \
+                                    ..",
+                        path:       buildDirectoryPath)
     end
-    
+
     def build
         super
 
         makeSource(path: buildDirectoryPath)
     end
-    
+
     def prepareInstallation
         super
 
-        makeSource(["DESTDIR=#{builtSoftwareDirectoryPath}#{Ism.settings.rootPath}","install"],buildDirectoryPath)
-    end
-
-    def install
-        super
-
-        runLdconfigCommand
+        makeSource( arguments:  "DESTDIR=#{builtSoftwareDirectoryPath}#{Ism.settings.rootPath} install",
+                    path:       buildDirectoryPath)
     end
 
 end

@@ -8,13 +8,13 @@ class Target < ISM::Software
     def configure
         super
 
-        runCmakeCommand([   "-DCMAKE_INSTALL_PREFIX=/usr",
-                            "-DCMAKE_BUILD_TYPE=Release",
-                            "-DBUILD_TESTING=OFF",
-                            "-DBUILD_kwrite=OFF",
-                            "-Wno-dev",
-                            ".."],
-                            buildDirectoryPath)
+        runCmakeCommand(arguments:  "-DCMAKE_INSTALL_PREFIX=/usr    \
+                                    -DCMAKE_BUILD_TYPE=Release      \
+                                    -DBUILD_TESTING=OFF             \
+                                    -DBUILD_kwrite=OFF              \
+                                    -Wno-dev                        \
+                                    ..",
+                        path:       buildDirectoryPath)
     end
     
     def build
@@ -26,16 +26,17 @@ class Target < ISM::Software
     def prepareInstallation
         super
 
-        makeSource(["DESTDIR=#{builtSoftwareDirectoryPath}#{Ism.settings.rootPath}","install"],buildDirectoryPath)
+        makeSource( arguments:  "DESTDIR=#{builtSoftwareDirectoryPath}#{Ism.settings.rootPath} install",
+                    path:       buildDirectoryPath)
 
-        fileReplaceText("#{builtSoftwareDirectoryPath}#{Ism.settings.rootPath}usr/share/applications/org.kde.kate.desktop",
-                        "Categories=Qt;KDE;Utility;TextEditor;Development;",
-                        "Categories=Qt;KDE;Utility;TextEditor;")
+        fileReplaceText(path:       "#{builtSoftwareDirectoryPath}#{Ism.settings.rootPath}usr/share/applications/org.kde.kate.desktop",
+                        text:       "Categories=Qt;KDE;Utility;TextEditor;Development;",
+                        newText:    "Categories=Qt;KDE;Utility;TextEditor;")
 
         if option("MultipleInstances")
-            fileReplaceText("#{builtSoftwareDirectoryPath}#{Ism.settings.rootPath}usr/share/applications/org.kde.kate.desktop",
-                        "Exec=kate -b %U",
-                        "Exec=kate -n")
+            fileReplaceText(path:       "#{builtSoftwareDirectoryPath}#{Ism.settings.rootPath}usr/share/applications/org.kde.kate.desktop",
+                            text:       "Exec=kate -b %U",
+                            newText:    "Exec=kate -n")
         end
     end
 
