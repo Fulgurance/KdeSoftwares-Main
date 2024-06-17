@@ -13,7 +13,7 @@ class Target < ISM::Software
                                     -DBUILD_TESTING=OFF             \
                                     -Wno-dev                        \
                                     ..",
-                            buildDirectoryPath)
+                        path:       buildDirectoryPath)
     end
     
     def build
