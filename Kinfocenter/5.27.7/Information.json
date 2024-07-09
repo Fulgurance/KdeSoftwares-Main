@@ -12,6 +12,12 @@
       "name": "Kde-Frameworks",
       "version": ">=5.109.0",
       "options": []
+    },
+    {
+      "port": "Utilities-Main",
+      "name": "Aha",
+      "version": ">=0.5.1",
+      "options": []
     }
   ],
   "kernelDependencies": [],
