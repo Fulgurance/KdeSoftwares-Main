@@ -28,14 +28,9 @@ class Target < ISM::Software
         makeSource( arguments:  "DESTDIR=#{builtSoftwareDirectoryPath}#{Ism.settings.rootPath} install",
                     path:       buildDirectoryPath)
 
-        fileReplaceTextAtLineNumber(path:       "#{builtSoftwareDirectoryPath}#{Ism.settings.rootPath}/usr/share/xsessions/plasma.desktop",
-                                    text:       "Exec=/usr/bin/startplasma-x11",
-                                    newText:    "Exec=dbus-launch --exit-with-session startplasma-x11",
-                                    lineNumber: 3)
-
         fileReplaceText(path:       "#{builtSoftwareDirectoryPath}#{Ism.settings.rootPath}/usr/share/wayland-sessions/plasmawayland.desktop",
                         text:       "Exec=/usr/lib/libexec/plasma-dbus-run-session-if-needed /usr/bin/startplasma-wayland",
-                        newText:    "Exec=dbus-launch --exit-with-session startplasma-wayland")
+                        text:       "Exec=/usr/lib64/libexec/plasma-dbus-run-session-if-needed /usr/bin/startplasma-wayland"")
     end
 
 end
