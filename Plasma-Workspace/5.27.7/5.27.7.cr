@@ -30,7 +30,7 @@ class Target < ISM::Software
 
         fileReplaceText(path:       "#{builtSoftwareDirectoryPath}#{Ism.settings.rootPath}/usr/share/wayland-sessions/plasmawayland.desktop",
                         text:       "Exec=/usr/lib/libexec/plasma-dbus-run-session-if-needed /usr/bin/startplasma-wayland",
-                        newText:       "Exec=/usr/lib64/libexec/plasma-dbus-run-session-if-needed /usr/bin/startplasma-wayland"")
+                        newText:    "Exec=/usr/lib64/libexec/plasma-dbus-run-session-if-needed /usr/bin/startplasma-wayland")
     end
 
 end
