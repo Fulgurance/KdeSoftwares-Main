@@ -237,7 +237,7 @@
     },
     {
       "port": "KdeSoftwares-Main",
-      "name": "Kgamma5",
+      "name": "Kgamma",
       "version": ">=5.27.7",
       "options": []
     },
