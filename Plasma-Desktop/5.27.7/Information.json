@@ -9,6 +9,12 @@
   "dependencies": [
     {
       "port": "Utilities-Main",
+      "name": "Pciutils",
+      "version": ">=3.10.0",
+      "options": []
+    },
+    {
+      "port": "Utilities-Main",
       "name": "Accountsservice",
       "version": ">=23.13.9",
       "options": []
