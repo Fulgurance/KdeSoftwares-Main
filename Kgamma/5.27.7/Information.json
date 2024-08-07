@@ -1,6 +1,6 @@
 {
   "port": "KdeSoftwares-Main",
-  "name": "Kgamma5",
+  "name": "Kgamma",
   "version": "5.27.7",
   "architectures": ["x86_64"],
   "description": "Adjust your monitor's gamma settings",
