@@ -12,6 +12,12 @@
       "name": "Kde-Frameworks",
       "version": ">=5.109.0",
       "options": []
+    },
+    {
+      "port": "NetworkingTools-Main",
+      "name": "Bluez",
+      "version": ">=5.68.0",
+      "options": []
     }
   ],
   "kernelDependencies": [],
