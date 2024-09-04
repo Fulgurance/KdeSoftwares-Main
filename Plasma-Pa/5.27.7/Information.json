@@ -17,6 +17,12 @@
       "port": "MultimediaLibraries-Main",
       "name": "Libcanberra",
       "version": ">=0.30.0",
+      "options": ["Gstreamer","Pulseaudio"]
+    },
+    {
+      "port": "MultimediaLibraries-Main",
+      "name": "Sound-Theme-Freedesktop",
+      "version": ">=0.8.0",
       "options": []
     }
   ],
