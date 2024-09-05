@@ -23,6 +23,20 @@
   "kernelDependencies": [],
   "options": [
     {
+      "name": "Libssh2",
+      "description": "Enable libssh2 support",
+      "active": false,
+      "dependencies": [
+        {
+          "port": "NetworkingLibraries-Main",
+          "name": "Libssh2",
+          "version": ">=1.11.0",
+          "options": []
+        }
+      ],
+      "kernelDependencies": []
+    },
+    {
       "name": "Libtirpc",
       "description": "Enable libtirpc support",
       "active": false,
