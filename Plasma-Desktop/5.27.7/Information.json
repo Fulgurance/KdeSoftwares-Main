@@ -288,6 +288,18 @@
       "name": "Kio-Extras",
       "version": ">=23.8.0",
       "options": []
+    },
+    {
+      "port": "MultimediaLibraries-Main",
+      "name": "Sound-Theme-Freedesktop",
+      "version": ">=0.8.0",
+      "options": []
+    },
+    {
+      "port": "KdeSoftwares-Main",
+      "name": "Oxygen-Sounds",
+      "version": ">=5.27.7",
+      "options": []
     }
   ],
   "kernelDependencies": [],
