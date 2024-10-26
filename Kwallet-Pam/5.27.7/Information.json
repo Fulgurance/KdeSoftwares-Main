@@ -12,6 +12,12 @@
       "name": "Kde-Frameworks",
       "version": ">=5.109.0",
       "options": []
+    },
+    {
+      "port": "Utilities-Main",
+      "name": "Socat",
+      "version": ">=1.8.0-r1",
+      "options": []
     }
   ],
   "kernelDependencies": [],
