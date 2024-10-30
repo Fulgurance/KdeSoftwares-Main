@@ -10,7 +10,7 @@
     {
       "port": "KdeBase-Main",
       "name": "Kde-Frameworks",
-      "version": ">=5.109.0",
+      "version": ">=5.0.0 ~ <6.0.0",
       "options": []
     },
     {
@@ -22,13 +22,13 @@
     {
       "port": "KdeSoftwares-Main",
       "name": "Kdecoration",
-      "version": ">=5.27.7",
+      "version": ">=5.0.0 ~ <6.0.0",
       "options": []
     },
     {
       "port": "KdeSoftwares-Main",
       "name": "Kscreenlocker",
-      "version": ">=5.27.7",
+      "version": ">=5.0.0 ~ <6.0.0",
       "options": []
     },
     {
