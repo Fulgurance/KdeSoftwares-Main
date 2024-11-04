@@ -1,0 +1,23 @@
+{
+  "port": "KdeSoftwares-Main",
+  "name": "Ocean-Sound-Theme",
+  "version": "6.2.2",
+  "architectures": ["x86_64"],
+  "description": "Ocean Sound Theme for Plasma",
+  "website": "https://invent.kde.org/plasma/ocean-sound-theme",
+  "installedFiles": [],
+  "dependencies": [
+    {
+      "port": "KdeBase-Main",
+      "name": "Kde-Frameworks",
+      "version": ">=6.0.0 ~ <7.0.0",
+      "options": []
+    }
+  ],
+  "kernelDependencies": [],
+  "options": [],
+  "uniqueDependencies": [],
+  "uniqueOptions": [],
+  "selectedDependencies": [],
+  "allowCodependencies": []
+}
