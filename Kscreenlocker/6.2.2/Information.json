@@ -1,0 +1,29 @@
+{
+  "port": "KdeSoftwares-Main",
+  "name": "Kscreenlocker",
+  "version": "6.2.2",
+  "architectures": ["x86_64"],
+  "description": "Library and components for secure lock screen architecture",
+  "website": "https://invent.kde.org/plasma/kscreenlocker",
+  "installedFiles": [],
+  "dependencies": [
+    {
+      "port": "KdeBase-Main",
+      "name": "Kde-Frameworks",
+      "version": ">=6.0.0 ~ <7.0.0",
+      "options": []
+    },
+    {
+      "port": "KdeSoftwares-Main",
+      "name": "Layer-Shell-Qt",
+      "version": ">=6.0.0 ~ <7.0.0",
+      "options": []
+    }
+  ],
+  "kernelDependencies": [],
+  "options": [],
+  "uniqueDependencies": [],
+  "uniqueOptions": [],
+  "selectedDependencies": [],
+  "allowCodependencies": []
+}

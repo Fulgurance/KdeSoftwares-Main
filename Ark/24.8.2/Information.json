@@ -1,0 +1,100 @@
+{
+  "port": "KdeSoftwares-Main",
+  "name": "Ark",
+  "version": "24.8.2",
+  "architectures": ["x86_64"],
+  "description": "Graphical file compression/decompression utility with support for multiple formats",
+  "website": "https://apps.kde.org/en-gb/ark/",
+  "installedFiles": [],
+  "dependencies": [
+    {
+      "port": "KdeBase-Main",
+      "name": "Kde-Frameworks",
+      "version": ">=6.0.0 ~ <7.0.0",
+      "options": []
+    },
+    {
+      "port": "BaseLibraries-Main",
+      "name": "Libarchive",
+      "version": ">=3.7.1",
+      "options": []
+    }
+  ],
+  "kernelDependencies": [],
+  "options": [
+    {
+      "name": "Cpio",
+      "description": "Enable cpio support",
+      "active": false,
+      "dependencies": [
+        {
+          "port": "Archivers-Main",
+          "name": "Cpio",
+          "version": ">=2.14.0",
+          "options": []
+        }
+      ],
+      "kernelDependencies": []
+    },
+    {
+      "name": "P7zip",
+      "description": "Enable p7zip support",
+      "active": false,
+      "dependencies": [
+        {
+          "port": "Archivers-Main",
+          "name": "P7zip",
+          "version": ">=17.4.0",
+          "options": []
+        }
+      ],
+      "kernelDependencies": []
+    },
+    {
+      "name": "Unrar",
+      "description": "Enable unrar support",
+      "active": false,
+      "dependencies": [
+        {
+          "port": "Archivers-Main",
+          "name": "Unrar",
+          "version": ">=6.2.10",
+          "options": []
+        }
+      ],
+      "kernelDependencies": []
+    },
+    {
+      "name": "Unzip",
+      "description": "Enable unzip support",
+      "active": false,
+      "dependencies": [
+        {
+          "port": "Archivers-Main",
+          "name": "Unzip",
+          "version": ">=6.0.0",
+          "options": []
+        }
+      ],
+      "kernelDependencies": []
+    },
+    {
+      "name": "Zip",
+      "description": "Enable zip support",
+      "active": false,
+      "dependencies": [
+        {
+          "port": "Archivers-Main",
+          "name": "Zip",
+          "version": ">=3.0.0",
+          "options": []
+        }
+      ],
+      "kernelDependencies": []
+    }
+  ],
+  "uniqueDependencies": [],
+  "uniqueOptions": [],
+  "selectedDependencies": [],
+  "allowCodependencies": []
+}

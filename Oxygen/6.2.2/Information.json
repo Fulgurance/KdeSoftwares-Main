@@ -1,0 +1,23 @@
+{
+  "port": "KdeSoftwares-Main",
+  "name": "Oxygen",
+  "version": "6.2.2",
+  "architectures": ["x86_64"],
+  "description": "The Oxygen Style for Qt/KDE Applications",
+  "website": "https://invent.kde.org/plasma/oxygen",
+  "installedFiles": [],
+  "dependencies": [
+    {
+      "port": "KdeBase-Main",
+      "name": "Kde-Frameworks",
+      "version": ">=6.0.0 ~ <7.0.0",
+      "options": []
+    }
+  ],
+  "kernelDependencies": [],
+  "options": [],
+  "uniqueDependencies": [],
+  "uniqueOptions": [],
+  "selectedDependencies": [],
+  "allowCodependencies": []
+}

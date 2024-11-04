@@ -1,0 +1,23 @@
+{
+  "port": "KdeSoftwares-Main",
+  "name": "Breeze",
+  "version": "6.2.2",
+  "architectures": ["x86_64"],
+  "description": "Artwork, styles and assets for the Breeze visual style for the Plasma Desktop",
+  "website": "https://invent.kde.org/plasma/breeze",
+  "installedFiles": [],
+  "dependencies": [
+    {
+      "port": "KdeBase-Main",
+      "name": "Kde-Frameworks",
+      "version": ">=6.0.0 ~ <7.0.0",
+      "options": []
+    }
+  ],
+  "kernelDependencies": [],
+  "options": [],
+  "uniqueDependencies": [],
+  "uniqueOptions": [],
+  "selectedDependencies": [],
+  "allowCodependencies": []
+}

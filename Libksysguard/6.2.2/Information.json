@@ -1,0 +1,35 @@
+{
+  "port": "KdeSoftwares-Main",
+  "name": "Libksysguard",
+  "version": "6.2.2",
+  "architectures": ["x86_64"],
+  "description": "Library to retrieve information on the current status of computer hardware",
+  "website": "https://invent.kde.org/plasma/libksysguard",
+  "installedFiles": [],
+  "dependencies": [
+    {
+      "port": "KdeBase-Main",
+      "name": "Kde-Frameworks",
+      "version": ">=6.0.0 ~ <7.0.0",
+      "options": []
+    },
+    {
+      "port": "NetworkingLibraries-Main",
+      "name": "Libnl",
+      "version": ">=3.7.0",
+      "options": []
+    },
+    {
+      "port": "Utilities-Main",
+      "name": "Lm-Sensors",
+      "version": ">=3.6.0",
+      "options": []
+    }
+  ],
+  "kernelDependencies": [],
+  "options": [],
+  "uniqueDependencies": [],
+  "uniqueOptions": [],
+  "selectedDependencies": [],
+  "allowCodependencies": []
+}

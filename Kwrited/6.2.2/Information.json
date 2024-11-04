@@ -1,0 +1,23 @@
+{
+  "port": "KdeSoftwares-Main",
+  "name": "Kwrited",
+  "version": "6.2.2",
+  "architectures": ["x86_64"],
+  "description": "Listen to traditional system notifications",
+  "website": "https://invent.kde.org/plasma/kwrited",
+  "installedFiles": [],
+  "dependencies": [
+    {
+      "port": "KdeBase-Main",
+      "name": "Kde-Frameworks",
+      "version": ">=6.0.0 ~ <7.0.0",
+      "options": []
+    }
+  ],
+  "kernelDependencies": [],
+  "options": [],
+  "uniqueDependencies": [],
+  "uniqueOptions": [],
+  "selectedDependencies": [],
+  "allowCodependencies": []
+}

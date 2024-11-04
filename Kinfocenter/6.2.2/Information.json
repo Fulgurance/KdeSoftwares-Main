@@ -1,0 +1,35 @@
+{
+  "port": "KdeSoftwares-Main",
+  "name": "Kinfocenter",
+  "version": "6.2.2",
+  "architectures": ["x86_64"],
+  "description": "View information about your computer's hardware",
+  "website": "https://invent.kde.org/plasma/kinfocenter",
+  "installedFiles": [],
+  "dependencies": [
+    {
+      "port": "KdeBase-Main",
+      "name": "Kde-Frameworks",
+      "version": ">=6.0.0 ~ <7.0.0",
+      "options": []
+    },
+    {
+      "port": "Utilities-Main",
+      "name": "Aha",
+      "version": ">=0.5.1",
+      "options": []
+    },
+    {
+      "port": "Utilities-Main",
+      "name": "Pciutils",
+      "version": ">=3.10.0",
+      "options": []
+    }
+  ],
+  "kernelDependencies": [],
+  "options": [],
+  "uniqueDependencies": [],
+  "uniqueOptions": [],
+  "selectedDependencies": [],
+  "allowCodependencies": []
+}

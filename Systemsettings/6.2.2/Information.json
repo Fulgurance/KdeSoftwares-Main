@@ -1,0 +1,29 @@
+{
+  "port": "KdeSoftwares-Main",
+  "name": "Systemsettings",
+  "version": "6.2.2",
+  "architectures": ["x86_64"],
+  "description": "Control center to configure your Plasma Desktop",
+  "website": "https://invent.kde.org/plasma/systemsettings",
+  "installedFiles": [],
+  "dependencies": [
+    {
+      "port": "KdeBase-Main",
+      "name": "Kde-Frameworks",
+      "version": ">=6.0.0 ~ <7.0.0",
+      "options": []
+    },
+    {
+      "port": "KdeSoftwares-Main",
+      "name": "Plasma-Workspace",
+      "version": ">=6.0.0 ~ <7.0.0",
+      "options": []
+    }
+  ],
+  "kernelDependencies": [],
+  "options": [],
+  "uniqueDependencies": [],
+  "uniqueOptions": [],
+  "selectedDependencies": [],
+  "allowCodependencies": []
+}

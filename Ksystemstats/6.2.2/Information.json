@@ -1,0 +1,29 @@
+{
+  "port": "KdeSoftwares-Main",
+  "name": "Ksystemstats",
+  "version": "6.2.2",
+  "architectures": ["x86_64"],
+  "description": "A plugin based system monitoring daemon",
+  "website": "https://invent.kde.org/plasma/ksystemstats",
+  "installedFiles": [],
+  "dependencies": [
+    {
+      "port": "KdeBase-Main",
+      "name": "Kde-Frameworks",
+      "version": ">=6.0.0 ~ <7.0.0",
+      "options": []
+    },
+    {
+      "port": "KdeSoftwares-Main",
+      "name": "Libksysguard",
+      "version": ">=6.0.0 ~ <7.0.0",
+      "options": []
+    }
+  ],
+  "kernelDependencies": [],
+  "options": [],
+  "uniqueDependencies": [],
+  "uniqueOptions": [],
+  "selectedDependencies": [],
+  "allowCodependencies": []
+}

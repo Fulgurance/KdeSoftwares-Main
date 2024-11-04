@@ -1,0 +1,35 @@
+{
+  "port": "KdeSoftwares-Main",
+  "name": "Plasma-Nm",
+  "version": "6.2.2",
+  "architectures": ["x86_64"],
+  "description": "Plasma applet written in QML for managing network connections",
+  "website": "https://invent.kde.org/plasma/plasma-nm",
+  "installedFiles": [],
+  "dependencies": [
+    {
+      "port": "KdeBase-Main",
+      "name": "Kde-Frameworks",
+      "version": ">=6.0.0 ~ <7.0.0",
+      "options": []
+    },
+    {
+      "port": "KdeBase-Main",
+      "name": "NetworkManager-Qt",
+      "version": ">=6.0.0 ~ <7.0.0",
+      "options": []
+    },
+    {
+      "port": "KdeBase-Main",
+      "name": "ModemManager-Qt",
+      "version": ">=6.0.0 ~ <7.0.0",
+      "options": []
+    }
+  ],
+  "kernelDependencies": [],
+  "options": [],
+  "uniqueDependencies": [],
+  "uniqueOptions": [],
+  "selectedDependencies": [],
+  "allowCodependencies": []
+}

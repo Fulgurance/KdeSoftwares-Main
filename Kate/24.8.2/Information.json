@@ -1,0 +1,31 @@
+{
+  "port": "KdeSoftwares-Main",
+  "name": "Kate",
+  "version": "24.8.2",
+  "architectures": ["x86_64"],
+  "description": "Multi-document, multi-view text editor by KDE",
+  "website": "https://apps.kde.org/en-gb/kate/",
+  "installedFiles": [],
+  "dependencies": [
+    {
+      "port": "KdeBase-Main",
+      "name": "Kde-Frameworks",
+      "version": ">=6.0.0 ~ <7.0.0",
+      "options": []
+    }
+  ],
+  "kernelDependencies": [],
+  "options": [
+    {
+      "name": "MultipleInstances",
+      "description": "Allow kate to edit files with mutiple instances",
+      "active": true,
+      "dependencies": [],
+      "kernelDependencies": []
+    }
+  ],
+  "uniqueDependencies": [],
+  "uniqueOptions": [],
+  "selectedDependencies": [],
+  "allowCodependencies": []
+}
