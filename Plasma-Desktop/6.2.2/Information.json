@@ -177,12 +177,6 @@
     },
     {
       "port": "KdeSoftwares-Main",
-      "name": "Khotkeys",
-      "version": ">=6.0.0 ~ <7.0.0",
-      "options": []
-    },
-    {
-      "port": "KdeSoftwares-Main",
       "name": "Kmenuedit",
       "version": ">=6.0.0 ~ <7.0.0",
       "options": []
