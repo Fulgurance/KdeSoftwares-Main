@@ -27,13 +27,13 @@
     },
     {
       "port": "GraphicsLibraries-Main",
-      "name": "Gtk+",
+      "name": "Gtk",
       "version": "<3.0.0",
       "options": []
     },
     {
       "port": "GraphicsLibraries-Main",
-      "name": "Gtk+",
+      "name": "Gtk",
       "version": ">=3.24.38",
       "options": []
     },
@@ -62,7 +62,7 @@
       "options": []
     },
     {
-      "port": "GraphicsLibraries-Main",
+      "port": "XorgBase-Main",
       "name": "Libxkbcommon",
       "version": ">=1.5.0",
       "options": []
@@ -92,7 +92,7 @@
       "options": []
     },
     {
-      "port": "GraphicsLibraries-Main",
+      "port": "XorgBase-Main",
       "name": "Xcb-Util-Cursor",
       "version": ">=0.1.4",
       "options": []

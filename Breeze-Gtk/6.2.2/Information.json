@@ -15,7 +15,7 @@
     },
     {
       "port": "GraphicsLibraries-Main",
-      "name": "Gtk+",
+      "name": "Gtk",
       "version": ">=3.24.38",
       "options": []
     },
