@@ -1,15 +1,15 @@
 {
   "port": "KdeSoftwares-Main",
-  "name": "Oxygen",
+  "name": "Plasma5support",
   "version": "6.2.2",
   "architectures": ["x86_64"],
-  "description": "The Oxygen Style for Qt/KDE Applications",
-  "website": "https://invent.kde.org/plasma/oxygen",
+  "description": "Support components for porting from KF5/Qt5 to KF6/Qt6",
+  "website": "https://invent.kde.org/plasma/plasma5support",
   "installedFiles": [],
   "dependencies": [
     {
-      "port": "KdeSoftwares-Main",
-      "name": "Libplasma",
+      "port": "KdeBase-Main",
+      "name": "Kde-Frameworks",
       "version": ">=6.0.0 ~ <7.0.0",
       "options": []
     }

@@ -8,8 +8,8 @@
   "installedFiles": [],
   "dependencies": [
     {
-      "port": "KdeBase-Main",
-      "name": "Kde-Frameworks",
+      "port": "KdeSoftwares-Main",
+      "name": "Plasma5support",
       "version": ">=6.0.0 ~ <7.0.0",
       "options": []
     }
