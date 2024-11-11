@@ -375,23 +375,9 @@
       "kernelDependencies": []
     },
     {
-      "name": "Phonon-Backend-Gstreamer",
-      "description": "Enable gstreamer backend support",
-      "active": true,
-      "dependencies": [
-        {
-          "port": "MultimediaLibraries-Main",
-          "name": "Phonon-Backend-Gstreamer",
-          "version": ">=4.10.0",
-          "options": []
-        }
-      ],
-      "kernelDependencies": []
-    },
-    {
       "name": "Phonon-Backend-Vlc",
       "description": "Enable vlc backend support",
-      "active": false,
+      "active": true,
       "dependencies": [
         {
           "port": "MultimediaLibraries-Main",
