@@ -36,6 +36,12 @@
       "name": "Lcms2",
       "version": ">=2.14.0",
       "options": []
+    },
+    {
+      "port": "KdeSoftwares-Main",
+      "name": "Kglobalacceld",
+      "version": ">=6.0.0 ~ <7.0.0",
+      "options": []
     }
   ],
   "kernelDependencies": [],
