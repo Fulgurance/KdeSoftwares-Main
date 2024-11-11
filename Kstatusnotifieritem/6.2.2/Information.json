@@ -1,15 +1,15 @@
 {
   "port": "KdeSoftwares-Main",
-  "name": "Plasma-Integration",
+  "name": "Kstatusnotifieritem",
   "version": "6.2.2",
   "architectures": ["x86_64"],
-  "description": "Qt Platform Theme integration plugins for Plasma Workspaces",
-  "website": "https://invent.kde.org/plasma/plasma-integration",
+  "description": "Implementation of Status Notifier Items",
+  "website": "https://invent.kde.org/frameworks/kstatusnotifieritem",
   "installedFiles": [],
   "dependencies": [
     {
-      "port": "KdeSoftwares-Main",
-      "name": "Kstatusnotifieritem",
+      "port": "KdeBase-Main",
+      "name": "Kde-Frameworks",
       "version": ">=6.0.0 ~ <7.0.0",
       "options": []
     }
