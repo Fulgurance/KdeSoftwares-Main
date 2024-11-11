@@ -44,7 +44,7 @@
       "options": []
     },
     {
-      "port": "BaseLibraries-Main",
+      "port": "GraphicsLibraries-Main",
       "name": "Libdisplay-Info",
       "version": ">=0.2.0",
       "options": []
