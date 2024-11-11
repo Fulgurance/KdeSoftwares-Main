@@ -11,8 +11,7 @@ class Target < ISM::Software
         runCmakeCommand(arguments:  "-DCMAKE_INSTALL_PREFIX=/usr    \
                                     -DCMAKE_BUILD_TYPE=Release      \
                                     -DBUILD_TESTING=OFF             \
-                                    -DBUILD_QT6=ON                  \
-                                    -DBUILD_QT5=OFF                 \
+                                    -DQT_MAJOR_VERSION=6            \
                                     -Wno-dev                        \
                                     ..",
                         path:       buildDirectoryPath)
