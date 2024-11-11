@@ -189,12 +189,6 @@
     },
     {
       "port": "KdeSoftwares-Main",
-      "name": "Kwayland-Integration",
-      "version": ">=6.0.0 ~ <7.0.0",
-      "options": []
-    },
-    {
-      "port": "KdeSoftwares-Main",
       "name": "Kwrited",
       "version": ">=6.0.0 ~ <7.0.0",
       "options": []
@@ -298,6 +292,20 @@
   ],
   "kernelDependencies": [],
   "options": [
+    {
+      "name": "Kwayland-Integration",
+      "description": "Enable wayland support for qt5 applications",
+      "active": false,
+      "dependencies": [
+        {
+          "port": "KdeSoftwares-Main",
+          "name": "Kwayland-Integration",
+          "version": ">=6.0.0 ~ <7.0.0",
+          "options": []
+        }
+      ],
+      "kernelDependencies": []
+    },
     {
       "name": "Linux-Pam",
       "description": "Enable linux-pam support",
