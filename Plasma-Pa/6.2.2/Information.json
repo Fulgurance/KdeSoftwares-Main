@@ -18,6 +18,12 @@
       "name": "Libcanberra",
       "version": ">=0.30.0",
       "options": ["Gstreamer","Pulseaudio"]
+    },
+    {
+      "port": "KdeSoftwares-Main",
+      "name": "Libplasma",
+      "version": ">=6.0.0 ~ <7.0.0",
+      "options": []
     }
   ],
   "kernelDependencies": [],
