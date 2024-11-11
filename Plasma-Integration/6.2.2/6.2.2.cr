@@ -8,11 +8,12 @@ class Target < ISM::Software
     def configure
         super
 
-        runCmakeCommand(arguments:  "-DCMAKE_INSTALL_PREFIX=/usr                                            \
-                                    -DCMAKE_BUILD_TYPE=Release                                              \
-                                    -DBUILD_TESTING=OFF                                                     \
-                                    -DQt5ThemeSupport_INCLUDE_DIR=/usr/include/qt5/QtThemeSupport/5.15.10   \
-                                    -Wno-dev                                                                \
+        runCmakeCommand(arguments:  "-DCMAKE_INSTALL_PREFIX=/usr    \
+                                    -DCMAKE_BUILD_TYPE=Release      \
+                                    -DBUILD_TESTING=OFF             \
+                                    -DBUILD_QT6=ON                  \
+                                    -DBUILD_QT5=OFF                 \
+                                    -Wno-dev                        \
                                     ..",
                         path:       buildDirectoryPath)
     end
