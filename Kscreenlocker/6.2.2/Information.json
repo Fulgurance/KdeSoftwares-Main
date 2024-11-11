@@ -18,6 +18,12 @@
       "name": "Layer-Shell-Qt",
       "version": ">=6.0.0 ~ <7.0.0",
       "options": []
+    },
+    {
+      "port": "KdeSoftwares-Main",
+      "name": "Libplasma",
+      "version": ">=6.0.0 ~ <7.0.0",
+      "options": []
     }
   ],
   "kernelDependencies": [],
