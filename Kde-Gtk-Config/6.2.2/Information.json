@@ -22,7 +22,13 @@
     {
       "port": "GraphicsLibraries-Main",
       "name": "Gtk",
-      "version": ">=3.24.38",
+      "version": ">=3.0.0 ~ <4.0.0",
+      "options": []
+    },
+    {
+      "port": "GraphicsLibraries-Main",
+      "name": "Gtk",
+      "version": ">=4.0.0 ~ <5.0.0",
       "options": []
     }
   ],
