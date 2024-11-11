@@ -8,8 +8,8 @@
   "installedFiles": [],
   "dependencies": [
     {
-      "port": "KdeSoftwares-Main",
-      "name": "Kstatusnotifieritem",
+      "port": "KdeBase-Main",
+      "name": "Kde-Frameworks",
       "version": ">=6.0.0 ~ <7.0.0",
       "options": []
     }
