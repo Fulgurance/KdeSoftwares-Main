@@ -1,7 +1,7 @@
 {
   "port": "KdeSoftwares-Main",
   "name": "Pulseaudio-Qt",
-  "version": "6.2.2",
+  "version": "1.6.1",
   "architectures": ["x86_64"],
   "description": "Qt bindings for libpulse",
   "website": "https://invent.kde.org/libraries/pulseaudio-qt",
