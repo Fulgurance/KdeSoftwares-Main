@@ -309,7 +309,7 @@
     {
       "name": "Xf86-Input-Libinput",
       "description": "Enable xf86-input-libinput support for kcm mouse",
-      "active": true,
+      "active": false,
       "dependencies": [
         {
           "port": "InputDrivers-Main",
