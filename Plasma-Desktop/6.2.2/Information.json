@@ -307,6 +307,20 @@
       "kernelDependencies": []
     },
     {
+      "name": "Xf86-Input-Libinput",
+      "description": "Enable xf86-input-libinput support for kcm mouse",
+      "active": true,
+      "dependencies": [
+        {
+          "port": "InputDrivers-Main",
+          "name": "Xf86-Input-Libinput",
+          "version": ">=1.5.0",
+          "options": []
+        }
+      ],
+      "kernelDependencies": []
+    },
+    {
       "name": "Linux-Pam",
       "description": "Enable linux-pam support",
       "active": true,
