@@ -18,6 +18,12 @@
       "name": "Pipewire",
       "version": ">=0.3.77",
       "options": []
+    },
+    {
+      "port": "MultimediaLibraries-Main",
+      "name": "Libva",
+      "version": ">=2.19.0",
+      "options": []
     }
   ],
   "kernelDependencies": [],
