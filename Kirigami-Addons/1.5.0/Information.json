@@ -1,0 +1,23 @@
+{
+  "port": "KdeSoftwares-Main",
+  "name": "Kirigami-Addons",
+  "version": "1.5.0",
+  "architectures": ["x86_64"],
+  "description": "Add-ons for the Kirigami framework",
+  "website": "https://invent.kde.org/libraries/kirigami-addons",
+  "installedFiles": [],
+  "dependencies": [
+    {
+      "port": "KdeBase-Main",
+      "name": "Kde-Frameworks",
+      "version": ">=6.0.0 ~ <7.0.0",
+      "options": []
+    }
+  ],
+  "kernelDependencies": [],
+  "options": [],
+  "uniqueDependencies": [],
+  "uniqueOptions": [],
+  "selectedDependencies": [],
+  "allowCodependencies": []
+}
