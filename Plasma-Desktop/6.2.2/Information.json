@@ -301,7 +301,7 @@
     {
       "name": "Kwayland-Integration",
       "description": "Enable wayland support for qt5 applications",
-      "active": false,
+      "active": true,
       "dependencies": [
         {
           "port": "KdeSoftwares-Main",
