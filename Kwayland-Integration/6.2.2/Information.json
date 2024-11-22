@@ -8,9 +8,9 @@
   "installedFiles": [],
   "dependencies": [
     {
-      "port": "KdeBase-Main",
-      "name": "Kde-Frameworks",
-      "version": ">=6.0.0 ~ <7.0.0",
+      "port": "BaseLibraries-Main",
+      "name": "Qt",
+      "version": ">=5.0.0 ~ <6.0.0",
       "options": []
     }
   ],
