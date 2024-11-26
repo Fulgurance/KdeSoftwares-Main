@@ -9,8 +9,8 @@
   "dependencies": [
     {
       "port": "QtLibraries-Main",
-      "name": "Qtbase",
-      "version": ">=5.0.0 ~ <6.0.0",
+      "name": "Qtwayland",
+      "version": ">=6.0.0 ~ <7.0.0",
       "options": []
     }
   ],
