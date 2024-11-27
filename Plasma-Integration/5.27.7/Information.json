@@ -12,6 +12,18 @@
       "name": "Kde-Frameworks",
       "version": ">=5.0.0 ~ <6.0.0",
       "options": []
+    },
+    {
+      "port": "Fonts-Main",
+      "name": "Noto-Fonts",
+      "version": ">=0.0.0-20241101",
+      "options": []
+    },
+    {
+      "port": "Fonts-Main",
+      "name": "Hack-Fonts",
+      "version": ">=3.3.0",
+      "options": []
     }
   ],
   "kernelDependencies": [],
