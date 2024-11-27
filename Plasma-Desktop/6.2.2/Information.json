@@ -290,6 +290,12 @@
       "options": []
     },
     {
+      "port": "Utilities-Main",
+      "name": "Xdg-User-Dirs",
+      "version": ">=0.8.0",
+      "options": []
+    },
+    {
       "port": "KdeSoftwares-Main",
       "name": "Kirigami-Addons",
       "version": ">=1.5.0",
