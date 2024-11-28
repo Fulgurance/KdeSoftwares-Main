@@ -11,7 +11,7 @@ class Target < ISM::Software
         runCmakeCommand(arguments:  "-DCMAKE_INSTALL_PREFIX=/usr                                                                                            \
                                     -DCMAKE_BUILD_TYPE=Release                                                                                              \
                                     -DBUILD_TESTING=OFF                                                                                                     \
-                                    -DFORCE_NOT_REQUIRED_DEPENDENCIES=\"LibSpectre;CHM;LibZip;DjVuLibre;EPub;QMobipocket;Discount;Poppler;TIFF;KF5KExiv2\"  \
+                                    -DFORCE_NOT_REQUIRED_DEPENDENCIES=\"LibSpectre;CHM;LibZip;DjVuLibre;EPub;QMobipocket;Discount;Poppler;TIFF;KExiv2Qt6\"  \
                                     -Wno-dev                                                                                                                \
                                     ..",
                         path:       buildDirectoryPath)
