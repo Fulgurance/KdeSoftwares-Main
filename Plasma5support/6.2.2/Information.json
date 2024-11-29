@@ -6,7 +6,14 @@
   "description": "Support components for porting from KF5/Qt5 to KF6/Qt6",
   "website": "https://invent.kde.org/plasma/plasma5support",
   "installedFiles": [],
-  "dependencies": [],
+  "dependencies": [
+    {
+      "port": "ProgrammingTools-Main",
+      "name": "Extra-Cmake-Modules",
+      "version": ">=6.7.0",
+      "options": []
+    }
+  ],
   "kernelDependencies": [],
   "options": [],
   "uniqueDependencies": [],
