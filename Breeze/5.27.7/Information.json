@@ -6,7 +6,14 @@
   "description": "Artwork, styles and assets for the Breeze visual style for the Plasma Desktop",
   "website": "https://invent.kde.org/plasma/breeze",
   "installedFiles": [],
-  "dependencies": [],
+  "dependencies": [
+    {
+      "port": "ProgrammingTools-Main",
+      "name": "Extra-Cmake-Modules",
+      "version": ">=5.109.0",
+      "options": []
+    }
+  ],
   "kernelDependencies": [],
   "options": [],
   "uniqueDependencies": [],
