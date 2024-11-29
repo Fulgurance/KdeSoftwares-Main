@@ -18,6 +18,12 @@
       "name": "Lm-Sensors",
       "version": ">=3.6.0",
       "options": []
+    },
+    {
+      "port": "ProgrammingTools-Main",
+      "name": "Extra-Cmake-Modules",
+      "version": ">=5.109.0",
+      "options": []
     }
   ],
   "kernelDependencies": [],
