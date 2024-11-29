@@ -6,7 +6,14 @@
   "description": "Menu Editor for Plasma Workspaces",
   "website": "https://invent.kde.org/plasma/kmenuedit",
   "installedFiles": [],
-  "dependencies": [],
+  "dependencies": [
+    {
+      "port": "ProgrammingTools-Main",
+      "name": "Extra-Cmake-Modules",
+      "version": ">=5.109.0",
+      "options": []
+    }
+  ],
   "kernelDependencies": [],
   "options": [],
   "uniqueDependencies": [],
