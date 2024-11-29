@@ -6,7 +6,14 @@
   "description": "Wallpapers for Plasma Workspaces",
   "website": "https://invent.kde.org/plasma/plasma-workspace-wallpapers",
   "installedFiles": [],
-  "dependencies": [],
+  "dependencies": [
+    {
+      "port": "ProgrammingTools-Main",
+      "name": "Extra-Cmake-Modules",
+      "version": ">=5.109.0",
+      "options": []
+    }
+  ],
   "kernelDependencies": [],
   "options": [],
   "uniqueDependencies": [],
