@@ -6,7 +6,14 @@
   "description": "Add-ons for the Kirigami framework",
   "website": "https://invent.kde.org/libraries/kirigami-addons",
   "installedFiles": [],
-  "dependencies": [],
+  "dependencies": [
+    {
+      "port": "ProgrammingTools-Main",
+      "name": "Extra-Cmake-Modules",
+      "version": ">=6.7.0",
+      "options": []
+    }
+  ],
   "kernelDependencies": [],
   "options": [],
   "uniqueDependencies": [],
