@@ -6,7 +6,14 @@
   "description": "Qt bindings for libpulse",
   "website": "https://invent.kde.org/libraries/pulseaudio-qt",
   "installedFiles": [],
-  "dependencies": [],
+  "dependencies": [
+    {
+      "port": "ProgrammingTools-Main",
+      "name": "Extra-Cmake-Modules",
+      "version": ">=6.7.0",
+      "options": []
+    }
+  ],
   "kernelDependencies": [],
   "options": [],
   "uniqueDependencies": [],
