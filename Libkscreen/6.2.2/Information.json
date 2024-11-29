@@ -6,14 +6,7 @@
   "description": "KDE's screen management software",
   "website": "https://invent.kde.org/plasma/libkscreen",
   "installedFiles": [],
-  "dependencies": [
-    {
-      "port": "KdeBase-Main",
-      "name": "Kde-Frameworks",
-      "version": ">=6.0.0 ~ <7.0.0",
-      "options": []
-    }
-  ],
+  "dependencies": [],
   "kernelDependencies": [],
   "options": [],
   "uniqueDependencies": [],

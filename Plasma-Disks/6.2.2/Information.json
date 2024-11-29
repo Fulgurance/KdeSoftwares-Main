@@ -6,14 +6,7 @@
   "description": "Monitors S.M.A.R.T. capable devices for imminent failure",
   "website": "https://invent.kde.org/plasma/plasma-disks",
   "installedFiles": [],
-  "dependencies": [
-    {
-      "port": "KdeBase-Main",
-      "name": "Kde-Frameworks",
-      "version": ">=6.0.0 ~ <7.0.0",
-      "options": []
-    }
-  ],
+  "dependencies": [],
   "kernelDependencies": [],
   "options": [],
   "uniqueDependencies": [],

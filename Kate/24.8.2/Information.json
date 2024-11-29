@@ -6,14 +6,7 @@
   "description": "Multi-document, multi-view text editor by KDE",
   "website": "https://apps.kde.org/en-gb/kate/",
   "installedFiles": [],
-  "dependencies": [
-    {
-      "port": "KdeBase-Main",
-      "name": "Kde-Frameworks",
-      "version": ">=6.0.0 ~ <7.0.0",
-      "options": []
-    }
-  ],
+  "dependencies": [],
   "kernelDependencies": [],
   "options": [
     {

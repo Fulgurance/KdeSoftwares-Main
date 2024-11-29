@@ -6,14 +6,7 @@
   "description": "Add-ons for the Kirigami framework",
   "website": "https://invent.kde.org/libraries/kirigami-addons",
   "installedFiles": [],
-  "dependencies": [
-    {
-      "port": "KdeBase-Main",
-      "name": "Kde-Frameworks",
-      "version": ">=6.0.0 ~ <7.0.0",
-      "options": []
-    }
-  ],
+  "dependencies": [],
   "kernelDependencies": [],
   "options": [],
   "uniqueDependencies": [],

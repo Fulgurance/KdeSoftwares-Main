@@ -6,14 +6,7 @@
   "description": "Ssh-add helper that uses KWallet and KPasswordDialog",
   "website": "https://invent.kde.org/plasma/ksshaskpass",
   "installedFiles": [],
-  "dependencies": [
-    {
-      "port": "KdeBase-Main",
-      "name": "Kde-Frameworks",
-      "version": ">=5.0.0 ~ <6.0.0",
-      "options": []
-    }
-  ],
+  "dependencies": [],
   "kernelDependencies": [],
   "options": [],
   "uniqueDependencies": [],

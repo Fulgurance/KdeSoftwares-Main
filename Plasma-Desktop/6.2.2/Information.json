@@ -33,12 +33,6 @@
     },
     {
       "port": "KdeBase-Main",
-      "name": "Kde-Frameworks",
-      "version": ">=6.0.0 ~ <7.0.0",
-      "options": []
-    },
-    {
-      "port": "KdeBase-Main",
       "name": "Kuserfeedback",
       "version": ">=1.2.0",
       "options": []

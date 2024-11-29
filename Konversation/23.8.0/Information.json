@@ -6,14 +6,7 @@
   "description": "User-friendly and fully-featured IRC client",
   "website": "https://invent.kde.org/network/konversation",
   "installedFiles": [],
-  "dependencies": [
-    {
-      "port": "KdeBase-Main",
-      "name": "Kde-Frameworks",
-      "version": ">=5.0.0 ~ <6.0.0",
-      "options": []
-    }
-  ],
+  "dependencies": [],
   "kernelDependencies": [],
   "options": [],
   "uniqueDependencies": [],

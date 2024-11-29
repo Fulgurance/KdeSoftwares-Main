@@ -8,12 +8,6 @@
   "installedFiles": [],
   "dependencies": [
     {
-      "port": "KdeBase-Main",
-      "name": "Kde-Frameworks",
-      "version": ">=5.0.0 ~ <6.0.0",
-      "options": []
-    },
-    {
       "port": "MultimediaLibraries-Main",
       "name": "Libcanberra",
       "version": ">=0.30.0",

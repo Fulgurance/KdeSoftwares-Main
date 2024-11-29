@@ -6,14 +6,7 @@
   "description": "Plasma integration for controlling Thunderbolt devices",
   "website": "https://invent.kde.org/plasma/plasma-thunderbolt",
   "installedFiles": [],
-  "dependencies": [
-    {
-      "port": "KdeBase-Main",
-      "name": "Kde-Frameworks",
-      "version": ">=5.0.0 ~ <6.0.0",
-      "options": []
-    }
-  ],
+  "dependencies": [],
   "kernelDependencies": [],
   "options": [],
   "uniqueDependencies": [],

@@ -8,12 +8,6 @@
   "installedFiles": [],
   "dependencies": [
     {
-      "port": "KdeBase-Main",
-      "name": "Kde-Frameworks",
-      "version": ">=6.0.0 ~ <7.0.0",
-      "options": []
-    },
-    {
       "port": "NetworkingTools-Main",
       "name": "Openssh",
       "version": ">=9.9.0-p1",

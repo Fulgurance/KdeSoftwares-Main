@@ -6,14 +6,7 @@
   "description": "Qt component to allow applications to make use of the Wayland wl-layer-shell protocol",
   "website": "https://invent.kde.org/plasma/layer-shell-qt",
   "installedFiles": [],
-  "dependencies": [
-    {
-      "port": "KdeBase-Main",
-      "name": "Kde-Frameworks",
-      "version": ">=5.0.0 ~ <6.0.0",
-      "options": []
-    }
-  ],
+  "dependencies": [],
   "kernelDependencies": [],
   "options": [],
   "uniqueDependencies": [],

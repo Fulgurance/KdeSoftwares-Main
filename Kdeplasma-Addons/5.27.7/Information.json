@@ -6,14 +6,7 @@
   "description": "All kind of add-ons to improve your Plasma experience",
   "website": "https://invent.kde.org/plasma/kdeplasma-addons",
   "installedFiles": [],
-  "dependencies": [
-    {
-      "port": "KdeBase-Main",
-      "name": "Kde-Frameworks",
-      "version": ">=5.0.0 ~ <6.0.0",
-      "options": []
-    }
-  ],
+  "dependencies": [],
   "kernelDependencies": [],
   "options": [],
   "uniqueDependencies": [],

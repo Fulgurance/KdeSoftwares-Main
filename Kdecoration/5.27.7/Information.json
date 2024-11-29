@@ -6,14 +6,7 @@
   "description": "Plugin based library to create window decorations",
   "website": "https://api.kde.org/plasma/kdecoration/html/index.html",
   "installedFiles": [],
-  "dependencies": [
-    {
-      "port": "KdeBase-Main",
-      "name": "Kde-Frameworks",
-      "version": ">=5.0.0 ~ <6.0.0",
-      "options": []
-    }
-  ],
+  "dependencies": [],
   "kernelDependencies": [],
   "options": [],
   "uniqueDependencies": [],

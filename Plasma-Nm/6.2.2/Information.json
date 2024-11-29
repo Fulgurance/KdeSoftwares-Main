@@ -9,12 +9,6 @@
   "dependencies": [
     {
       "port": "KdeBase-Main",
-      "name": "Kde-Frameworks",
-      "version": ">=6.0.0 ~ <7.0.0",
-      "options": []
-    },
-    {
-      "port": "KdeBase-Main",
       "name": "NetworkManager-Qt",
       "version": ">=6.0.0 ~ <7.0.0",
       "options": []

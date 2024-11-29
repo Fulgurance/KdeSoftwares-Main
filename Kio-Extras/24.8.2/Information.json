@@ -8,12 +8,6 @@
   "installedFiles": [],
   "dependencies": [
     {
-      "port": "KdeBase-Main",
-      "name": "Kde-Frameworks",
-      "version": ">=6.0.0 ~ <7.0.0",
-      "options": []
-    },
-    {
       "port": "NetworkingLibraries-Main",
       "name": "Kdsoap",
       "version": ">=2.1.1",
