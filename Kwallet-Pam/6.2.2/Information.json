@@ -12,6 +12,12 @@
       "name": "Socat",
       "version": ">=1.8.0-r1",
       "options": []
+    },
+    {
+      "port": "ProgrammingTools-Main",
+      "name": "Extra-Cmake-Modules",
+      "version": ">=6.7.0",
+      "options": []
     }
   ],
   "kernelDependencies": [],
