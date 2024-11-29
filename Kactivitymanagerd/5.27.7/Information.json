@@ -6,7 +6,14 @@
   "description": "System service to manage user's activities, track the usage patterns etc",
   "website": "https://invent.kde.org/plasma/kactivitymanagerd",
   "installedFiles": [],
-  "dependencies": [],
+  "dependencies": [
+    {
+      "port": "ProgrammingTools-Main",
+      "name": "Extra-Cmake-Modules",
+      "version": ">=5.109.0",
+      "options": []
+    }
+  ],
   "kernelDependencies": [],
   "options": [],
   "uniqueDependencies": [],
