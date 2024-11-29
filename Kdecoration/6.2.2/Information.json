@@ -6,7 +6,14 @@
   "description": "Plugin based library to create window decorations",
   "website": "https://api.kde.org/plasma/kdecoration/html/index.html",
   "installedFiles": [],
-  "dependencies": [],
+  "dependencies": [
+    {
+      "port": "ProgrammingTools-Main",
+      "name": "Extra-Cmake-Modules",
+      "version": ">=6.7.0",
+      "options": []
+    }
+  ],
   "kernelDependencies": [],
   "options": [],
   "uniqueDependencies": [],
