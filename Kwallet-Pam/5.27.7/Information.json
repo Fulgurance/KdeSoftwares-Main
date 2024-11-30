@@ -30,6 +30,12 @@
       "name": "Libgcrypt",
       "version": ">=1.10.2",
       "options": []
+    },
+    {
+      "port": "KdeBase-Main",
+      "name": "Kwallet",
+      "version": ">=5.0.0 ~ <6.0.0",
+      "options": []
     }
   ],
   "kernelDependencies": [],
