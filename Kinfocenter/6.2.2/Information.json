@@ -24,6 +24,12 @@
       "name": "Extra-Cmake-Modules",
       "version": ">=6.7.0",
       "options": []
+    },
+    {
+      "port": "QtLibraries-Main",
+      "name": "Qtbase",
+      "version": ">=6.0.0 ~ <7.0.0",
+      "options": []
     }
   ],
   "kernelDependencies": [],
