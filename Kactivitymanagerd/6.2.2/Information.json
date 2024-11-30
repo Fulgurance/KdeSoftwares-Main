@@ -18,6 +18,12 @@
       "name": "Qtbase",
       "version": ">=6.0.0 ~ <7.0.0",
       "options": []
+    },
+    {
+      "port": "KdeBase-Main",
+      "name": "Kdbusaddons",
+      "version": ">=6.0.0 ~ <7.0.0",
+      "options": []
     }
   ],
   "kernelDependencies": [],
