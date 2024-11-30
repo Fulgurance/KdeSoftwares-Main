@@ -30,6 +30,12 @@
       "name": "Plasma-Wayland-Protocols",
       "version": ">=1.10.0",
       "options": []
+    },
+    {
+      "port": "QtLibraries-Main",
+      "name": "Qtbase",
+      "version": ">=5.0.0 ~ <6.0.0",
+      "options": []
     }
   ],
   "kernelDependencies": [],
