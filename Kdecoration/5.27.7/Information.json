@@ -18,6 +18,12 @@
       "name": "Qtbase",
       "version": ">=5.0.0 ~ <6.0.0",
       "options": []
+    },
+    {
+      "port": "KdeSoftwares-Main",
+      "name": "Ki18n",
+      "version": ">=5.0.0 ~ <6.0.0",
+      "options": []
     }
   ],
   "kernelDependencies": [],
