@@ -15,7 +15,7 @@
     },
     {
       "port": "QtLibraries-Main",
-      "name": "Qtbase",
+      "name": "Qtdeclarative",
       "version": ">=6.0.0 ~ <7.0.0",
       "options": []
     }
