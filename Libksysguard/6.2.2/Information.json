@@ -30,6 +30,48 @@
       "name": "Qtdeclarative",
       "version": ">=6.0.0 ~ <7.0.0",
       "options": []
+    },
+    {
+      "port": "KdeBase-Main",
+      "name": "Kcoreaddons",
+      "version": ">=6.0.0 ~ <7.0.0",
+      "options": []
+    },
+    {
+      "port": "KdeBase-Main",
+      "name": "Kconfig",
+      "version": ">=6.0.0 ~ <7.0.0",
+      "options": []
+    },
+    {
+      "port": "KdeBase-Main",
+      "name": "Ki18n",
+      "version": ">=6.0.0 ~ <7.0.0",
+      "options": []
+    },
+    {
+      "port": "KdeBase-Main",
+      "name": "Kauth",
+      "version": ">=6.0.0 ~ <7.0.0",
+      "options": []
+    },
+    {
+      "port": "KdeBase-Main",
+      "name": "Kservice",
+      "version": ">=6.0.0 ~ <7.0.0",
+      "options": []
+    },
+    {
+      "port": "KdeBase-Main",
+      "name": "Kpackage",
+      "version": ">=6.0.0 ~ <7.0.0",
+      "options": []
+    },
+    {
+      "port": "KdeBase-Main",
+      "name": "Knewstuff",
+      "version": ">=6.0.0 ~ <7.0.0",
+      "options": []
     }
   ],
   "kernelDependencies": [],
