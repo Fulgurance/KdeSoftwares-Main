@@ -24,6 +24,12 @@
       "name": "Extra-Cmake-Modules",
       "version": ">=6.7.0",
       "options": []
+    },
+    {
+      "port": "KdeBase-Main",
+      "name": "Plasma-Wayland-Protocols",
+      "version": ">=1.10.0",
+      "options": []
     }
   ],
   "kernelDependencies": [],
