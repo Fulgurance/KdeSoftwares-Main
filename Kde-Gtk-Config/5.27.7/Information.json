@@ -18,6 +18,12 @@
       "name": "Gtk",
       "version": ">=3.24.38",
       "options": []
+    },
+    {
+      "port": "QtLibraries-Main",
+      "name": "Qtsvg",
+      "version": ">=5.0.0 ~ <6.0.0",
+      "options": []
     }
   ],
   "kernelDependencies": [],
