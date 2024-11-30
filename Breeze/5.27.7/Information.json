@@ -18,6 +18,48 @@
       "name": "Qtbase",
       "version": ">=5.0.0 ~ <6.0.0",
       "options": []
+    },
+    {
+      "port": "KdeBase-Main",
+      "name": "Ki18n",
+      "version": ">=5.0.0 ~ <6.0.0",
+      "options": []
+    },
+    {
+      "port": "KdeBase-Main",
+      "name": "Kcoreaddons",
+      "version": ">=5.0.0 ~ <6.0.0",
+      "options": []
+    },
+    {
+      "port": "KdeBase-Main",
+      "name": "Kconfig",
+      "version": ">=5.0.0 ~ <6.0.0",
+      "options": []
+    },
+    {
+      "port": "KdeBase-Main",
+      "name": "Kguiaddons",
+      "version": ">=5.0.0 ~ <6.0.0",
+      "options": []
+    },
+    {
+      "port": "KdeBase-Main",
+      "name": "Kcolorscheme",
+      "version": ">=5.0.0 ~ <6.0.0",
+      "options": []
+    },
+    {
+      "port": "KdeBase-Main",
+      "name": "Kiconthemes",
+      "version": ">=5.0.0 ~ <6.0.0",
+      "options": []
+    },
+    {
+      "port": "KdeBase-Main",
+      "name": "Kwindowsystem",
+      "version": ">=5.0.0 ~ <6.0.0",
+      "options": []
     }
   ],
   "kernelDependencies": [],
