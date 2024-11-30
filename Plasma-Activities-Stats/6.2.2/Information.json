@@ -20,7 +20,7 @@
       "options": []
     },
     {
-      "port": "KdeSoftwares-Main",
+      "port": "KdeBase-Main",
       "name": "Kconfig",
       "version": ">=6.0.0 ~ <7.0.0",
       "options": []
