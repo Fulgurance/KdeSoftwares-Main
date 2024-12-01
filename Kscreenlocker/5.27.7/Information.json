@@ -12,6 +12,12 @@
       "name": "Layer-Shell-Qt",
       "version": ">=5.0.0 ~ <6.0.0",
       "options": []
+    },
+    {
+      "port": "KdeBase-Main",
+      "name": "Kiddletime",
+      "version": ">=5.0.0 ~ <6.0.0",
+      "options": []
     }
   ],
   "kernelDependencies": [],
