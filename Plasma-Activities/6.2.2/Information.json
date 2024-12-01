@@ -18,6 +18,12 @@
       "name": "Qtdeclarative",
       "version": ">=6.0.0 ~ <7.0.0",
       "options": []
+    },
+    {
+      "port": "BaseLibraries-Main",
+      "name": "Boost",
+      "version": ">=1.83.0",
+      "options": []
     }
   ],
   "kernelDependencies": [],
