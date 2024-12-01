@@ -48,6 +48,18 @@
       "name": "Qcoro",
       "version": ">=0.11.0",
       "options": []
+    },
+    {
+      "port": "BaseLibraries-Main",
+      "name": "Libaccounts-Qt",
+      "version": ">=1.17.0",
+      "options": []
+    },
+    {
+      "port": "BaseLibraries-Main",
+      "name": "Signond",
+      "version": ">=8.61.0",
+      "options": []
     }
   ],
   "kernelDependencies": [],
