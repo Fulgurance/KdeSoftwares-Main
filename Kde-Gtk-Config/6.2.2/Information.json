@@ -57,7 +57,7 @@
     },
     {
       "port": "XorgBase-Main",
-      "name": "Xsetttingd",
+      "name": "Xsettingsd",
       "version": ">=1.0.2",
       "options": []
     }
