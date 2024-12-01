@@ -54,6 +54,12 @@
       "name": "Kio",
       "version": ">=6.0.0 ~ <7.0.0",
       "options": []
+    },
+    {
+      "port": "KdeSoftwares-Main",
+      "name": "Libksysguard",
+      "version": ">=6.0.0 ~ <7.0.0",
+      "options": []
     }
   ],
   "kernelDependencies": [],
