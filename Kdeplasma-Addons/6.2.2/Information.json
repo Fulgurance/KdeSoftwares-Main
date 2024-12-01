@@ -18,6 +18,24 @@
       "name": "Libplasma",
       "version": ">=6.0.0 ~ <7.0.0",
       "options": []
+    },
+    {
+      "port": "KdeBase-Main",
+      "name": "Kholidays",
+      "version": ">=6.0.0 ~ <7.0.0",
+      "options": []
+    },
+    {
+      "port": "KdeBase-Main",
+      "name": "Krunner",
+      "version": ">=6.0.0 ~ <7.0.0",
+      "options": []
+    },
+    {
+      "port": "KdeBase-Main",
+      "name": "Kunitconversion",
+      "version": ">=6.0.0 ~ <7.0.0",
+      "options": []
     }
   ],
   "kernelDependencies": [],

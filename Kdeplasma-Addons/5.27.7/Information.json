@@ -6,7 +6,26 @@
   "description": "All kind of add-ons to improve your Plasma experience",
   "website": "https://invent.kde.org/plasma/kdeplasma-addons",
   "installedFiles": [],
-  "dependencies": [],
+  "dependencies": [
+    {
+      "port": "KdeBase-Main",
+      "name": "Kholidays",
+      "version": ">=5.0.0 ~ <6.0.0",
+      "options": []
+    },
+    {
+      "port": "KdeBase-Main",
+      "name": "Krunner",
+      "version": ">=5.0.0 ~ <6.0.0",
+      "options": []
+    },
+    {
+      "port": "KdeBase-Main",
+      "name": "Kunitconversion",
+      "version": ">=5.0.0 ~ <6.0.0",
+      "options": []
+    }
+  ],
   "kernelDependencies": [],
   "options": [],
   "uniqueDependencies": [],
