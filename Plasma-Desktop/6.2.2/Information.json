@@ -300,6 +300,12 @@
       "name": "Qqc2-Desktop-Style",
       "version": ">=5.0.0 ~ <6.0.0",
       "options": []
+    },
+    {
+      "port": "KdeSoftwares-Main",
+      "name": "Kaccounts-Integration",
+      "version": ">=24.8.2",
+      "options": []
     }
   ],
   "kernelDependencies": [],
