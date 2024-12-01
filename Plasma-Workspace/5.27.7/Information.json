@@ -18,6 +18,30 @@
       "name": "Kwin",
       "version": ">=5.0.0 ~ <6.0.0",
       "options": []
+    },
+    {
+      "port": "KdeBase-Main",
+      "name": "Kparts",
+      "version": ">=5.0.0 ~ <6.0.0",
+      "options": []
+    },
+    {
+      "port": "KdeBase-Main",
+      "name": "Knotifyconfig",
+      "version": ">=5.0.0 ~ <6.0.0",
+      "options": []
+    },
+    {
+      "port": "KdeBase-Main",
+      "name": "Prison",
+      "version": ">=5.0.0 ~ <6.0.0",
+      "options": []
+    },
+    {
+      "port": "KdeBase-Main",
+      "name": "Ktexteditor",
+      "version": ">=5.0.0 ~ <6.0.0",
+      "options": []
     }
   ],
   "kernelDependencies": [],

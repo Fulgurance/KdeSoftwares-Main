@@ -24,6 +24,30 @@
       "name": "Qtpositioning",
       "version": ">=6.0.0 ~ <7.0.0",
       "options": []
+    },
+    {
+      "port": "KdeBase-Main",
+      "name": "Kparts",
+      "version": ">=6.0.0 ~ <7.0.0",
+      "options": []
+    },
+    {
+      "port": "KdeBase-Main",
+      "name": "Knotifyconfig",
+      "version": ">=6.0.0 ~ <7.0.0",
+      "options": []
+    },
+    {
+      "port": "KdeBase-Main",
+      "name": "Prison",
+      "version": ">=6.0.0 ~ <7.0.0",
+      "options": []
+    },
+    {
+      "port": "KdeBase-Main",
+      "name": "Ktexteditor",
+      "version": ">=6.0.0 ~ <7.0.0",
+      "options": []
     }
   ],
   "kernelDependencies": [],
