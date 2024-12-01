@@ -306,7 +306,7 @@
       "name": "Xdg-User-Dirs",
       "version": ">=0.8.0",
       "options": []
-    }
+    },
     {
       "port": "KdeBase-Main",
       "name": "Qqc2-Desktop-Style",
