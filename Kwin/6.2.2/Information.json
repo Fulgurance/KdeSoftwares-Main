@@ -42,6 +42,12 @@
       "name": "Libdisplay-Info",
       "version": ">=0.2.0",
       "options": []
+    },
+    {
+      "port": "KdeBase-Main",
+      "name": "Kwayland",
+      "version": ">=6.0.0 ~ <7.0.0",
+      "options": []
     }
   ],
   "kernelDependencies": [],
