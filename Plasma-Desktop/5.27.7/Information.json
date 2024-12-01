@@ -307,6 +307,12 @@
       "version": ">=0.8.0",
       "options": []
     }
+    {
+      "port": "KdeBase-Main",
+      "name": "Qqc2-Desktop-Style",
+      "version": ">=5.0.0 ~ <6.0.0",
+      "options": []
+    }
   ],
   "kernelDependencies": [],
   "options": [

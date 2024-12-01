@@ -294,6 +294,12 @@
       "name": "Kirigami-Addons",
       "version": ">=1.5.0",
       "options": []
+    },
+    {
+      "port": "KdeBase-Main",
+      "name": "Qqc2-Desktop-Style",
+      "version": ">=5.0.0 ~ <6.0.0",
+      "options": []
     }
   ],
   "kernelDependencies": [],
