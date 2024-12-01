@@ -24,6 +24,18 @@
       "name": "Pulseaudio-Qt",
       "version": ">=1.6.1",
       "options": []
+    },
+    {
+      "port": "KdeBase-Main",
+      "name": "Kirigamiaddons",
+      "version": ">=6.0.0 ~ <7.0.0",
+      "options": []
+    },
+    {
+      "port": "KdeBase-Main",
+      "name": "Kitemmodels",
+      "version": ">=6.0.0 ~ <7.0.0",
+      "options": []
     }
   ],
   "kernelDependencies": [],

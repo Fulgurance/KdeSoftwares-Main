@@ -12,6 +12,18 @@
       "name": "Libcanberra",
       "version": ">=0.30.0",
       "options": ["Gstreamer","Pulseaudio"]
+    },
+    {
+      "port": "KdeBase-Main",
+      "name": "Kirigamiaddons",
+      "version": ">=5.0.0 ~ <6.0.0",
+      "options": []
+    },
+    {
+      "port": "KdeBase-Main",
+      "name": "Kitemmodels",
+      "version": ">=5.0.0 ~ <6.0.0",
+      "options": []
     }
   ],
   "kernelDependencies": [],
