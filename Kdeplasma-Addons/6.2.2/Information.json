@@ -54,6 +54,12 @@
       "name": "Kitemmodels",
       "version": ">=6.0.0 ~ <7.0.0",
       "options": []
+    },
+    {
+      "port": "QtLibraries-Main",
+      "name": "Qtquick3d",
+      "version": ">=6.0.0 ~ <7.0.0",
+      "options": []
     }
   ],
   "kernelDependencies": [],
