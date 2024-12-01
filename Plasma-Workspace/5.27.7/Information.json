@@ -57,7 +57,7 @@
     },
     {
       "port": "KdeSoftwares-Main",
-      "name": "Kirigamia-Addons",
+      "name": "Kirigami-Addons",
       "version": ">=5.0.0 ~ <6.0.0",
       "options": []
     },
