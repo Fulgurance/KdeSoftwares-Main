@@ -21,7 +21,7 @@
     },
     {
       "port": "KdeBase-Main",
-      "name": "Kiddletime",
+      "name": "Kidletime",
       "version": ">=6.0.0 ~ <7.0.0",
       "options": []
     }
