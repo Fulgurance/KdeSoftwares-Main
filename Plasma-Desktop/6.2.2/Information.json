@@ -298,7 +298,7 @@
     {
       "port": "KdeBase-Main",
       "name": "Qqc2-Desktop-Style",
-      "version": ">=5.0.0 ~ <6.0.0",
+      "version": ">=6.0.0 ~ <7.0.0",
       "options": []
     },
     {
