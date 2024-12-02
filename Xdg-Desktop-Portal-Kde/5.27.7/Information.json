@@ -7,12 +7,17 @@
   "website": "https://invent.kde.org/plasma/xdg-desktop-portal-kde",
   "installedFiles": [],
   "dependencies": [
-
     {
       "port": "QtLibraries-Main",
       "name": "Qtbase",
       "version": ">=5.0.0 ~ <6.0.0",
       "options": ["Cups"]
+    },
+    {
+      "port": "Utilities-Main",
+      "name": "Xdg-Desktop-Portal",
+      "version": ">=1.18.4",
+      "options": []
     }
   ],
   "kernelDependencies": [],
