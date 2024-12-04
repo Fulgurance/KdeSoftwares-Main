@@ -78,16 +78,25 @@
       "name": "Kxmlgui",
       "version": ">=5.0.0 ~ <6.0.0",
       "options": []
-    },
-    {
-      "port": "KdeSoftwares-Main",
-      "name": "Xdg-Desktop-Portal-Kde",
-      "version": ">=5.0.0 ~ <6.0.0",
-      "options": []
     }
   ],
   "kernelDependencies": [],
-  "options": [],
+  "options": [
+    {
+      "name": "Xdg-Desktop-Portal-Kde",
+      "description": "Enable support for xdg-desktop-portal-kde (required for flatpak)",
+      "active": false,
+      "dependencies": [
+        {
+          "port": "KdeSoftwares-Main",
+          "name": "Xdg-Desktop-Portal-Kde",
+          "version": ">=5.0.0 ~ <6.0.0",
+          "options": []
+        }
+      ],
+      "kernelDependencies": []
+    }
+  ],
   "uniqueDependencies": [],
   "uniqueOptions": [],
   "selectedDependencies": [],
