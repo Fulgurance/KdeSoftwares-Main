@@ -39,7 +39,7 @@
     },
     {
       "port": "KdeBase-Main",
-      "name": "Kpurpose",
+      "name": "Purpose",
       "version": ">6.0.0 ~ <7.0.0",
       "options": []
     },
