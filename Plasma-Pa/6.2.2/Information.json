@@ -26,9 +26,9 @@
       "options": []
     },
     {
-      "port": "KdeBase-Main",
-      "name": "Kirigamiaddons",
-      "version": ">=6.0.0 ~ <7.0.0",
+      "port": "KdeSoftwares-Main",
+      "name": "Kirigami-Addons",
+      "version": ">=1.5.0",
       "options": []
     },
     {

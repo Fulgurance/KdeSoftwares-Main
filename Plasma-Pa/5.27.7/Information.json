@@ -14,9 +14,9 @@
       "options": ["Gstreamer","Pulseaudio"]
     },
     {
-      "port": "KdeBase-Main",
-      "name": "Kirigamiaddons",
-      "version": ">=5.0.0 ~ <6.0.0",
+      "port": "KdeSoftwares-Main",
+      "name": "Kirigami-Addons",
+      "version": ">=1.5.0",
       "options": []
     },
     {
