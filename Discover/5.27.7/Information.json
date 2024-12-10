@@ -6,7 +6,14 @@
   "description": "KDE and Plasma resources management GUI",
   "website": "https://invent.kde.org/plasma/discover",
   "installedFiles": [],
-  "dependencies": [],
+  "dependencies": [
+    {
+      "port": "ProgrammingTools-Main",
+      "name": "Extra-Cmake-Modules",
+      "version": ">=5.0.0 ~ <6.0.0",
+      "options": []
+    }
+  ],
   "kernelDependencies": [],
   "options": [],
   "uniqueDependencies": [],
