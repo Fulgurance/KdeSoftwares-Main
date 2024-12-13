@@ -10,10 +10,10 @@
   "kernelDependencies": [],
   "options": [
     {
-      "port": "KdeBase-Main",
-      "name": "Threadweaver",
-      "version": ">=5.0.0 ~ <6.0.0",
-      "options": []
+        "port": "KdeBase-Main",
+        "name": "Threadweaver",
+        "version": ">=5.0.0 ~ <6.0.0",
+        "options": []
     }
   ],
   "uniqueDependencies": [],
