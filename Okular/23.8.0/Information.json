@@ -6,9 +6,7 @@
   "description": "KDE document viewer",
   "website": "https://invent.kde.org/graphics/okular",
   "installedFiles": [],
-  "dependencies": [],
-  "kernelDependencies": [],
-  "options": [
+  "dependencies": [
     {
         "port": "KdeBase-Main",
         "name": "Threadweaver",
@@ -16,6 +14,8 @@
         "options": []
     }
   ],
+  "kernelDependencies": [],
+  "options": [],
   "uniqueDependencies": [],
   "uniqueOptions": [],
   "selectedDependencies": [],
