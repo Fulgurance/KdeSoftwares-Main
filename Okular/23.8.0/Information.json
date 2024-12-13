@@ -8,7 +8,14 @@
   "installedFiles": [],
   "dependencies": [],
   "kernelDependencies": [],
-  "options": [],
+  "options": [
+    {
+      "port": "KdeBase-Main",
+      "name": "Threadweaver",
+      "version": ">=5.0.0 ~ <6.0.0",
+      "options": []
+    }
+  ],
   "uniqueDependencies": [],
   "uniqueOptions": [],
   "selectedDependencies": [],
