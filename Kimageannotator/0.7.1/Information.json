@@ -1,7 +1,7 @@
 {
   "port": "KdeSoftwares-Main",
   "name": "Kimageannotator",
-  "version": "0.1.1",
+  "version": "0.7.1",
   "architectures": ["x86_64"],
   "description": "Tool for annotating images",
   "website": "https://github.com/ksnip/kImageAnnotator",
