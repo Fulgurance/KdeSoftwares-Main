@@ -14,7 +14,7 @@
       "options": []
     },
     {
-      "port": "KdeSoftwares-Main",
+      "port": "GraphicsLibraries-Main",
       "name": "Poppler",
       "version": ">=23.8.0",
       "options": []
