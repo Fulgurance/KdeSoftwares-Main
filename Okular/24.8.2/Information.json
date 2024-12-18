@@ -12,6 +12,12 @@
       "name": "Threadweaver",
       "version": ">=6.0.0 ~ <7.0.0",
       "options": []
+    },
+    {
+      "port": "KdeSoftwares-Main",
+      "name": "Poppler",
+      "version": ">=23.8.0",
+      "options": []
     }
   ],
   "kernelDependencies": [],
