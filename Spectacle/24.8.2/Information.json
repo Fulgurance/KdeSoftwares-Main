@@ -8,6 +8,12 @@
   "installedFiles": [],
   "dependencies": [
     {
+      "port": "KdeBase-Main",
+      "name": "Prison",
+      "version": ">=6.0.0 ~ <7.0.0",
+      "options": []
+    },
+    {
       "port": "KdeSoftwares-Main",
       "name": "Kpipewire",
       "version": ">=6.0.0 ~ <7.0.0",
