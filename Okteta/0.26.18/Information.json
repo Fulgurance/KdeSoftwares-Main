@@ -8,6 +8,12 @@
   "installedFiles": [],
   "dependencies": [
     {
+      "port": "BaseLibraries-Main",
+      "name": "Qca",
+      "version": ">=2.3.9",
+      "options": ["Qt5"]
+    },
+    {
       "port": "QtLibraries-Main",
       "name": "Qtscript",
       "version": ">=5.0.0 ~ <6.0.0",
