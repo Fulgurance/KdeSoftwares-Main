@@ -12,6 +12,12 @@
       "name": "Kpipewire",
       "version": ">=6.0.0 ~ <7.0.0",
       "options": []
+    },
+    {
+      "port": "GraphicsLibraries-Main",
+      "name": "Opencv",
+      "version": ">=4.10.0",
+      "options": []
     }
   ],
   "kernelDependencies": [],
