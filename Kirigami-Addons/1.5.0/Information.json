@@ -44,8 +44,8 @@
       "options": []
     },
     {
-      "port": "KdeSoftwares-Main",
-      "name": "Kglobalacceld",
+      "port": "KdeBase-Main",
+      "name": "Kglobalaccel",
       "version": ">=6.0.0 ~ <7.0.0",
       "options": []
     }
