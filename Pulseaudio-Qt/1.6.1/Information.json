@@ -18,6 +18,12 @@
       "name": "Qtdeclarative",
       "version": ">=6.0.0 ~ <7.0.0",
       "options": []
+    },
+    {
+      "port": "MultimediaSoftwares-Main",
+      "name": "Pulseaudio",
+      "version": ">=16.1.0",
+      "options": []
     }
   ],
   "kernelDependencies": [],
