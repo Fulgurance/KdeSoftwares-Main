@@ -6,7 +6,14 @@
   "description": "KDE's Terminal Emulator",
   "website": "https://konsole.kde.org/",
   "installedFiles": [],
-  "dependencies": [],
+  "dependencies": [
+    {
+      "port": "ProgrammingTools-Main",
+      "name": "Extra-Cmake-Modules",
+      "version": ">=6.0.0 ~ <7.0.0",
+      "options": []
+    }
+  ],
   "kernelDependencies": [],
   "options": [],
   "uniqueDependencies": [],
