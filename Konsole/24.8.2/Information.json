@@ -117,7 +117,7 @@
     },
     {
       "port": "KdeBase-Main",
-      "name": "Kwidgetsaddons",
+      "name": "Kwidgetaddons",
       "version": ">=6.0.0 ~ <7.0.0",
       "options": []
     },
