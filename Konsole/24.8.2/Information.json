@@ -138,6 +138,12 @@
       "name": "Kpty",
       "version": ">=6.0.0 ~ <7.0.0",
       "options": []
+    },
+    {
+      "port": "BaseLibraries-Main",
+      "name": "Icu",
+      "version": ">=73.2.0",
+      "options": []
     }
   ],
   "kernelDependencies": [],
