@@ -8,7 +8,7 @@
   "installedFiles": [],
   "dependencies": [
     {
-      "port": "NetworkingTools-Main",
+      "port": "NetworkingSoftwares-Main",
       "name": "Openssh",
       "version": ">=9.9.0-p1",
       "options": []

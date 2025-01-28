@@ -104,7 +104,7 @@
       "active": false,
       "dependencies": [
         {
-          "port": "NetworkingTools-Main",
+          "port": "NetworkingSoftwares-Main",
           "name": "Samba",
           "version": ">=4.18.6",
           "options": []

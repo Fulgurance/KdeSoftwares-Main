@@ -8,7 +8,7 @@
   "installedFiles": [],
   "dependencies": [
     {
-      "port": "NetworkingTools-Main",
+      "port": "NetworkingSoftwares-Main",
       "name": "Bluez",
       "version": ">=5.68.0",
       "options": []
