@@ -8,6 +8,12 @@
   "installedFiles": [],
   "dependencies": [
     {
+      "port": "KdeBase-Main",
+      "name": "Kcoreaddons",
+      "version": ">=6.7.0",
+      "options": []
+    },
+    {
       "port": "MultimediaSoftwares-Main",
       "name": "Wireplumber",
       "version": ">=0.5.6",
