@@ -2,6 +2,5 @@
   "name": "KdeSoftwares-Main",
   "url": "https://github.com/Fulgurance/KdeSoftwares-Main",
   "publicKeyUrl": "http://www.slashlinux.io/keyring/Fulgurance.key",
-  "type": "Git",
   "description": "Port that contain all KDE softwares"
 }
