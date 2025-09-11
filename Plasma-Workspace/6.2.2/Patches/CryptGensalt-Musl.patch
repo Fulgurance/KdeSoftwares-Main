@@ -1,0 +1,30 @@
+diff -ur Plasma-Workspace-6.2.2-old/kcms/users/src/user.cpp Plasma-Workspace-6.2.2/kcms/users/src/user.cpp
+--- Plasma-Workspace-6.2.2-old/kcms/users/src/user.cpp	2024-10-22 13:48:59.000000000 +0100
++++ Plasma-Workspace-6.2.2/kcms/users/src/user.cpp	2025-09-11 15:20:43.467185037 +0100
+@@ -19,7 +19,7 @@
+ #include <sys/types.h>
+ #include <unistd.h>
+ 
+-#if HAVE_CRYPT_GENSALT
++#if defined(HAVE_CRYPT_GENSALT) && defined(__GLIBC__)
+ #include <crypt.h>
+ #endif
+ 
+@@ -223,7 +223,7 @@
+     }
+ }
+ 
+-#if !(HAVE_CRYPT_GENSALT)
++#if !defined(__GLIBC__)
+ static QLatin1Char saltCharacter()
+ {
+     static constexpr quint32 letterCount = 64;
+@@ -242,7 +242,7 @@
+ 
+ static QString saltPassword(const QString &plain)
+ {
+-#if HAVE_CRYPT_GENSALT
++#if defined(HAVE_CRYPT_GENSALT) && defined(__GLIBC__)
+     QString salt = QString::fromLocal8Bit(crypt_gensalt(NULL, 0, NULL, 0));
+ #else
+     QString salt;
