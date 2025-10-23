@@ -1,0 +1,19 @@
+PORT
+    KdeSoftwares-Main
+NAME
+    Systemsettings
+VERSION
+    5.27.7
+ARCHITECTURES
+    x86_64
+DESCRIPTION
+    Control center to configure your Plasma Desktop
+WEBSITE
+    https://invent.kde.org/plasma/systemsettings
+DEPENDENCIES
+        @KdeSoftwares-Main:Plasma-Workspace>=5.0.0 ~ <6.0.0
+KERNELDEPENDENCIES
+OPTIONS
+UNIQUEDEPENDENCIES
+UNIQUEOPTIONS
+ALLOWCODEPENDENCIES

@@ -1,0 +1,20 @@
+PORT
+    KdeSoftwares-Main
+NAME
+    Discover
+VERSION
+    5.27.7
+ARCHITECTURES
+    x86_64
+DESCRIPTION
+    KDE and Plasma resources management GUI
+WEBSITE
+    https://invent.kde.org/plasma/discover
+DEPENDENCIES
+        @ProgrammingTools-Main:Extra-Cmake-Modules>=5.0.0 ~ <6.0.0
+        @QtLibraries-Main:Qtbase>=5.0.0 ~ <6.0.0
+KERNELDEPENDENCIES
+OPTIONS
+UNIQUEDEPENDENCIES
+UNIQUEOPTIONS
+ALLOWCODEPENDENCIES

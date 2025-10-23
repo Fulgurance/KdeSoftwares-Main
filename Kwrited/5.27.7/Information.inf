@@ -1,0 +1,24 @@
+PORT
+    KdeSoftwares-Main
+NAME
+    Kwrited
+VERSION
+    5.27.7
+ARCHITECTURES
+    x86_64
+DESCRIPTION
+    Listen to traditional system notifications
+WEBSITE
+    https://invent.kde.org/plasma/kwrited
+DEPENDENCIES
+        @ProgrammingTools-Main:Extra-Cmake-Modules>=5.109.0
+        @QtLibraries-Main:Qtbase>=5.0.0 ~ <6.0.0
+        @KdeBase-Main:Kcoreaddons>=5.0.0 ~ <6.0.0
+        @KdeBase-Main:Ki18n>=5.0.0 ~ <6.0.0
+        @KdeBase-Main:Kpty>=5.0.0 ~ <6.0.0
+        @KdeBase-Main:Knotifications>=5.0.0 ~ <6.0.0
+KERNELDEPENDENCIES
+OPTIONS
+UNIQUEDEPENDENCIES
+UNIQUEOPTIONS
+ALLOWCODEPENDENCIES

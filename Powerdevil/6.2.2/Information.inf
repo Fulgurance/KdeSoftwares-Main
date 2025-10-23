@@ -1,0 +1,19 @@
+PORT
+    KdeSoftwares-Main
+NAME
+    Powerdevil
+VERSION
+    6.2.2
+ARCHITECTURES
+    x86_64
+DESCRIPTION
+    Manages the power consumption settings of a Plasma shell
+WEBSITE
+    https://invent.kde.org/plasma/powerdevil
+DEPENDENCIES
+        @KdeSoftwares-Main:Plasma-Workspace>=6.0.0 ~ <7.0.0
+KERNELDEPENDENCIES
+OPTIONS
+UNIQUEDEPENDENCIES
+UNIQUEOPTIONS
+ALLOWCODEPENDENCIES

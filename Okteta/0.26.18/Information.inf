@@ -1,0 +1,36 @@
+PORT
+    KdeSoftwares-Main
+NAME
+    Okteta
+VERSION
+    0.26.18
+ARCHITECTURES
+    x86_64
+DESCRIPTION
+    Hex editor for viewing and editing the raw data of files
+WEBSITE
+    https://invent.kde.org/utilities/okteta
+DEPENDENCIES
+        @BaseLibraries-Main:Qca>=2.3.9(Qt5)
+        @QtLibraries-Main:Qtscript>=5.0.0 ~ <6.0.0
+        @KdeBase-Main:Kcodecs>=5.0.0 ~ <6.0.0
+        @KdeBase-Main:Kconfigwidgets>=5.0.0 ~ <6.0.0
+        @KdeBase-Main:Ki18n>=5.0.0 ~ <6.0.0
+        @KdeBase-Main:Kbookmarks>=5.0.0 ~ <6.0.0
+        @KdeBase-Main:Kcompletion>=5.0.0 ~ <6.0.0
+        @KdeBase-Main:Kiconthemes>=5.0.0 ~ <6.0.0
+        @KdeBase-Main:Kcmutils>=5.0.0 ~ <6.0.0
+        @KdeBase-Main:Kio>=5.0.0 ~ <6.0.0
+        @KdeBase-Main:Knewstuff>=5.0.0 ~ <6.0.0
+        @KdeBase-Main:Kservice>=5.0.0 ~ <6.0.0
+        @KdeBase-Main:Kwidgetsaddons>=5.0.0 ~ <6.0.0
+        @KdeBase-Main:Kxmlgui>=5.0.0 ~ <6.0.0
+        @KdeBase-Main:Kparts>=5.0.0 ~ <6.0.0
+        @KdeBase-Main:Kcrash>=5.0.0 ~ <6.0.0
+        @KdeBase-Main:Kdbusaddons>=5.0.0 ~ <6.0.0
+        @KdeBase-Main:Kdoctools>=5.0.0 ~ <6.0.0
+KERNELDEPENDENCIES
+OPTIONS
+UNIQUEDEPENDENCIES
+UNIQUEOPTIONS
+ALLOWCODEPENDENCIES

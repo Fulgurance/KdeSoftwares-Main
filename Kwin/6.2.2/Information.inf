@@ -1,0 +1,25 @@
+PORT
+    KdeSoftwares-Main
+NAME
+    Kwin
+VERSION
+    6.2.2
+ARCHITECTURES
+    x86_64
+DESCRIPTION
+    Easy to use, but flexible, X Window Manager and Wayland Compositor
+WEBSITE
+    https://invent.kde.org/plasma/kwin
+DEPENDENCIES
+        @InputDriverLibraries-Main:Libinput>=1.23.0
+        @KdeSoftwares-Main:Kdecoration>=6.0.0 ~ <7.0.0
+        @KdeSoftwares-Main:Kscreenlocker>=6.0.0 ~ <7.0.0
+        @Utilities-Main:Lcms2>=2.14.0
+        @KdeSoftwares-Main:Kglobalacceld>=6.0.0 ~ <7.0.0
+        @GraphicsLibraries-Main:Libdisplay-Info>=0.2.0
+        @KdeBase-Main:Kwayland>=6.0.0 ~ <7.0.0
+KERNELDEPENDENCIES
+OPTIONS
+UNIQUEDEPENDENCIES
+UNIQUEOPTIONS
+ALLOWCODEPENDENCIES

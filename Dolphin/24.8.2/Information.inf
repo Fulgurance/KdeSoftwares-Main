@@ -1,0 +1,19 @@
+PORT
+    KdeSoftwares-Main
+NAME
+    Dolphin
+VERSION
+    24.8.2
+ARCHITECTURES
+    x86_64
+DESCRIPTION
+    KDE's file manager that lets you navigate and browse the contents of your hard drives, USB sticks, SD cards, and more
+WEBSITE
+    https://apps.kde.org/en-gb/dolphin/
+DEPENDENCIES
+        @NetworkingSoftwares-Main:Openssh>=9.9.0-p1
+KERNELDEPENDENCIES
+OPTIONS
+UNIQUEDEPENDENCIES
+UNIQUEOPTIONS
+ALLOWCODEPENDENCIES

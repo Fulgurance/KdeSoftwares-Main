@@ -1,0 +1,23 @@
+PORT
+    KdeSoftwares-Main
+NAME
+    Kwallet-Pam
+VERSION
+    6.2.2
+ARCHITECTURES
+    x86_64
+DESCRIPTION
+    PAM Integration with KWallet adn unlock KWallet when you login
+WEBSITE
+    https://invent.kde.org/plasma/kwallet-pam
+DEPENDENCIES
+        @Utilities-Main:Socat>=1.8.0-r1
+        @ProgrammingTools-Main:Extra-Cmake-Modules>=6.7.0
+        @QtLibraries-Main:Qtbase>=6.0.0 ~ <7.0.0
+        @SecurityLibraries-Main:Libgcrypt>=1.10.2
+        @KdeBase-Main:Kwallet>=6.0.0 ~ <7.0.0
+KERNELDEPENDENCIES
+OPTIONS
+UNIQUEDEPENDENCIES
+UNIQUEOPTIONS
+ALLOWCODEPENDENCIES

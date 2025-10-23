@@ -1,0 +1,31 @@
+PORT
+    KdeSoftwares-Main
+NAME
+    Kinfocenter
+VERSION
+    6.2.2
+ARCHITECTURES
+    x86_64
+DESCRIPTION
+    View information about your computer's hardware
+WEBSITE
+    https://invent.kde.org/plasma/kinfocenter
+DEPENDENCIES
+        @Utilities-Main:Aha>=0.5.1
+        @Utilities-Main:Pciutils>=3.10.0
+        @ProgrammingTools-Main:Extra-Cmake-Modules>=6.7.0
+        @QtLibraries-Main:Qtbase>=6.0.0 ~ <7.0.0
+        @KdeBase-Main:Ki18n>=6.0.0 ~ <7.0.0
+        @KdeBase-Main:Kcoreaddons>=6.0.0 ~ <7.0.0
+        @KdeBase-Main:Kconfig>=6.0.0 ~ <7.0.0
+        @KdeBase-Main:Kdoctools>=6.0.0 ~ <7.0.0
+        @KdeBase-Main:Kservice>=6.0.0 ~ <7.0.0
+        @KdeBase-Main:Solid>=6.0.0 ~ <7.0.0
+        @KdeBase-Main:Kauth>=6.0.0 ~ <7.0.0
+        @KdeBase-Main:Kcmutils>=6.0.0 ~ <7.0.0
+        @KdeBase-Main:Kio>=6.0.0 ~ <7.0.0
+KERNELDEPENDENCIES
+OPTIONS
+UNIQUEDEPENDENCIES
+UNIQUEOPTIONS
+ALLOWCODEPENDENCIES

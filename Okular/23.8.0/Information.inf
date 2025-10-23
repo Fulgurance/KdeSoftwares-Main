@@ -1,0 +1,19 @@
+PORT
+    KdeSoftwares-Main
+NAME
+    Okular
+VERSION
+    23.8.0
+ARCHITECTURES
+    x86_64
+DESCRIPTION
+    KDE document viewer
+WEBSITE
+    https://invent.kde.org/graphics/okular
+DEPENDENCIES
+        @KdeBase-Main:Threadweaver>=5.0.0 ~ <6.0.0
+KERNELDEPENDENCIES
+OPTIONS
+UNIQUEDEPENDENCIES
+UNIQUEOPTIONS
+ALLOWCODEPENDENCIES

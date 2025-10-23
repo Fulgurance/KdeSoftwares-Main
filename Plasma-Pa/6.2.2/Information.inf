@@ -1,0 +1,23 @@
+PORT
+    KdeSoftwares-Main
+NAME
+    Plasma-Pa
+VERSION
+    6.2.2
+ARCHITECTURES
+    x86_64
+DESCRIPTION
+    Plasma applet for audio volume management using PulseAudio
+WEBSITE
+    https://invent.kde.org/plasma/plasma-pa
+DEPENDENCIES
+        @MultimediaLibraries-Main:Libcanberra>=0.30.0(Gstreamer,Pulseaudio)
+        @KdeSoftwares-Main:Libplasma>=6.0.0 ~ <7.0.0
+        @KdeSoftwares-Main:Pulseaudio-Qt>=1.6.1
+        @KdeSoftwares-Main:Kirigami-Addons>=1.5.0
+        @KdeBase-Main:Kitemmodels>=6.0.0 ~ <7.0.0
+KERNELDEPENDENCIES
+OPTIONS
+UNIQUEDEPENDENCIES
+UNIQUEOPTIONS
+ALLOWCODEPENDENCIES

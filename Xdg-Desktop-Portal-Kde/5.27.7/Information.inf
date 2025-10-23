@@ -1,0 +1,20 @@
+PORT
+    KdeSoftwares-Main
+NAME
+    Xdg-Desktop-Portal-Kde
+VERSION
+    5.27.7
+ARCHITECTURES
+    x86_64
+DESCRIPTION
+    A backend implementation for xdg-desktop-portal that is using Qt/KDE
+WEBSITE
+    https://invent.kde.org/plasma/xdg-desktop-portal-kde
+DEPENDENCIES
+        @QtLibraries-Main:Qtbase>=5.0.0 ~ <6.0.0(Cups)
+        @Utilities-Main:Xdg-Desktop-Portal>=1.18.4
+KERNELDEPENDENCIES
+OPTIONS
+UNIQUEDEPENDENCIES
+UNIQUEOPTIONS
+ALLOWCODEPENDENCIES

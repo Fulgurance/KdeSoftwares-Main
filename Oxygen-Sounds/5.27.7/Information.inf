@@ -1,0 +1,18 @@
+PORT
+    KdeSoftwares-Main
+NAME
+    Oxygen-Sounds
+VERSION
+    5.27.7
+ARCHITECTURES
+    x86_64
+DESCRIPTION
+    The Oxygen Sound Theme
+WEBSITE
+    https://invent.kde.org/plasma/oxygen-sounds
+DEPENDENCIES
+KERNELDEPENDENCIES
+OPTIONS
+UNIQUEDEPENDENCIES
+UNIQUEOPTIONS
+ALLOWCODEPENDENCIES

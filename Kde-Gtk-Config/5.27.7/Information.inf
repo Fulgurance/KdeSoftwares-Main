@@ -1,0 +1,26 @@
+PORT
+    KdeSoftwares-Main
+NAME
+    Kde-Gtk-Config
+VERSION
+    5.27.7
+ARCHITECTURES
+    x86_64
+DESCRIPTION
+    Syncs KDE settings to GTK applications
+WEBSITE
+    https://invent.kde.org/plasma/kde-gtk-config
+DEPENDENCIES
+        @GraphicsLibraries-Main:Gsettings-Desktop-Schemas>=44.0.0
+        @GraphicsLibraries-Main:Gtk>=3.24.38
+        @QtLibraries-Main:Qtsvg>=5.0.0 ~ <6.0.0
+        @KdeBase-Main:Kcolorscheme>=5.0.0 ~ <6.0.0
+        @KdeBase-Main:Kcoreaddons>=5.0.0 ~ <6.0.0
+        @KdeBase-Main:Kconfig>=5.0.0 ~ <6.0.0
+        @KdeBase-Main:Kwindowsystem>=5.0.0 ~ <6.0.0
+        @XorgBase-Main:Xsettingsd>=1.0.2
+KERNELDEPENDENCIES
+OPTIONS
+UNIQUEDEPENDENCIES
+UNIQUEOPTIONS
+ALLOWCODEPENDENCIES

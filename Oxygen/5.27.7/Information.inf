@@ -1,0 +1,19 @@
+PORT
+    KdeSoftwares-Main
+NAME
+    Oxygen
+VERSION
+    5.27.7
+ARCHITECTURES
+    x86_64
+DESCRIPTION
+    The Oxygen Style for Qt/KDE Applications
+WEBSITE
+    https://invent.kde.org/plasma/oxygen
+DEPENDENCIES
+        @KdeBase-Main:Frameworkintegration>=5.0.0 ~ <6.0.0
+KERNELDEPENDENCIES
+OPTIONS
+UNIQUEDEPENDENCIES
+UNIQUEOPTIONS
+ALLOWCODEPENDENCIES

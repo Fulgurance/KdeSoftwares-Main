@@ -1,0 +1,25 @@
+PORT
+    KdeSoftwares-Main
+NAME
+    Kgamma
+VERSION
+    6.2.2
+ARCHITECTURES
+    x86_64
+DESCRIPTION
+    Adjust your monitor's gamma settings
+WEBSITE
+    https://invent.kde.org/plasma/kgamma5
+DEPENDENCIES
+        @ProgrammingTools-Main:Extra-Cmake-Modules>=6.7.0
+        @QtLibraries-Main:Qtbase>=6.0.0 ~ <7.0.0
+        @KdeBase-Main:Kconfig>=6.0.0 ~ <7.0.0
+        @KdeBase-Main:Kconfigwidgets>=6.0.0 ~ <7.0.0
+        @KdeBase-Main:Kdoctools>=6.0.0 ~ <7.0.0
+        @KdeBase-Main:Ki18n>=6.0.0 ~ <7.0.0
+        @KdeBase-Main:Kcmutils>=6.0.0 ~ <7.0.0
+KERNELDEPENDENCIES
+OPTIONS
+UNIQUEDEPENDENCIES
+UNIQUEOPTIONS
+ALLOWCODEPENDENCIES

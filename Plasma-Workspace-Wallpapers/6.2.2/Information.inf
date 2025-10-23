@@ -1,0 +1,19 @@
+PORT
+    KdeSoftwares-Main
+NAME
+    Plasma-Workspace-Wallpapers
+VERSION
+    6.2.2
+ARCHITECTURES
+    x86_64
+DESCRIPTION
+    Wallpapers for Plasma Workspaces
+WEBSITE
+    https://invent.kde.org/plasma/plasma-workspace-wallpapers
+DEPENDENCIES
+        @ProgrammingTools-Main:Extra-Cmake-Modules>=6.7.0
+KERNELDEPENDENCIES
+OPTIONS
+UNIQUEDEPENDENCIES
+UNIQUEOPTIONS
+ALLOWCODEPENDENCIES

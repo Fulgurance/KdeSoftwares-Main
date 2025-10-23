@@ -1,0 +1,20 @@
+PORT
+    KdeSoftwares-Main
+NAME
+    Plasma-Browser-Integration
+VERSION
+    6.2.2
+ARCHITECTURES
+    x86_64
+DESCRIPTION
+    Components necessary to integrate browsers into the Plasma Desktop
+WEBSITE
+    https://invent.kde.org/plasma/plasma-browser-integration
+DEPENDENCIES
+        @KdeSoftwares-Main:Plasma-Workspace>=6.0.0 ~ <7.0.0
+        @KdeBase-Main:Purpose>=6.0.0 ~ <7.0.0
+KERNELDEPENDENCIES
+OPTIONS
+UNIQUEDEPENDENCIES
+UNIQUEOPTIONS
+ALLOWCODEPENDENCIES

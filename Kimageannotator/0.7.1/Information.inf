@@ -1,0 +1,19 @@
+PORT
+    KdeSoftwares-Main
+NAME
+    Kimageannotator
+VERSION
+    0.7.1
+ARCHITECTURES
+    x86_64
+DESCRIPTION
+    Tool for annotating images
+WEBSITE
+    https://github.com/ksnip/kImageAnnotator
+DEPENDENCIES
+        @KdeSoftwares-Main:Kcolorpicker>=0.2.0
+KERNELDEPENDENCIES
+OPTIONS
+UNIQUEDEPENDENCIES
+UNIQUEOPTIONS
+ALLOWCODEPENDENCIES

@@ -1,0 +1,18 @@
+PORT
+    KdeSoftwares-Main
+NAME
+    Drkonqi
+VERSION
+    6.2.2
+ARCHITECTURES
+    x86_64
+DESCRIPTION
+    Crash handler for KDE software
+WEBSITE
+    https://invent.kde.org/plasma/drkonqi
+DEPENDENCIES
+KERNELDEPENDENCIES
+OPTIONS
+UNIQUEDEPENDENCIES
+UNIQUEOPTIONS
+ALLOWCODEPENDENCIES

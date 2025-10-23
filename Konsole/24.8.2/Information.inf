@@ -1,0 +1,41 @@
+PORT
+    KdeSoftwares-Main
+NAME
+    Konsole
+VERSION
+    24.8.2
+ARCHITECTURES
+    x86_64
+DESCRIPTION
+    KDE's Terminal Emulator
+WEBSITE
+    https://konsole.kde.org/
+DEPENDENCIES
+        @ProgrammingTools-Main:Extra-Cmake-Modules>=6.0.0 ~ <7.0.0
+        @QtLibraries-Main:Qtmultimedia>=6.0.0 ~ <7.0.0
+        @QtLibraries-Main:Qt5compat>=6.0.0 ~ <7.0.0
+        @KdeBase-Main:Kbookmarks>=6.0.0 ~ <7.0.0
+        @KdeBase-Main:Kconfig>=6.0.0 ~ <7.0.0
+        @KdeBase-Main:Kconfigwidgets>=6.0.0 ~ <7.0.0
+        @KdeBase-Main:Kcoreaddons>=6.0.0 ~ <7.0.0
+        @KdeBase-Main:Kcrash>=6.0.0 ~ <7.0.0
+        @KdeBase-Main:Kguiaddons>=6.0.0 ~ <7.0.0
+        @KdeBase-Main:Ki18n>=6.0.0 ~ <7.0.0
+        @KdeBase-Main:Kiconthemes>=6.0.0 ~ <7.0.0
+        @KdeBase-Main:Kio>=6.0.0 ~ <7.0.0
+        @KdeBase-Main:Knewstuff>=6.0.0 ~ <7.0.0
+        @KdeBase-Main:Knotifications>=6.0.0 ~ <7.0.0
+        @KdeBase-Main:Knotifyconfig>=6.0.0 ~ <7.0.0
+        @KdeBase-Main:Kparts>=6.0.0 ~ <7.0.0
+        @KdeBase-Main:Kservice>=6.0.0 ~ <7.0.0
+        @KdeBase-Main:Ktextwidgets>=6.0.0 ~ <7.0.0
+        @KdeBase-Main:Kwidgetsaddons>=6.0.0 ~ <7.0.0
+        @KdeBase-Main:Kwindowsystem>=6.0.0 ~ <7.0.0
+        @KdeBase-Main:Kxmlgui>=6.0.0 ~ <7.0.0
+        @KdeBase-Main:Kpty>=6.0.0 ~ <7.0.0
+        @BaseLibraries-Main:Icu>=73.2.0
+KERNELDEPENDENCIES
+OPTIONS
+UNIQUEDEPENDENCIES
+UNIQUEOPTIONS
+ALLOWCODEPENDENCIES

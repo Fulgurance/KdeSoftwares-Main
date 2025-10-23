@@ -1,0 +1,21 @@
+PORT
+    KdeSoftwares-Main
+NAME
+    Kpipewire
+VERSION
+    6.2.2
+ARCHITECTURES
+    x86_64
+DESCRIPTION
+    Components relating to Flatpak 'pipewire' use in Plasma.
+WEBSITE
+    https://invent.kde.org/plasma/kpipewire
+DEPENDENCIES
+        @KdeBase-Main:Kcoreaddons>=6.7.0
+        @MultimediaSoftwares-Main:Wireplumber>=0.5.6
+        @MultimediaLibraries-Main:Libva>=2.19.0
+KERNELDEPENDENCIES
+OPTIONS
+UNIQUEDEPENDENCIES
+UNIQUEOPTIONS
+ALLOWCODEPENDENCIES

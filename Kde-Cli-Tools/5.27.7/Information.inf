@@ -1,0 +1,19 @@
+PORT
+    KdeSoftwares-Main
+NAME
+    Kde-Cli-Tools
+VERSION
+    5.27.7
+ARCHITECTURES
+    x86_64
+DESCRIPTION
+    Tools based on KDE Frameworks 5 to better interact with the system
+WEBSITE
+    https://invent.kde.org/plasma/kde-cli-tools
+DEPENDENCIES
+        @KdeSoftwares-Main:Plasma-Workspace>=5.0.0 ~ <6.0.0
+KERNELDEPENDENCIES
+OPTIONS
+UNIQUEDEPENDENCIES
+UNIQUEOPTIONS
+ALLOWCODEPENDENCIES

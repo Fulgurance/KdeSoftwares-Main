@@ -1,0 +1,21 @@
+PORT
+    KdeSoftwares-Main
+NAME
+    Libplasma
+VERSION
+    6.2.2
+ARCHITECTURES
+    x86_64
+DESCRIPTION
+    Plasma library and runtime components
+WEBSITE
+    https://invent.kde.org/plasma/libplasma
+DEPENDENCIES
+        @KdeSoftwares-Main:Plasma-Activities>=6.0.0 ~ <7.0.0
+        @KdeBase-Main:Ksvg>=6.0.0 ~ <7.0.0
+        @KdeBase-Main:Kcmutils>=6.0.0 ~ <7.0.0
+KERNELDEPENDENCIES
+OPTIONS
+UNIQUEDEPENDENCIES
+UNIQUEOPTIONS
+ALLOWCODEPENDENCIES

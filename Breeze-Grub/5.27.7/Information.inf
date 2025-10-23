@@ -1,0 +1,19 @@
+PORT
+    KdeSoftwares-Main
+NAME
+    Breeze-Grub
+VERSION
+    5.27.7
+ARCHITECTURES
+    x86_64
+DESCRIPTION
+    GRUB theme for the Breeze visual style for the Plasma Desktop
+WEBSITE
+    https://invent.kde.org/plasma/breeze-grub
+DEPENDENCIES
+        @KdeSoftwares-Main:Breeze>=5.0.0 ~ <6.0.0
+KERNELDEPENDENCIES
+OPTIONS
+UNIQUEDEPENDENCIES
+UNIQUEOPTIONS
+ALLOWCODEPENDENCIES

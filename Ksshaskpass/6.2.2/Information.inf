@@ -1,0 +1,18 @@
+PORT
+    KdeSoftwares-Main
+NAME
+    Ksshaskpass
+VERSION
+    6.2.2
+ARCHITECTURES
+    x86_64
+DESCRIPTION
+    Ssh-add helper that uses KWallet and KPasswordDialog
+WEBSITE
+    https://invent.kde.org/plasma/ksshaskpass
+DEPENDENCIES
+KERNELDEPENDENCIES
+OPTIONS
+UNIQUEDEPENDENCIES
+UNIQUEOPTIONS
+ALLOWCODEPENDENCIES

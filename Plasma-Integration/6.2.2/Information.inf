@@ -1,0 +1,40 @@
+PORT
+    KdeSoftwares-Main
+NAME
+    Plasma-Integration
+VERSION
+    6.2.2
+ARCHITECTURES
+    x86_64
+DESCRIPTION
+    Qt Platform Theme integration plugins for Plasma Workspaces
+WEBSITE
+    https://invent.kde.org/plasma/plasma-integration
+DEPENDENCIES
+        @Fonts-Main:Noto-Fonts>=0.0.0-20241101
+        @Fonts-Main:Hack-Fonts>=3.3.0
+        @ProgrammingTools-Main:Extra-Cmake-Modules>=6.7.0
+        @KdeBase-Main:Plasma-Wayland-Protocols>=1.10.0
+        @QtLibraries-Main:Qtdeclarative>=6.0.0 ~ <7.0.0
+        @KdeBase-Main:Kconfig>=6.0.0 ~ <7.0.0
+        @KdeBase-Main:Kconfigwidgets>=6.0.0 ~ <7.0.0
+        @KdeBase-Main:Ki18n>=6.0.0 ~ <7.0.0
+        @KdeBase-Main:Kiconthemes>=6.0.0 ~ <7.0.0
+        @KdeBase-Main:Kio>=6.0.0 ~ <7.0.0
+        @KdeBase-Main:Knotifications>=6.0.0 ~ <7.0.0
+        @KdeBase-Main:Kwindowsystem>=6.0.0 ~ <7.0.0
+        @KdeBase-Main:Kguiaddons>=6.0.0 ~ <7.0.0
+        @KdeBase-Main:Kxmlgui>=5.0.0 ~ <7.0.0
+        @KdeBase-Main:Kstatusnotifieritem>=6.0.0 ~ <7.0.0
+KERNELDEPENDENCIES
+OPTIONS
+    name: Xdg-Desktop-Portal-Kde
+    description: Enable support for xdg-desktop-portal-kde (required for flatpak)
+    active: false
+    dependencies:
+        @KdeSoftwares-Main:Xdg-Desktop-Portal-Kde>=6.0.0 ~ <7.0.0
+    kernelDependencies:
+
+UNIQUEDEPENDENCIES
+UNIQUEOPTIONS
+ALLOWCODEPENDENCIES

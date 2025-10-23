@@ -1,0 +1,20 @@
+PORT
+    KdeSoftwares-Main
+NAME
+    Systemsettings
+VERSION
+    6.2.2
+ARCHITECTURES
+    x86_64
+DESCRIPTION
+    Control center to configure your Plasma Desktop
+WEBSITE
+    https://invent.kde.org/plasma/systemsettings
+DEPENDENCIES
+        @QtLibraries-Main:Qtpositioning>=6.0.0 ~ <7.0.0
+        @KdeSoftwares-Main:Plasma-Workspace>=6.0.0 ~ <7.0.0
+KERNELDEPENDENCIES
+OPTIONS
+UNIQUEDEPENDENCIES
+UNIQUEOPTIONS
+ALLOWCODEPENDENCIES

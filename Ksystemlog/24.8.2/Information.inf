@@ -1,0 +1,18 @@
+PORT
+    KdeSoftwares-Main
+NAME
+    Ksystemlog
+VERSION
+    24.8.2
+ARCHITECTURES
+    x86_64
+DESCRIPTION
+    KDE SystemLog Application
+WEBSITE
+    https://invent.kde.org/system/ksystemlog
+DEPENDENCIES
+KERNELDEPENDENCIES
+OPTIONS
+UNIQUEDEPENDENCIES
+UNIQUEOPTIONS
+ALLOWCODEPENDENCIES

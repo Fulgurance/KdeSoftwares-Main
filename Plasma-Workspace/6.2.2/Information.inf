@@ -1,0 +1,36 @@
+PORT
+    KdeSoftwares-Main
+NAME
+    Plasma-Workspace
+VERSION
+    6.2.2
+ARCHITECTURES
+    x86_64
+DESCRIPTION
+    Various components needed to run a Plasma-based environment
+WEBSITE
+    https://invent.kde.org/plasma/plasma-workspace
+DEPENDENCIES
+        @KdeSoftwares-Main:Libksysguard>=6.0.0 ~ <7.0.0
+        @KdeSoftwares-Main:Kwin>=6.0.0 ~ <7.0.0
+        @QtLibraries-Main:Qtpositioning>=6.0.0 ~ <7.0.0
+        @KdeBase-Main:Kparts>=6.0.0 ~ <7.0.0
+        @KdeBase-Main:Knotifyconfig>=6.0.0 ~ <7.0.0
+        @KdeBase-Main:Prison>=6.0.0 ~ <7.0.0
+        @KdeBase-Main:Ktexteditor>=6.0.0 ~ <7.0.0
+        @KdeBase-Main:Kded>=6.0.0 ~ <7.0.0
+        @KdeBase-Main:Baloo>=6.0.0 ~ <7.0.0
+        @KdeSoftwares-Main:Kirigami-Addons>=1.5.0
+        @KdeBase-Main:Kio>=6.0.0 ~ <7.0.0
+KERNELDEPENDENCIES
+OPTIONS
+    name: Kpipewire
+    description: Enable kpipewire support
+    active: true
+    dependencies:
+        @KdeSoftwares-Main:Kpipewire>=6.0.0 ~ <7.0.0
+    kernelDependencies:
+
+UNIQUEDEPENDENCIES
+UNIQUEOPTIONS
+ALLOWCODEPENDENCIES

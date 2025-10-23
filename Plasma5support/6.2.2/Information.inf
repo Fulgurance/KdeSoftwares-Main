@@ -1,0 +1,27 @@
+PORT
+    KdeSoftwares-Main
+NAME
+    Plasma5support
+VERSION
+    6.2.2
+ARCHITECTURES
+    x86_64
+DESCRIPTION
+    Support components for porting from KF5/Qt5 to KF6/Qt6
+WEBSITE
+    https://invent.kde.org/plasma/plasma5support
+DEPENDENCIES
+        @ProgrammingTools-Main:Extra-Cmake-Modules>=6.7.0
+        @QtLibraries-Main:Qtdeclarative>=6.0.0 ~ <7.0.0
+        @KdeBase-Main:Kconfig>=6.0.0 ~ <7.0.0
+        @KdeBase-Main:Kcoreaddons>=6.0.0 ~ <7.0.0
+        @KdeBase-Main:Kguiaddons>=6.0.0 ~ <7.0.0
+        @KdeBase-Main:Knotifications>=6.0.0 ~ <7.0.0
+        @KdeBase-Main:Kservice>=6.0.0 ~ <7.0.0
+        @KdeBase-Main:Kio>=6.0.0 ~ <7.0.0
+        @KdeSoftwares-Main:Libksysguard>=6.0.0 ~ <7.0.0
+KERNELDEPENDENCIES
+OPTIONS
+UNIQUEDEPENDENCIES
+UNIQUEOPTIONS
+ALLOWCODEPENDENCIES

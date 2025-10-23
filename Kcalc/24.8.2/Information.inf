@@ -1,0 +1,18 @@
+PORT
+    KdeSoftwares-Main
+NAME
+    Kcalc
+VERSION
+    24.8.2
+ARCHITECTURES
+    x86_64
+DESCRIPTION
+    Calculator offering everything a scientific calculator does, and more
+WEBSITE
+    https://invent.kde.org/utilities/kcalc
+DEPENDENCIES
+KERNELDEPENDENCIES
+OPTIONS
+UNIQUEDEPENDENCIES
+UNIQUEOPTIONS
+ALLOWCODEPENDENCIES

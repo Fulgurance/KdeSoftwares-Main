@@ -1,0 +1,27 @@
+PORT
+    KdeSoftwares-Main
+NAME
+    Qqc2-Breeze-Style
+VERSION
+    5.27.7
+ARCHITECTURES
+    x86_64
+DESCRIPTION
+    Breeze inspired QQC2 Style
+WEBSITE
+    https://invent.kde.org/plasma/qqc2-breeze-style
+DEPENDENCIES
+        @ProgrammingTools-Main:Extra-Cmake-Modules>=5.109.0
+        @QtLibraries-Main:Qtdeclarative>=5.0.0 ~ <6.0.0
+        @KdeBase-Main:Kguiaddons>=5.0.0 ~ <6.0.0
+        @KdeBase-Main:Kconfig>=5.0.0 ~ <6.0.0
+        @KdeBase-Main:Kirigami>=5.0.0 ~ <6.0.0
+        @KdeBase-Main:Kcoreaddons>=5.0.0 ~ <6.0.0
+        @KdeBase-Main:Kcolorscheme>=5.0.0 ~ <6.0.0
+        @KdeBase-Main:Kquickcharts>=5.0.0 ~ <6.0.0
+        @KdeBase-Main:Kiconthemes>=5.0.0 ~ <6.0.0
+KERNELDEPENDENCIES
+OPTIONS
+UNIQUEDEPENDENCIES
+UNIQUEOPTIONS
+ALLOWCODEPENDENCIES

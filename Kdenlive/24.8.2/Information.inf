@@ -1,0 +1,21 @@
+PORT
+    KdeSoftwares-Main
+NAME
+    Kdenlive
+VERSION
+    24.8.2
+ARCHITECTURES
+    x86_64
+DESCRIPTION
+    Free and open source video editor, based on MLT Framework and KDE Frameworks
+WEBSITE
+    https://invent.kde.org/multimedia/kdenlive
+DEPENDENCIES
+        @MultimediaSoftwares-Main:V4l-Utils>=1.24.1
+        @MultimediaLibraries-Main:Mlt>=7.30.0
+        @QtLibraries-Main:Qtnetworkauth>=6.0.0 ~ <7.0.0
+KERNELDEPENDENCIES
+OPTIONS
+UNIQUEDEPENDENCIES
+UNIQUEOPTIONS
+ALLOWCODEPENDENCIES

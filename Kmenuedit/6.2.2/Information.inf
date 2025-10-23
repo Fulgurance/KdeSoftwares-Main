@@ -1,0 +1,31 @@
+PORT
+    KdeSoftwares-Main
+NAME
+    Kmenuedit
+VERSION
+    6.2.2
+ARCHITECTURES
+    x86_64
+DESCRIPTION
+    Menu Editor for Plasma Workspaces
+WEBSITE
+    https://invent.kde.org/plasma/kmenuedit
+DEPENDENCIES
+        @ProgrammingTools-Main:Extra-Cmake-Modules>=6.7.0
+        @QtLibraries-Main:Qtbase>=6.0.0 ~ <7.0.0
+        @KdeBase-Main:Ki18n>=6.0.0 ~ <7.0.0
+        @KdeBase-Main:Kxmlgui>=6.0.0 ~ <7.0.0
+        @KdeBase-Main:Kdbusaddons>=6.0.0 ~ <7.0.0
+        @KdeBase-Main:Kdoctools>=6.0.0 ~ <7.0.0
+        @KdeBase-Main:Kiconthemes>=6.0.0 ~ <7.0.0
+        @KdeBase-Main:Kio>=6.0.0 ~ <7.0.0
+        @KdeBase-Main:Kitemviews>=6.0.0 ~ <7.0.0
+        @KdeBase-Main:Sonnet>=6.0.0 ~ <7.0.0
+        @KdeSoftwares-Main:Kglobalacceld>=6.0.0 ~ <7.0.0
+        @KdeBase-Main:Kwindowsystem>=6.0.0 ~ <7.0.0
+        @KdeBase-Main:Kcrash>=6.0.0 ~ <7.0.0
+KERNELDEPENDENCIES
+OPTIONS
+UNIQUEDEPENDENCIES
+UNIQUEOPTIONS
+ALLOWCODEPENDENCIES

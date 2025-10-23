@@ -1,0 +1,19 @@
+PORT
+    KdeSoftwares-Main
+NAME
+    Milou
+VERSION
+    5.27.7
+ARCHITECTURES
+    x86_64
+DESCRIPTION
+    A dedicated search application built on top of Baloo
+WEBSITE
+    https://invent.kde.org/plasma/milou
+DEPENDENCIES
+        @KdeBase-Main:Krunner>=5.0.0 ~ <6.0.0
+KERNELDEPENDENCIES
+OPTIONS
+UNIQUEDEPENDENCIES
+UNIQUEOPTIONS
+ALLOWCODEPENDENCIES
