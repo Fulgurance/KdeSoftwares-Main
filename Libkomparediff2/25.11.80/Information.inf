@@ -1,0 +1,18 @@
+PORT
+    KdeSoftwares-Main
+NAME
+    Libkomparediff2
+VERSION
+    25.11.80
+ARCHITECTURES
+    x86_64
+DESCRIPTION
+    Library to compare files and strings, used in Kompare and KDevelop
+WEBSITE
+    https://github.com/KDE/libkomparediff2
+DEPENDENCIES
+KERNELDEPENDENCIES
+OPTIONS
+UNIQUEDEPENDENCIES
+UNIQUEOPTIONS
+ALLOWCODEPENDENCIES

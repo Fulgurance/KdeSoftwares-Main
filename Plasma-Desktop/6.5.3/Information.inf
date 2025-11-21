@@ -1,0 +1,139 @@
+PORT
+    KdeSoftwares-Main
+NAME
+    Plasma-Desktop
+VERSION
+    6.5.3
+ARCHITECTURES
+    x86_64
+DESCRIPTION
+    The Plasma KDE workspace
+WEBSITE
+    https://github.com/KDE/plasma-desktop
+DEPENDENCIES
+        @Utilities-Main:Pciutils>=3.10.0
+        @Utilities-Main:Accountsservice>=23.13.9
+        @Utilities-Main:Udisks>=2.10.0
+        @GraphicsLibraries-Main:Gtk>=3.24.38
+        @KdeBase-Main:Kuserfeedback>=1.2.0
+        @SecurityLibraries-Main:Libpwquality>=1.4.5
+        @BaseLibraries-Main:Libqalculate>=4.7.0
+        @XorgBase-Main:Libxkbcommon>=1.5.0
+        @GraphicsLibraries-Main:Mesa>=23.1.6(Wayland-Protocols)
+        @BaseLibraries-Main:Qca>=2.3.7
+        @BaseLibraries-Main:Sassc>=3.6.2
+        @MultimediaLibraries-Main:Taglib>=1.13.1
+        @XorgBase-Main:Xcb-Util-Cursor>=0.1.4
+        @KdeSoftwares-Main:Kdecoration>=6.0.0 ~ <7.0.0
+        @KdeSoftwares-Main:Libkscreen>=6.0.0 ~ <7.0.0
+        @KdeSoftwares-Main:Libksysguard>=6.0.0 ~ <7.0.0
+        @KdeSoftwares-Main:Breeze>=6.0.0 ~ <7.0.0
+        @KdeSoftwares-Main:Breeze-Gtk>=6.0.0 ~ <7.0.0
+        @KdeSoftwares-Main:Layer-Shell-Qt>=6.0.0 ~ <7.0.0
+        @KdeSoftwares-Main:Kscreenlocker>=6.0.0 ~ <7.0.0
+        @KdeSoftwares-Main:Oxygen>=6.0.0 ~ <7.0.0
+        @KdeSoftwares-Main:Kinfocenter>=6.0.0 ~ <7.0.0
+        @KdeSoftwares-Main:Kwin>=6.0.0 ~ <7.0.0
+        @KdeSoftwares-Main:Plasma-Workspace>=6.0.0 ~ <7.0.0
+        @KdeSoftwares-Main:Kdecoration>=6.0.0 ~ <7.0.0
+        @KdeSoftwares-Main:Kde-Gtk-Config>=6.0.0 ~ <7.0.0
+        @KdeSoftwares-Main:Kmenuedit>=6.0.0 ~ <7.0.0
+        @KdeSoftwares-Main:Kscreen>=6.0.0 ~ <7.0.0
+        @KdeSoftwares-Main:Kwallet-Pam>=6.0.0 ~ <7.0.0
+        @KdeSoftwares-Main:Kwrited>=6.0.0 ~ <7.0.0
+        @KdeSoftwares-Main:Milou>=6.0.0 ~ <7.0.0
+        @KdeSoftwares-Main:Plasma-Workspace-Wallpapers>=6.0.0 ~ <7.0.0
+        @KdeSoftwares-Main:Powerdevil>=6.0.0 ~ <7.0.0
+        @KdeSoftwares-Main:Kdeplasma-Addons>=6.0.0 ~ <7.0.0
+        @KdeSoftwares-Main:Kgamma>=6.0.0 ~ <7.0.0
+        @KdeSoftwares-Main:Kactivitymanagerd>=6.0.0 ~ <7.0.0
+        @KdeSoftwares-Main:Plasma-Integration>=6.0.0 ~ <7.0.0
+        @KdeSoftwares-Main:Plasma-Browser-Integration>=6.0.0 ~ <7.0.0
+        @KdeSoftwares-Main:Kde-Cli-Tools>=6.0.0 ~ <7.0.0
+        @KdeSoftwares-Main:Systemsettings>=6.0.0 ~ <7.0.0
+        @KdeSoftwares-Main:Qqc2-Breeze-Style>=6.0.0 ~ <7.0.0
+        @KdeSoftwares-Main:Ksystemstats>=6.0.0 ~ <7.0.0
+        @KdeSoftwares-Main:Kio-Extras>=23.8.0
+        @MultimediaLibraries-Main:Sound-Theme-Freedesktop>=0.8.0
+        @KdeSoftwares-Main:Ocean-Sound-Theme>=6.0.0 ~ <7.0.0
+        @Utilities-Main:Xdg-Utils>=1.1.3
+        @Utilities-Main:Xdg-User-Dirs>=0.8.0
+        @KdeSoftwares-Main:Kirigami-Addons>=1.5.0
+        @KdeBase-Main:Qqc2-Desktop-Style>=6.0.0 ~ <7.0.0
+        @KdeSoftwares-Main:Kaccounts-Integration>=24.8.2
+KERNELDEPENDENCIES
+OPTIONS
+    name: Kwayland-Integration
+    description: Enable wayland support for qt5 applications
+    active: true
+    dependencies:
+        @KdeSoftwares-Main:Kwayland-Integration>=6.0.0 ~ <7.0.0
+    kernelDependencies:
+
+    name: Xf86-Input-Libinput
+    description: Enable xf86-input-libinput support for mouse and touchpad kcm
+    active: true
+    dependencies:
+        @InputDrivers-Main:Xf86-Input-Libinput>=1.5.0
+    kernelDependencies:
+
+    name: Linux-Pam
+    description: Enable linux-pam support
+    active: true
+    dependencies:
+        @SecuritySoftwares-Main:Linux-Pam>=1.5.3
+    kernelDependencies:
+
+    name: Bluedevil
+    description: Enable bluedevil support
+    active: true
+    dependencies:
+        @KdeSoftwares-Main:Bluedevil>=6.0.0 ~ <7.0.0
+    kernelDependencies:
+
+    name: NetworkManager
+    description: Enable networkmanager support
+    active: true
+    dependencies:
+        @KdeSoftwares-Main:Plasma-Nm>=6.0.0 ~ <7.0.0
+    kernelDependencies:
+
+    name: ModemManager
+    description: Enable modemmanager support
+    active: true
+    dependencies:
+        @KdeBase-Main:ModemManager-Qt>=6.0.0 ~ <7.0.0
+    kernelDependencies:
+
+    name: Pulseaudio
+    description: Enable pulseaudio support
+    active: true
+    dependencies:
+        @MultimediaSoftwares-Main:Pulseaudio>=16.1.0
+        @KdeSoftwares-Main:Plasma-Pa>=6.0.0 ~ <7.0.0
+    kernelDependencies:
+
+    name: Phonon-Backend-Vlc
+    description: Enable vlc backend support
+    active: true
+    dependencies:
+        @MultimediaLibraries-Main:Phonon-Backend-Vlc>=0.11.3
+    kernelDependencies:
+
+    name: Sddm
+    description: Enable sddm support
+    active: true
+    dependencies:
+        @DisplayManagers-Main:Sddm>=0.20.0
+        @KdeSoftwares-Main:Sddm-Kcm>=6.0.0 ~ <7.0.0
+    kernelDependencies:
+
+    name: Emojier
+    description: Enable emojier support
+    active: false
+    dependencies:
+    kernelDependencies:
+
+UNIQUEDEPENDENCIES
+UNIQUEOPTIONS
+ALLOWCODEPENDENCIES

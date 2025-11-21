@@ -9,7 +9,7 @@ ARCHITECTURES
 DESCRIPTION
     Syncs KDE settings to GTK applications
 WEBSITE
-    https://invent.kde.org/plasma/kde-gtk-config
+    https://github.com/KDE/kde-gtk-config
 DEPENDENCIES
         @GraphicsLibraries-Main:Gsettings-Desktop-Schemas>=44.0.0
         @GraphicsLibraries-Main:Gtk>=3.0.0 ~ <4.0.0

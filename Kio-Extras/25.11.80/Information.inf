@@ -1,0 +1,56 @@
+PORT
+    KdeSoftwares-Main
+NAME
+    Kio-Extras
+VERSION
+    25.11.80
+ARCHITECTURES
+    x86_64
+DESCRIPTION
+    Additional components to increase the functionality of KIO
+WEBSITE
+    https://github.com/KDE/kio-extras
+DEPENDENCIES
+        @NetworkingLibraries-Main:Kdsoap>=2.1.1
+        @BaseLibraries-Main:Qcoro>=0.11.0
+        @KdeSoftwares-Main:Plasma-Activities>=6.0.0 ~ <7.0.0
+        @KdeSoftwares-Main:Plasma-Activities-Stats>=6.0.0 ~ <7.0.0
+        @KdeBase-Main:Kconfigwidgets>=6.0.0 ~ <7.0.0
+        @KdeBase-Main:Kdnssd>=6.0.0 ~ <7.0.0
+        @KdeBase-Main:Kio>=6.0.0 ~ <7.0.0
+        @KdeBase-Main:Syntax-Highlighting>=6.0.0 ~ <7.0.0
+        @KdeBase-Main:Kcmutils>=6.0.0 ~ <7.0.0
+        @KdeBase-Main:Ktextwidgets>=6.0.0 ~ <7.0.0
+KERNELDEPENDENCIES
+OPTIONS
+    name: Libssh
+    description: Enable libssh support
+    active: true
+    dependencies:
+        @NetworkingLibraries-Main:Libssh>=0.11.1
+    kernelDependencies:
+
+    name: Libtirpc
+    description: Enable libtirpc support
+    active: false
+    dependencies:
+        @NetworkingLibraries-Main:Libtirpc>=1.3.3
+    kernelDependencies:
+
+    name: Samba
+    description: Enable samba support
+    active: false
+    dependencies:
+        @NetworkingSoftwares-Main:Samba>=4.18.6
+    kernelDependencies:
+
+    name: Taglib
+    description: Enable taglib support
+    active: false
+    dependencies:
+        @MultimediaLibraries-Main:Taglib>=1.13.1
+    kernelDependencies:
+
+UNIQUEDEPENDENCIES
+UNIQUEOPTIONS
+ALLOWCODEPENDENCIES

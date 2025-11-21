@@ -9,7 +9,7 @@ ARCHITECTURES
 DESCRIPTION
     KDE SystemLog Application
 WEBSITE
-    https://invent.kde.org/system/ksystemlog
+    https://github.com/KDE/ksystemlog
 DEPENDENCIES
 KERNELDEPENDENCIES
 OPTIONS

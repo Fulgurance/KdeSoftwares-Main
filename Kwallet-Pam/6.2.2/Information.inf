@@ -9,7 +9,7 @@ ARCHITECTURES
 DESCRIPTION
     PAM Integration with KWallet adn unlock KWallet when you login
 WEBSITE
-    https://invent.kde.org/plasma/kwallet-pam
+    https://github.com/KDE/kwallet-pam
 DEPENDENCIES
         @Utilities-Main:Socat>=1.8.0-r1
         @ProgrammingTools-Main:Extra-Cmake-Modules>=6.7.0

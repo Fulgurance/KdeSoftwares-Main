@@ -9,7 +9,7 @@ ARCHITECTURES
 DESCRIPTION
     Free and open source video editor, based on MLT Framework and KDE Frameworks
 WEBSITE
-    https://invent.kde.org/multimedia/kdenlive
+    https://github.com/KDE/kdenlive
 DEPENDENCIES
         @MultimediaSoftwares-Main:V4l-Utils>=1.24.1
         @MultimediaLibraries-Main:Mlt>=7.30.0

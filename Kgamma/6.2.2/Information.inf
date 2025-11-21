@@ -9,7 +9,7 @@ ARCHITECTURES
 DESCRIPTION
     Adjust your monitor's gamma settings
 WEBSITE
-    https://invent.kde.org/plasma/kgamma5
+    https://github.com/KDE/kgamma
 DEPENDENCIES
         @ProgrammingTools-Main:Extra-Cmake-Modules>=6.7.0
         @QtLibraries-Main:Qtbase>=6.0.0 ~ <7.0.0

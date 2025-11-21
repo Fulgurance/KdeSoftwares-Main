@@ -9,7 +9,7 @@ ARCHITECTURES
 DESCRIPTION
     An interface for monitoring system sensors, process information and other system resources
 WEBSITE
-    https://invent.kde.org/plasma/plasma-systemmonitor
+    https://github.com/KDE/plasma-systemmonitor
 DEPENDENCIES
 KERNELDEPENDENCIES
 OPTIONS

@@ -9,7 +9,7 @@ ARCHITECTURES
 DESCRIPTION
     Ssh-add helper that uses KWallet and KPasswordDialog
 WEBSITE
-    https://invent.kde.org/plasma/ksshaskpass
+    https://github.com/KDE/ksshaskpass
 DEPENDENCIES
 KERNELDEPENDENCIES
 OPTIONS

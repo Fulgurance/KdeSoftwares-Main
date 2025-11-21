@@ -1,0 +1,19 @@
+PORT
+    KdeSoftwares-Main
+NAME
+    Breeze-Grub
+VERSION
+    6.5.3
+ARCHITECTURES
+    x86_64
+DESCRIPTION
+    GRUB theme for the Breeze visual style for the Plasma Desktop
+WEBSITE
+    https://github.com/KDE/breeze-grub
+DEPENDENCIES
+        @KdeSoftwares-Main:Breeze>=6.0.0 ~ <7.0.0
+KERNELDEPENDENCIES
+OPTIONS
+UNIQUEDEPENDENCIES
+UNIQUEOPTIONS
+ALLOWCODEPENDENCIES

@@ -1,0 +1,30 @@
+PORT
+    KdeSoftwares-Main
+NAME
+    Libksysguard
+VERSION
+    6.5.3
+ARCHITECTURES
+    x86_64
+DESCRIPTION
+    Library to retrieve information on the current status of computer hardware
+WEBSITE
+    https://github.com/KDE/libksysguard
+DEPENDENCIES
+        @NetworkingLibraries-Main:Libnl>=3.7.0
+        @Utilities-Main:Lm-Sensors>=3.6.0
+        @ProgrammingTools-Main:Extra-Cmake-Modules>=6.7.0
+        @QtLibraries-Main:Qtdeclarative>=6.0.0 ~ <7.0.0
+        @KdeBase-Main:Kcoreaddons>=6.0.0 ~ <7.0.0
+        @KdeBase-Main:Kconfig>=6.0.0 ~ <7.0.0
+        @KdeBase-Main:Ki18n>=6.0.0 ~ <7.0.0
+        @KdeBase-Main:Kauth>=6.0.0 ~ <7.0.0
+        @KdeBase-Main:Kservice>=6.0.0 ~ <7.0.0
+        @KdeBase-Main:Kpackage>=6.0.0 ~ <7.0.0
+        @KdeBase-Main:Knewstuff>=6.0.0 ~ <7.0.0
+        @BaseLibraries-Main:Libcap>=2.69.0
+KERNELDEPENDENCIES
+OPTIONS
+UNIQUEDEPENDENCIES
+UNIQUEOPTIONS
+ALLOWCODEPENDENCIES

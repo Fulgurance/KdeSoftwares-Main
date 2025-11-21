@@ -9,7 +9,7 @@ ARCHITECTURES
 DESCRIPTION
     Breeze widget theme for GTK 2 and 3
 WEBSITE
-    https://invent.kde.org/plasma/breeze-gtk
+    https://github.com/KDE/breeze-gtk
 DEPENDENCIES
         @GraphicsLibraries-Main:Gtk>=3.24.38
         @BaseLibraries-Main:Pycairo>=1.24.0

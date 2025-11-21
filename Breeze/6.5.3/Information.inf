@@ -1,0 +1,29 @@
+PORT
+    KdeSoftwares-Main
+NAME
+    Breeze
+VERSION
+    6.5.3
+ARCHITECTURES
+    x86_64
+DESCRIPTION
+    Artwork, styles and assets for the Breeze visual style for the Plasma Desktop
+WEBSITE
+    https://github.com/KDE/breeze
+DEPENDENCIES
+        @ProgrammingTools-Main:Extra-Cmake-Modules>=6.7.0
+        @QtLibraries-Main:Qtbase>=6.0.0 ~ <7.0.0
+        @KdeBase-Main:Ki18n>=6.0.0 ~ <7.0.0
+        @KdeBase-Main:Kcoreaddons>=6.0.0 ~ <7.0.0
+        @KdeBase-Main:Kconfig>=6.0.0 ~ <7.0.0
+        @KdeBase-Main:Kguiaddons>=6.0.0 ~ <7.0.0
+        @KdeBase-Main:Kcolorscheme>=6.0.0 ~ <7.0.0
+        @KdeBase-Main:Kiconthemes>=6.0.0 ~ <7.0.0
+        @KdeBase-Main:Kwindowsystem>=6.0.0 ~ <7.0.0
+        @KdeBase-Main:Kcmutils>=6.0.0 ~ <7.0.0
+        @KdeBase-Main:Frameworkintegration>=6.0.0 ~ <7.0.0
+KERNELDEPENDENCIES
+OPTIONS
+UNIQUEDEPENDENCIES
+UNIQUEOPTIONS
+ALLOWCODEPENDENCIES

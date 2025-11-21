@@ -9,7 +9,7 @@ ARCHITECTURES
 DESCRIPTION
     Library to retrieve information on the current status of computer hardware
 WEBSITE
-    https://invent.kde.org/plasma/libksysguard
+    https://github.com/KDE/libksysguard
 DEPENDENCIES
         @NetworkingLibraries-Main:Libnl>=3.7.0
         @Utilities-Main:Lm-Sensors>=3.6.0

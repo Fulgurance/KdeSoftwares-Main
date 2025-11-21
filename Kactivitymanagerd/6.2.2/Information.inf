@@ -9,7 +9,7 @@ ARCHITECTURES
 DESCRIPTION
     System service to manage user's activities, track the usage patterns etc
 WEBSITE
-    https://invent.kde.org/plasma/kactivitymanagerd
+    https://github.com/KDE/kactivitymanagerd
 DEPENDENCIES
         @ProgrammingTools-Main:Extra-Cmake-Modules>=6.7.0
         @QtLibraries-Main:Qtbase>=6.0.0 ~ <7.0.0

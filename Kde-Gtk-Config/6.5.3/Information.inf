@@ -1,0 +1,27 @@
+PORT
+    KdeSoftwares-Main
+NAME
+    Kde-Gtk-Config
+VERSION
+    6.5.3
+ARCHITECTURES
+    x86_64
+DESCRIPTION
+    Syncs KDE settings to GTK applications
+WEBSITE
+    https://github.com/KDE/kde-gtk-config
+DEPENDENCIES
+        @GraphicsLibraries-Main:Gsettings-Desktop-Schemas>=44.0.0
+        @GraphicsLibraries-Main:Gtk>=3.0.0 ~ <4.0.0
+        @GraphicsLibraries-Main:Gtk>=4.0.0 ~ <5.0.0
+        @QtLibraries-Main:Qtsvg>=6.0.0 ~ <7.0.0
+        @KdeBase-Main:Kcolorscheme>=6.0.0 ~ <7.0.0
+        @KdeBase-Main:Kcoreaddons>=6.0.0 ~ <7.0.0
+        @KdeBase-Main:Kconfig>=6.0.0 ~ <7.0.0
+        @KdeBase-Main:Kwindowsystem>=6.0.0 ~ <7.0.0
+        @XorgBase-Main:Xsettingsd>=1.0.2
+KERNELDEPENDENCIES
+OPTIONS
+UNIQUEDEPENDENCIES
+UNIQUEOPTIONS
+ALLOWCODEPENDENCIES

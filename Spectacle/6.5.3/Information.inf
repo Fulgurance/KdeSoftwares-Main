@@ -1,0 +1,21 @@
+PORT
+    KdeSoftwares-Main
+NAME
+    Spectacle
+VERSION
+    6.5.3
+ARCHITECTURES
+    x86_64
+DESCRIPTION
+    Screenshot capture utility
+WEBSITE
+    https://github.com/KDE/spectacle
+DEPENDENCIES
+        @KdeBase-Main:Prison>=6.0.0 ~ <7.0.0
+        @KdeSoftwares-Main:Kpipewire>=6.0.0 ~ <7.0.0
+        @GraphicsLibraries-Main:Opencv>=4.10.0
+KERNELDEPENDENCIES
+OPTIONS
+UNIQUEDEPENDENCIES
+UNIQUEOPTIONS
+ALLOWCODEPENDENCIES

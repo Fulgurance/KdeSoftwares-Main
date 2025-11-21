@@ -9,7 +9,7 @@ ARCHITECTURES
 DESCRIPTION
     Library to compare files and strings, used in Kompare and KDevelop
 WEBSITE
-    https://invent.kde.org/sdk/libkomparediff2
+    https://github.com/KDE/libkomparediff2
 DEPENDENCIES
 KERNELDEPENDENCIES
 OPTIONS

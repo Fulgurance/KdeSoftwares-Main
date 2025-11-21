@@ -9,7 +9,7 @@ ARCHITECTURES
 DESCRIPTION
     Plasma library and runtime components
 WEBSITE
-    https://invent.kde.org/plasma/libplasma
+    https://github.com/KDE/libplasma
 DEPENDENCIES
         @KdeSoftwares-Main:Plasma-Activities>=6.0.0 ~ <7.0.0
         @KdeBase-Main:Ksvg>=6.0.0 ~ <7.0.0

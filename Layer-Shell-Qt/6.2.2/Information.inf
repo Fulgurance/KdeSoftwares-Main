@@ -9,7 +9,7 @@ ARCHITECTURES
 DESCRIPTION
     Qt component to allow applications to make use of the Wayland wl-layer-shell protocol
 WEBSITE
-    https://invent.kde.org/plasma/layer-shell-qt
+    https://github.com/KDE/layer-shell-qt
 DEPENDENCIES
         @ProgrammingTools-Main:Extra-Cmake-Modules>=6.7.0
         @QtLibraries-Main:Qtwayland>=6.0.0 ~ <7.0.0

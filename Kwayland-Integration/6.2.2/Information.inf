@@ -9,7 +9,7 @@ ARCHITECTURES
 DESCRIPTION
     Integration plugins for various KDE frameworks for the Wayland windowing system
 WEBSITE
-    https://invent.kde.org/plasma/kwayland-integration
+    https://github.com/KDE/kwayland-integration
 DEPENDENCIES
         @QtLibraries-Main:Qtwayland>=5.0.0 ~ <6.0.0
         @KdeBase-Main:Kwindowsystem>=5.0.0 ~ <6.0.0

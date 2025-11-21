@@ -9,7 +9,7 @@ ARCHITECTURES
 DESCRIPTION
     Hex editor for viewing and editing the raw data of files
 WEBSITE
-    https://invent.kde.org/utilities/okteta
+    https://github.com/KDE/okteta
 DEPENDENCIES
         @BaseLibraries-Main:Qca>=2.3.9(Qt5)
         @QtLibraries-Main:Qtscript>=5.0.0 ~ <6.0.0

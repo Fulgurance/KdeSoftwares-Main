@@ -9,7 +9,7 @@ ARCHITECTURES
 DESCRIPTION
     Additional components to increase the functionality of KIO
 WEBSITE
-    https://invent.kde.org/network/kio-extras
+    https://github.com/KDE/kio-extras
 DEPENDENCIES
         @NetworkingLibraries-Main:Kdsoap>=2.1.1
         @BaseLibraries-Main:Qcoro>=0.11.0

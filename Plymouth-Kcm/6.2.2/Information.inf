@@ -9,7 +9,7 @@ ARCHITECTURES
 DESCRIPTION
     KCM to manage the Plymouth (Boot) theme
 WEBSITE
-    https://invent.kde.org/plasma/plymouth-kcm
+    https://github.com/KDE/plymouth-kcm
 DEPENDENCIES
 KERNELDEPENDENCIES
 OPTIONS

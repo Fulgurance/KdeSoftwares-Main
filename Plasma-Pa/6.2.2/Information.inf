@@ -9,7 +9,7 @@ ARCHITECTURES
 DESCRIPTION
     Plasma applet for audio volume management using PulseAudio
 WEBSITE
-    https://invent.kde.org/plasma/plasma-pa
+    https://github.com/KDE/plasma-pa
 DEPENDENCIES
         @MultimediaLibraries-Main:Libcanberra>=0.30.0(Gstreamer,Pulseaudio)
         @KdeSoftwares-Main:Libplasma>=6.0.0 ~ <7.0.0

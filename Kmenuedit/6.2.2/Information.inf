@@ -9,7 +9,7 @@ ARCHITECTURES
 DESCRIPTION
     Menu Editor for Plasma Workspaces
 WEBSITE
-    https://invent.kde.org/plasma/kmenuedit
+    https://github.com/KDE/kmenuedit
 DEPENDENCIES
         @ProgrammingTools-Main:Extra-Cmake-Modules>=6.7.0
         @QtLibraries-Main:Qtbase>=6.0.0 ~ <7.0.0

@@ -1,0 +1,18 @@
+PORT
+    KdeSoftwares-Main
+NAME
+    Plasma-Nano
+VERSION
+    6.5.3
+ARCHITECTURES
+    x86_64
+DESCRIPTION
+    A minimal Plasma shell package
+WEBSITE
+    https://github.com/KDE/plasma-nano
+DEPENDENCIES
+KERNELDEPENDENCIES
+OPTIONS
+UNIQUEDEPENDENCIES
+UNIQUEOPTIONS
+ALLOWCODEPENDENCIES

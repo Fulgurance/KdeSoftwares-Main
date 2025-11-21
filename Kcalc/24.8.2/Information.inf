@@ -9,7 +9,7 @@ ARCHITECTURES
 DESCRIPTION
     Calculator offering everything a scientific calculator does, and more
 WEBSITE
-    https://invent.kde.org/utilities/kcalc
+    https://github.com/KDE/kcalc
 DEPENDENCIES
 KERNELDEPENDENCIES
 OPTIONS

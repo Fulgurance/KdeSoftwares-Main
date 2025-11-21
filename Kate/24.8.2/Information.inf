@@ -9,7 +9,7 @@ ARCHITECTURES
 DESCRIPTION
     Multi-document, multi-view text editor by KDE
 WEBSITE
-    https://apps.kde.org/en-gb/kate/
+    https://github.com/KDE/kate
 DEPENDENCIES
 KERNELDEPENDENCIES
 OPTIONS

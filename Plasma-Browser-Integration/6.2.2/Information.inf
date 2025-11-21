@@ -9,7 +9,7 @@ ARCHITECTURES
 DESCRIPTION
     Components necessary to integrate browsers into the Plasma Desktop
 WEBSITE
-    https://invent.kde.org/plasma/plasma-browser-integration
+    https://github.com/KDE/plasma-browser-integration
 DEPENDENCIES
         @KdeSoftwares-Main:Plasma-Workspace>=6.0.0 ~ <7.0.0
         @KdeBase-Main:Purpose>=6.0.0 ~ <7.0.0

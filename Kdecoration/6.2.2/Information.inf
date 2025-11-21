@@ -9,7 +9,7 @@ ARCHITECTURES
 DESCRIPTION
     Plugin based library to create window decorations
 WEBSITE
-    https://api.kde.org/plasma/kdecoration/html/index.html
+    https://github.com/KDE/kdecoration
 DEPENDENCIES
         @ProgrammingTools-Main:Extra-Cmake-Modules>=6.7.0
         @QtLibraries-Main:Qtbase>=6.0.0 ~ <7.0.0

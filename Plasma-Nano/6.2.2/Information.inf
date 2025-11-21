@@ -9,7 +9,7 @@ ARCHITECTURES
 DESCRIPTION
     A minimal Plasma shell package
 WEBSITE
-    https://invent.kde.org/plasma/plasma-nano
+    https://github.com/KDE/plasma-nano
 DEPENDENCIES
 KERNELDEPENDENCIES
 OPTIONS

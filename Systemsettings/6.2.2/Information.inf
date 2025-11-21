@@ -9,7 +9,7 @@ ARCHITECTURES
 DESCRIPTION
     Control center to configure your Plasma Desktop
 WEBSITE
-    https://invent.kde.org/plasma/systemsettings
+    https://github.com/KDE/systemsettings
 DEPENDENCIES
         @QtLibraries-Main:Qtpositioning>=6.0.0 ~ <7.0.0
         @KdeSoftwares-Main:Plasma-Workspace>=6.0.0 ~ <7.0.0

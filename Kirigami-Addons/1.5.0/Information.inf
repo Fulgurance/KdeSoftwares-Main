@@ -9,7 +9,7 @@ ARCHITECTURES
 DESCRIPTION
     Add-ons for the Kirigami framework
 WEBSITE
-    https://invent.kde.org/libraries/kirigami-addons
+    https://github.com/KDE/kirigami-addons
 DEPENDENCIES
         @ProgrammingTools-Main:Extra-Cmake-Modules>=6.7.0
         @QtLibraries-Main:Qtdeclarative>=6.0.0 ~ <7.0.0

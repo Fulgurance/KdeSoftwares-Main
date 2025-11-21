@@ -9,7 +9,7 @@ ARCHITECTURES
 DESCRIPTION
     Library and components for secure lock screen architecture
 WEBSITE
-    https://invent.kde.org/plasma/kscreenlocker
+    https://github.com/KDE/kscreenlocker
 DEPENDENCIES
         @KdeSoftwares-Main:Layer-Shell-Qt>=6.0.0 ~ <7.0.0
         @KdeSoftwares-Main:Libplasma>=6.0.0 ~ <7.0.0

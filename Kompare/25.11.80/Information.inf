@@ -1,0 +1,19 @@
+PORT
+    KdeSoftwares-Main
+NAME
+    Kompare
+VERSION
+    25.11.80
+ARCHITECTURES
+    x86_64
+DESCRIPTION
+    GUI front-end program that enables differences between source files to be viewed and merged
+WEBSITE
+    https://github.com/KDE/kompare
+DEPENDENCIES
+        @KdeSoftwares-Main:Libkomparediff2>=23.8.0
+KERNELDEPENDENCIES
+OPTIONS
+UNIQUEDEPENDENCIES
+UNIQUEOPTIONS
+ALLOWCODEPENDENCIES

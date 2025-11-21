@@ -9,7 +9,7 @@ ARCHITECTURES
 DESCRIPTION
     Qt Platform Theme integration plugins for Plasma Workspaces
 WEBSITE
-    https://invent.kde.org/plasma/plasma-integration
+    https://github.com/KDE/plasma-integration
 DEPENDENCIES
         @Fonts-Main:Noto-Fonts>=0.0.0-20241101
         @Fonts-Main:Hack-Fonts>=3.3.0

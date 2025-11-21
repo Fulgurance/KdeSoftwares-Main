@@ -1,0 +1,18 @@
+PORT
+    KdeSoftwares-Main
+NAME
+    Plasma-Disks
+VERSION
+    6.5.3
+ARCHITECTURES
+    x86_64
+DESCRIPTION
+    Monitors S.M.A.R.T. capable devices for imminent failure
+WEBSITE
+    https://github.com/KDE/plasma-disks
+DEPENDENCIES
+KERNELDEPENDENCIES
+OPTIONS
+UNIQUEDEPENDENCIES
+UNIQUEOPTIONS
+ALLOWCODEPENDENCIES

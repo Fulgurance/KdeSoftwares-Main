@@ -9,7 +9,7 @@ ARCHITECTURES
 DESCRIPTION
     Crash handler for KDE software
 WEBSITE
-    https://invent.kde.org/plasma/drkonqi
+    https://github.com/KDE/drkonqi
 DEPENDENCIES
 KERNELDEPENDENCIES
 OPTIONS

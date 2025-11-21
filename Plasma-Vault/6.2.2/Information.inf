@@ -9,7 +9,7 @@ ARCHITECTURES
 DESCRIPTION
     Plasma applet and services for creating encrypted vaults
 WEBSITE
-    https://invent.kde.org/plasma/plasma-vault
+    https://github.com/KDE/plasma-vault
 DEPENDENCIES
 KERNELDEPENDENCIES
 OPTIONS

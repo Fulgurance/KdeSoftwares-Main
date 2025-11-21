@@ -9,7 +9,7 @@ ARCHITECTURES
 DESCRIPTION
     Various components needed to run a Plasma-based environment
 WEBSITE
-    https://invent.kde.org/plasma/plasma-workspace
+    https://github.com/KDE/plasma-workspace
 DEPENDENCIES
         @KdeSoftwares-Main:Libksysguard>=6.0.0 ~ <7.0.0
         @KdeSoftwares-Main:Kwin>=6.0.0 ~ <7.0.0

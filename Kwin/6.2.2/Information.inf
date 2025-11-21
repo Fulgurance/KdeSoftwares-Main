@@ -9,7 +9,7 @@ ARCHITECTURES
 DESCRIPTION
     Easy to use, but flexible, X Window Manager and Wayland Compositor
 WEBSITE
-    https://invent.kde.org/plasma/kwin
+    https://github.com/KDE/kwin
 DEPENDENCIES
         @InputDriverLibraries-Main:Libinput>=1.23.0
         @KdeSoftwares-Main:Kdecoration>=6.0.0 ~ <7.0.0

@@ -1,0 +1,24 @@
+PORT
+    KdeSoftwares-Main
+NAME
+    Kate
+VERSION
+    25.11.80
+ARCHITECTURES
+    x86_64
+DESCRIPTION
+    Multi-document, multi-view text editor by KDE
+WEBSITE
+    https://github.com/KDE/kate
+DEPENDENCIES
+KERNELDEPENDENCIES
+OPTIONS
+    name: MultipleInstances
+    description: Allow kate to edit files with mutiple instances
+    active: true
+    dependencies:
+    kernelDependencies:
+
+UNIQUEDEPENDENCIES
+UNIQUEOPTIONS
+ALLOWCODEPENDENCIES

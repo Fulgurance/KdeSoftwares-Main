@@ -9,7 +9,7 @@ ARCHITECTURES
 DESCRIPTION
     KDE's file manager that lets you navigate and browse the contents of your hard drives, USB sticks, SD cards, and more
 WEBSITE
-    https://apps.kde.org/en-gb/dolphin/
+    https://github.com/KDE/dolphin
 DEPENDENCIES
         @NetworkingSoftwares-Main:Openssh>=9.9.0-p1
 KERNELDEPENDENCIES

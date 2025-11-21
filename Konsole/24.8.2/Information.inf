@@ -9,7 +9,7 @@ ARCHITECTURES
 DESCRIPTION
     KDE's Terminal Emulator
 WEBSITE
-    https://konsole.kde.org/
+    https://github.com/KDE/konsole
 DEPENDENCIES
         @ProgrammingTools-Main:Extra-Cmake-Modules>=6.0.0 ~ <7.0.0
         @QtLibraries-Main:Qtmultimedia>=6.0.0 ~ <7.0.0

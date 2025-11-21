@@ -9,7 +9,7 @@ ARCHITECTURES
 DESCRIPTION
     Plasma integration for controlling Thunderbolt devices
 WEBSITE
-    https://invent.kde.org/plasma/plasma-thunderbolt
+    https://github.com/KDE/plasma-thunderbolt
 DEPENDENCIES
 KERNELDEPENDENCIES
 OPTIONS

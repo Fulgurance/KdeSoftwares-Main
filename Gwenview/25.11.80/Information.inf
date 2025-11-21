@@ -1,0 +1,20 @@
+PORT
+    KdeSoftwares-Main
+NAME
+    Gwenview
+VERSION
+    25.11.80
+ARCHITECTURES
+    x86_64
+DESCRIPTION
+    Image viewer by KDE
+WEBSITE
+    https://github.com/KDE/gwenview
+DEPENDENCIES
+        @MultimediaLibraries-Main:Exiv2>=0.28.0
+        @KdeSoftwares-Main:Kimageannotator>=0.6.1
+KERNELDEPENDENCIES
+OPTIONS
+UNIQUEDEPENDENCIES
+UNIQUEOPTIONS
+ALLOWCODEPENDENCIES

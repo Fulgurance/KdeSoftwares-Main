@@ -9,7 +9,7 @@ ARCHITECTURES
 DESCRIPTION
     Plasma applet written in QML for managing network connections
 WEBSITE
-    https://invent.kde.org/plasma/plasma-nm
+    https://github.com/KDE/plasma-nm
 DEPENDENCIES
         @KdeBase-Main:NetworkManager-Qt>=6.0.0 ~ <7.0.0
         @KdeBase-Main:ModemManager-Qt>=6.0.0 ~ <7.0.0

@@ -9,7 +9,7 @@ ARCHITECTURES
 DESCRIPTION
     KDE and Plasma resources management GUI
 WEBSITE
-    https://invent.kde.org/plasma/discover
+    https://github.com/KDE/discover
 DEPENDENCIES
         @ProgrammingTools-Main:Extra-Cmake-Modules>=6.0.0 ~ <7.0.0
         @QtLibraries-Main:Qtbase>=6.0.0 ~ <7.0.0

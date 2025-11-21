@@ -1,0 +1,21 @@
+PORT
+    KdeSoftwares-Main
+NAME
+    Pulseaudio-Qt
+VERSION
+    1.7.0
+ARCHITECTURES
+    x86_64
+DESCRIPTION
+    Qt bindings for libpulse
+WEBSITE
+    https://github.com/KDE/pulseaudio-qt
+DEPENDENCIES
+        @ProgrammingTools-Main:Extra-Cmake-Modules>=6.7.0
+        @QtLibraries-Main:Qtdeclarative>=6.0.0 ~ <7.0.0
+        @MultimediaSoftwares-Main:Pulseaudio>=16.1.0
+KERNELDEPENDENCIES
+OPTIONS
+UNIQUEDEPENDENCIES
+UNIQUEOPTIONS
+ALLOWCODEPENDENCIES

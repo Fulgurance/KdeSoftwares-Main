@@ -9,7 +9,7 @@ ARCHITECTURES
 DESCRIPTION
     Control Panel for your system firewall
 WEBSITE
-    https://invent.kde.org/plasma/plasma-firewall
+    https://github.com/KDE/plasma-firewall
 DEPENDENCIES
 KERNELDEPENDENCIES
 OPTIONS

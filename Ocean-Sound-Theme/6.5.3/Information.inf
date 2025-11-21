@@ -1,0 +1,20 @@
+PORT
+    KdeSoftwares-Main
+NAME
+    Ocean-Sound-Theme
+VERSION
+    6.5.3
+ARCHITECTURES
+    x86_64
+DESCRIPTION
+    Ocean Sound Theme for Plasma
+WEBSITE
+    https://github.com/KDE/ocean-sound-theme
+DEPENDENCIES
+        @ProgrammingTools-Main:Extra-Cmake-Modules>=6.7.0
+        @QtLibraries-Main:Qtbase>=6.0.0 ~ <7.0.0
+KERNELDEPENDENCIES
+OPTIONS
+UNIQUEDEPENDENCIES
+UNIQUEOPTIONS
+ALLOWCODEPENDENCIES

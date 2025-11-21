@@ -1,0 +1,19 @@
+PORT
+    KdeSoftwares-Main
+NAME
+    Ksystemstats
+VERSION
+    6.5.3
+ARCHITECTURES
+    x86_64
+DESCRIPTION
+    A plugin based system monitoring daemon
+WEBSITE
+    https://github.com/KDE/ksystemstats
+DEPENDENCIES
+        @KdeSoftwares-Main:Libksysguard>=6.0.0 ~ <7.0.0
+KERNELDEPENDENCIES
+OPTIONS
+UNIQUEDEPENDENCIES
+UNIQUEOPTIONS
+ALLOWCODEPENDENCIES

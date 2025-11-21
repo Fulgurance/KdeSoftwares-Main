@@ -9,7 +9,7 @@ ARCHITECTURES
 DESCRIPTION
     User-friendly and fully-featured IRC client
 WEBSITE
-    https://invent.kde.org/network/konversation
+    https://github.com/KDE/konversation
 DEPENDENCIES
 KERNELDEPENDENCIES
 OPTIONS

@@ -9,7 +9,7 @@ ARCHITECTURES
 DESCRIPTION
     Online account management system and its Plasma integration components
 WEBSITE
-    https://invent.kde.org/network/kaccounts-integration
+    https://github.com/KDE/kaccounts-integration
 DEPENDENCIES
         @KdeBase-Main:Kcmutils>=6.0.0 ~ <7.0.0
         @KdeBase-Main:Ki18n>=6.0.0 ~ <7.0.0

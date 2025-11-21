@@ -9,7 +9,7 @@ ARCHITECTURES
 DESCRIPTION
     The Plasma KDE workspace
 WEBSITE
-    https://kde.org/plasma-desktop/
+    https://github.com/KDE/plasma-desktop
 DEPENDENCIES
         @Utilities-Main:Pciutils>=3.10.0
         @Utilities-Main:Accountsservice>=23.13.9

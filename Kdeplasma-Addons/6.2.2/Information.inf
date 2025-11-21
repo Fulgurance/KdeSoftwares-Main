@@ -9,7 +9,7 @@ ARCHITECTURES
 DESCRIPTION
     All kind of add-ons to improve your Plasma experience
 WEBSITE
-    https://invent.kde.org/plasma/kdeplasma-addons
+    https://github.com/KDE/kdeplasma-addons
 DEPENDENCIES
         @KdeSoftwares-Main:Plasma5support>=6.0.0 ~ <7.0.0
         @KdeSoftwares-Main:Libplasma>=6.0.0 ~ <7.0.0

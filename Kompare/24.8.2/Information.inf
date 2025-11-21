@@ -9,7 +9,7 @@ ARCHITECTURES
 DESCRIPTION
     GUI front-end program that enables differences between source files to be viewed and merged
 WEBSITE
-    https://apps.kde.org/en-gb/kompare/
+    https://github.com/KDE/kompare
 DEPENDENCIES
         @KdeSoftwares-Main:Libkomparediff2>=23.8.0
 KERNELDEPENDENCIES

@@ -1,0 +1,18 @@
+PORT
+    KdeSoftwares-Main
+NAME
+    Plasma-Firewall
+VERSION
+    6.5.3
+ARCHITECTURES
+    x86_64
+DESCRIPTION
+    Control Panel for your system firewall
+WEBSITE
+    https://github.com/KDE/plasma-firewall
+DEPENDENCIES
+KERNELDEPENDENCIES
+OPTIONS
+UNIQUEDEPENDENCIES
+UNIQUEOPTIONS
+ALLOWCODEPENDENCIES

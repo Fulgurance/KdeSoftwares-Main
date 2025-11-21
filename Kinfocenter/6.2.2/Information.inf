@@ -9,7 +9,7 @@ ARCHITECTURES
 DESCRIPTION
     View information about your computer's hardware
 WEBSITE
-    https://invent.kde.org/plasma/kinfocenter
+    https://github.com/KDE/kinfocenter
 DEPENDENCIES
         @Utilities-Main:Aha>=0.5.1
         @Utilities-Main:Pciutils>=3.10.0

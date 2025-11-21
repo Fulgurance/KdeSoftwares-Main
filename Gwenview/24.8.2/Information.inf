@@ -9,7 +9,7 @@ ARCHITECTURES
 DESCRIPTION
     Image viewer by KDE
 WEBSITE
-    https://invent.kde.org/graphics/gwenview
+    https://github.com/KDE/gwenview
 DEPENDENCIES
         @MultimediaLibraries-Main:Exiv2>=0.28.0
         @KdeSoftwares-Main:Kimageannotator>=0.6.1

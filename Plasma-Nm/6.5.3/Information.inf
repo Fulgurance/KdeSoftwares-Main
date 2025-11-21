@@ -1,0 +1,22 @@
+PORT
+    KdeSoftwares-Main
+NAME
+    Plasma-Nm
+VERSION
+    6.5.3
+ARCHITECTURES
+    x86_64
+DESCRIPTION
+    Plasma applet written in QML for managing network connections
+WEBSITE
+    https://github.com/KDE/plasma-nm
+DEPENDENCIES
+        @KdeBase-Main:NetworkManager-Qt>=6.0.0 ~ <7.0.0
+        @KdeBase-Main:ModemManager-Qt>=6.0.0 ~ <7.0.0
+        @KdeSoftwares-Main:Libplasma>=6.0.0 ~ <7.0.0
+        @KdeBase-Main:Prison>=6.0.0 ~ <7.0.0
+KERNELDEPENDENCIES
+OPTIONS
+UNIQUEDEPENDENCIES
+UNIQUEOPTIONS
+ALLOWCODEPENDENCIES

@@ -9,7 +9,7 @@ ARCHITECTURES
 DESCRIPTION
     Manages the power consumption settings of a Plasma shell
 WEBSITE
-    https://invent.kde.org/plasma/powerdevil
+    https://github.com/KDE/powerdevil
 DEPENDENCIES
         @KdeSoftwares-Main:Plasma-Workspace>=6.0.0 ~ <7.0.0
 KERNELDEPENDENCIES

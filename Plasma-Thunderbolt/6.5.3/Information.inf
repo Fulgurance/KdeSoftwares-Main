@@ -1,0 +1,18 @@
+PORT
+    KdeSoftwares-Main
+NAME
+    Plasma-Thunderbolt
+VERSION
+    6.5.3
+ARCHITECTURES
+    x86_64
+DESCRIPTION
+    Plasma integration for controlling Thunderbolt devices
+WEBSITE
+    https://github.com/KDE/plasma-thunderbolt
+DEPENDENCIES
+KERNELDEPENDENCIES
+OPTIONS
+UNIQUEDEPENDENCIES
+UNIQUEOPTIONS
+ALLOWCODEPENDENCIES

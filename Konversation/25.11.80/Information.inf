@@ -1,0 +1,18 @@
+PORT
+    KdeSoftwares-Main
+NAME
+    Konversation
+VERSION
+    25.11.80
+ARCHITECTURES
+    x86_64
+DESCRIPTION
+    User-friendly and fully-featured IRC client
+WEBSITE
+    https://github.com/KDE/konversation
+DEPENDENCIES
+KERNELDEPENDENCIES
+OPTIONS
+UNIQUEDEPENDENCIES
+UNIQUEOPTIONS
+ALLOWCODEPENDENCIES

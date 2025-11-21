@@ -9,7 +9,7 @@ ARCHITECTURES
 DESCRIPTION
     A backend implementation for xdg-desktop-portal that is using Qt/KDE
 WEBSITE
-    https://invent.kde.org/plasma/xdg-desktop-portal-kde
+    https://github.com/KDE/xdg-desktop-portal-kde
 DEPENDENCIES
         @QtLibraries-Main:Qtbase>=6.0.0 ~ <7.0.0(Cups)
         @Utilities-Main:Xdg-Desktop-Portal>=1.18.4

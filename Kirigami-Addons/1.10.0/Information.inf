@@ -1,0 +1,25 @@
+PORT
+    KdeSoftwares-Main
+NAME
+    Kirigami-Addons
+VERSION
+    1.10.0
+ARCHITECTURES
+    x86_64
+DESCRIPTION
+    Add-ons for the Kirigami framework
+WEBSITE
+    https://github.com/KDE/kirigami-addons
+DEPENDENCIES
+        @ProgrammingTools-Main:Extra-Cmake-Modules>=6.7.0
+        @QtLibraries-Main:Qtdeclarative>=6.0.0 ~ <7.0.0
+        @KdeBase-Main:Kirigami>=6.0.0 ~ <7.0.0
+        @KdeBase-Main:Ki18n>=6.0.0 ~ <7.0.0
+        @KdeBase-Main:Kconfig>=6.0.0 ~ <7.0.0
+        @KdeBase-Main:Kcoreaddons>=6.0.0 ~ <7.0.0
+        @KdeBase-Main:Kglobalaccel>=6.0.0 ~ <7.0.0
+KERNELDEPENDENCIES
+OPTIONS
+UNIQUEDEPENDENCIES
+UNIQUEOPTIONS
+ALLOWCODEPENDENCIES

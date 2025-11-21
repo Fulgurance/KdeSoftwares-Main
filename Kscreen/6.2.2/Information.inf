@@ -9,7 +9,7 @@ ARCHITECTURES
 DESCRIPTION
     KDE's screen management software
 WEBSITE
-    https://invent.kde.org/plasma/kscreen
+    https://github.com/KDE/kscreen
 DEPENDENCIES
         @KdeSoftwares-Main:Libplasma>=6.0.0 ~ <7.0.0
         @QtLibraries-Main:Qtsensors>=6.0.0 ~ <7.0.0

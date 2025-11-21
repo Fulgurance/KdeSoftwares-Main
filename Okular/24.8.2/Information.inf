@@ -9,7 +9,7 @@ ARCHITECTURES
 DESCRIPTION
     KDE document viewer
 WEBSITE
-    https://invent.kde.org/graphics/okular
+    https://github.com/KDE/okular
 DEPENDENCIES
         @KdeBase-Main:Threadweaver>=6.0.0 ~ <7.0.0
         @GraphicsLibraries-Main:Poppler>=23.8.0

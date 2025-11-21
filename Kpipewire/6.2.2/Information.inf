@@ -9,7 +9,7 @@ ARCHITECTURES
 DESCRIPTION
     Components relating to Flatpak 'pipewire' use in Plasma.
 WEBSITE
-    https://invent.kde.org/plasma/kpipewire
+    https://github.com/KDE/kpipewire
 DEPENDENCIES
         @KdeBase-Main:Kcoreaddons>=6.7.0
         @MultimediaSoftwares-Main:Wireplumber>=0.5.6

@@ -9,7 +9,7 @@ ARCHITECTURES
 DESCRIPTION
     Easy-to-use paint program
 WEBSITE
-    https://invent.kde.org/graphics/kolourpaint
+    https://github.com/KDE/kolourpaint
 DEPENDENCIES
 KERNELDEPENDENCIES
 OPTIONS

@@ -9,7 +9,7 @@ ARCHITECTURES
 DESCRIPTION
     Tools based on KDE Frameworks 6 to better interact with the system
 WEBSITE
-    https://invent.kde.org/plasma/kde-cli-tools
+    https://github.com/KDE/kde-cli-tools
 DEPENDENCIES
         @KdeSoftwares-Main:Plasma-Workspace>=6.0.0 ~ <7.0.0
 KERNELDEPENDENCIES

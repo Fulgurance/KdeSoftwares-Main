@@ -9,7 +9,7 @@ ARCHITECTURES
 DESCRIPTION
     Listen to traditional system notifications
 WEBSITE
-    https://invent.kde.org/plasma/kwrited
+    https://github.com/KDE/kwrited
 DEPENDENCIES
         @ProgrammingTools-Main:Extra-Cmake-Modules>=6.7.0
         @QtLibraries-Main:Qtbase>=6.0.0 ~ <7.0.0

@@ -9,7 +9,7 @@ ARCHITECTURES
 DESCRIPTION
     The Oxygen Style for Qt/KDE Applications
 WEBSITE
-    https://invent.kde.org/plasma/oxygen
+    https://github.com/KDE/oxygen
 DEPENDENCIES
         @KdeSoftwares-Main:Libplasma>=6.0.0 ~ <7.0.0
         @KdeBase-Main:Frameworkintegration>=6.0.0 ~ <7.0.0

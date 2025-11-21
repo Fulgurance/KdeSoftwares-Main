@@ -1,0 +1,22 @@
+PORT
+    KdeSoftwares-Main
+NAME
+    Plasma-Activities-Stats
+VERSION
+    6.5.3
+ARCHITECTURES
+    x86_64
+DESCRIPTION
+    A library for accessing the usage data collected by the activities system
+WEBSITE
+    https://github.com/KDE/plasma-activities-stats
+DEPENDENCIES
+        @ProgrammingTools-Main:Extra-Cmake-Modules>=6.7.0
+        @QtLibraries-Main:Qtbase>=6.0.0 ~ <7.0.0
+        @KdeBase-Main:Kconfig>=6.0.0 ~ <7.0.0
+        @KdeSoftwares-Main:Plasma-Activities>=6.0.0 ~ <7.0.0
+KERNELDEPENDENCIES
+OPTIONS
+UNIQUEDEPENDENCIES
+UNIQUEOPTIONS
+ALLOWCODEPENDENCIES

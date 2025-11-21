@@ -9,7 +9,7 @@ ARCHITECTURES
 DESCRIPTION
     Plymouth theme for the Breeze visual style for the Plasma Desktop
 WEBSITE
-    https://invent.kde.org/plasma/breeze-plymouth
+    https://github.com/KDE/breeze-plymouth
 DEPENDENCIES
         @KdeSoftwares-Main:Breeze>=6.0.0 ~ <7.0.0
 KERNELDEPENDENCIES

@@ -1,0 +1,21 @@
+PORT
+    KdeSoftwares-Main
+NAME
+    Kscreenlocker
+VERSION
+    6.5.3
+ARCHITECTURES
+    x86_64
+DESCRIPTION
+    Library and components for secure lock screen architecture
+WEBSITE
+    https://github.com/KDE/kscreenlocker
+DEPENDENCIES
+        @KdeSoftwares-Main:Layer-Shell-Qt>=6.0.0 ~ <7.0.0
+        @KdeSoftwares-Main:Libplasma>=6.0.0 ~ <7.0.0
+        @KdeBase-Main:Kidletime>=6.0.0 ~ <7.0.0
+KERNELDEPENDENCIES
+OPTIONS
+UNIQUEDEPENDENCIES
+UNIQUEOPTIONS
+ALLOWCODEPENDENCIES

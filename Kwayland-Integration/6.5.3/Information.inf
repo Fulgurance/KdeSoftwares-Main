@@ -1,0 +1,21 @@
+PORT
+    KdeSoftwares-Main
+NAME
+    Kwayland-Integration
+VERSION
+    6.5.3
+ARCHITECTURES
+    x86_64
+DESCRIPTION
+    Integration plugins for various KDE frameworks for the Wayland windowing system
+WEBSITE
+    https://github.com/KDE/kwayland-integration
+DEPENDENCIES
+        @QtLibraries-Main:Qtwayland>=5.0.0 ~ <6.0.0
+        @KdeBase-Main:Kwindowsystem>=5.0.0 ~ <6.0.0
+        @KdeBase-Main:Kwayland>=5.0.0 ~ <6.0.0
+KERNELDEPENDENCIES
+OPTIONS
+UNIQUEDEPENDENCIES
+UNIQUEOPTIONS
+ALLOWCODEPENDENCIES

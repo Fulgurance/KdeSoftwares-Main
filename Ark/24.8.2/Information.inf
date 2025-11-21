@@ -9,7 +9,7 @@ ARCHITECTURES
 DESCRIPTION
     Graphical file compression/decompression utility with support for multiple formats
 WEBSITE
-    https://apps.kde.org/en-gb/ark/
+    https://github.com/KDE/ark
 DEPENDENCIES
         @BaseLibraries-Main:Libarchive>=3.7.1
 KERNELDEPENDENCIES
