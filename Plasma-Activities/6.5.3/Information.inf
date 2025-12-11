@@ -15,6 +15,7 @@ DEPENDENCIES
         @QtLibraries-Main:Qtdeclarative>=6.0.0 ~ <7.0.0
         @BaseLibraries-Main:Boost>=1.83.0
         @KdeBase-Main:Kconfig>=6.0.0 ~ <7.0.0
+        @KdeBase-Main:Kcoreaddons>=6.0.0 ~ <7.0.0
 KERNELDEPENDENCIES
 OPTIONS
 UNIQUEDEPENDENCIES
