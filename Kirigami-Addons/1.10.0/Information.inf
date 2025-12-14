@@ -18,6 +18,7 @@ DEPENDENCIES
         @KdeBase-Main:Kconfig>=6.0.0 ~ <7.0.0
         @KdeBase-Main:Kcoreaddons>=6.0.0 ~ <7.0.0
         @KdeBase-Main:Kglobalaccel>=6.0.0 ~ <7.0.0
+        @KdeBase-Main:Kiconthemes>=6.0.0 ~ <7.0.0
 KERNELDEPENDENCIES
 OPTIONS
 UNIQUEDEPENDENCIES
