@@ -13,6 +13,7 @@ class Target < ISM::Software
                                     -DBUILD_TESTING=OFF             \
                                     -DBUILD_KCM_MOUSE_X11=#{option("Xf86-Input-Libinput") ? "ON" : "OFF"}       \
                                     -DBUILD_KCM_TOUCHPAD_X11=#{option("Xf86-Input-Libinput") ? "ON" : "OFF"}    \
+                                    -DBUILD_KCM_TABLET=OFF          \
                                     -Wno-dev                        \
                                     ..",
                         path:       buildDirectoryPath)
