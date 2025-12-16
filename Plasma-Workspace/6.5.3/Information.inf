@@ -14,6 +14,7 @@ DEPENDENCIES
         @KdeSoftwares-Main:Libksysguard>=6.0.0 ~ <7.0.0
         @KdeSoftwares-Main:Kwin>=6.0.0 ~ <7.0.0
         @QtLibraries-Main:Qtpositioning>=6.0.0 ~ <7.0.0
+        @QtLibraries-Main:Qtlocation>=6.0.0 ~ <7.0.0
         @KdeBase-Main:Kparts>=6.0.0 ~ <7.0.0
         @KdeBase-Main:Knotifyconfig>=6.0.0 ~ <7.0.0
         @KdeBase-Main:Prison>=6.0.0 ~ <7.0.0
