@@ -18,6 +18,7 @@ DEPENDENCIES
         @KdeSoftwares-Main:Kglobalacceld>=6.0.0 ~ <7.0.0
         @GraphicsLibraries-Main:Libdisplay-Info>=0.2.0
         @KdeBase-Main:Kwayland>=6.0.0 ~ <7.0.0
+        @KdeSoftwares-Main:Knighttime>=6.0.0 ~ <7.0.0
 KERNELDEPENDENCIES
 OPTIONS
 UNIQUEDEPENDENCIES

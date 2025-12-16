@@ -1,0 +1,23 @@
+PORT
+    KdeSoftwares-Main
+NAME
+    Knighttime
+VERSION
+    6.5.3
+ARCHITECTURES
+    x86_64
+DESCRIPTION
+    Helpers for scheduling the dark-light cycle
+WEBSITE
+    https://invent.kde.org/plasma/knighttime
+DEPENDENCIES
+        @KdeBase-Main:Kconfig>=6.0.0 ~ <7.0.0
+        @KdeBase-Main:Kcoreaddons>=6.0.0 ~ <7.0.0
+        @KdeBase-Main:Kdbusaddons>=6.0.0 ~ <7.0.0
+        @KdeBase-Main:Kholidays>=6.0.0 ~ <7.0.0
+        @KdeBase-Main:Ki18n>=6.0.0 ~ <7.0.0
+KERNELDEPENDENCIES
+OPTIONS
+UNIQUEDEPENDENCIES
+UNIQUEOPTIONS
+ALLOWCODEPENDENCIES
